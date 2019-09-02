@@ -1,10 +1,10 @@
 {
-  "name": "@lana/b2c-mapp-ui-icons",
+  "name": "@lana/b2c-mapp-ui-assets",
   "version": "1.0.0",
-  "description": "Lana B2C Microapp UI Icon sets for general use.",
+  "description": "Lana B2C Microapp UI Assets, icons and images for general use.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lana/b2c-mapp-ui-icons.git"
+    "url": "git+https://github.com/lana/b2c-mapp-ui-assets.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -14,9 +14,9 @@
     "dist/*"
   ],
   "bugs": {
-    "url": "https://github.com/lana/b2c-mapp-ui-icons/issues"
+    "url": "https://github.com/lana/b2c-mapp-ui-assets/issues"
   },
-  "homepage": "https://github.com/lana/b2c-mapp-ui-icons#readme",
+  "homepage": "https://github.com/lana/b2c-mapp-ui-assets#readme",
   "license": "ISC",
   "scripts": {
     "build": "webpack --mode=production"
