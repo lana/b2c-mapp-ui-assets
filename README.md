@@ -247,3 +247,39 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 <LogoIcon />
 ```
+
+```
+<ConnectCabifyImage />
+```
+
+```
+<MapImage />
+```
+
+```
+<PetRunningImage />
+```
+
+```
+<PromptLocationImage />
+```
+
+```
+<PromptPermissionsImage />
+```
+
+```
+<PromptSelfieImage />
+```
+
+```
+<SetPinImage />
+```
+
+```
+<SuccessInfoImage />
+```
+
+```
+<SuccessPhoneImage />
+```
