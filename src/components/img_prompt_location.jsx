@@ -8,7 +8,7 @@ export default class Image extends Component {
 					<defs>
 						<path id="a" d="M0 .25h110.25V184H0z" />
 					</defs>
-					<g fill="none" fill-rule="evenodd">
+					<g fill="none" fillRule="evenodd">
 						<g transform="translate(63 54.124)">
 							<path
 								fill="#45D1E3"

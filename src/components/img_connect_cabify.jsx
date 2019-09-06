@@ -13,14 +13,14 @@ export default class Image extends Component {
 				>
 					<path
 						fill="#45D1E3"
-						fill-rule="evenodd"
+						fillRule="evenodd"
 						d="M151.801 53.55a2.676 2.676 0 0 1-3.784 0l-10.319-10.32a2.676 2.676 0 0 1 3.784-3.783l10.319 10.319a2.676 2.676 0 0 1 0 3.784zm28.728-10.32L170.21 53.55a2.676 2.676 0 0 1-3.784-3.784l10.319-10.32a2.676 2.676 0 0 1 3.784 3.785zM161.006 49.22a2.674 2.674 0 0 1-4.567-1.892V32.735a2.677 2.677 0 0 1 5.351 0l-.001 14.593c0 .74-.299 1.408-.783 1.892zM106.321 83.878C112 82.263 120 75.763 129.562 68.763h9.989a8 8 0 0 1 8 8v34.828a8 8 0 0 1-8 8h-9.989c-10.37 0-19.289-6.211-23.241-15.115a8.036 8.036 0 0 1-.643.025H105a8 8 0 0 1-8-8v-4.649a8 8 0 0 1 8-8h.678c.216 0 .431.009.643.026zM209.23 83.878c-3.952-8.905-12.871-15.115-23.24-15.115H176a8 8 0 0 0-8 8v34.828a8 8 0 0 0 8 8h9.99c10.369 0 19.288-6.211 23.24-15.115.212.017.427.025.643.025h.678c4.419 0 8-3.581 8-8v-4.649c0-4.418-3.581-4.59-8-4.59l-.678-3.41c-.216 0-.431.009-.643.026z"
-						clip-rule="evenodd"
+						clipRule="evenodd"
 					/>
 					<path
 						fill="white"
 						stroke="#303334"
-						stroke-width="3"
+						strokeWidth="3"
 						d="M69.889 70.167c0-2.884 3.403-4.418 5.564-2.508L91.745 82.06c.94.83 2.06 1.428 3.273 1.745l14.632 3.83a3.121 3.121 0 0 1-1.44 6.072l-15.246-3.241a8 8 0 0 1-3.593-1.795l-18.334-15.98a3.347 3.347 0 0 1-1.148-2.524zM251.597 103.755c.487 2.842-2.608 4.929-5.061 3.411l-18.489-11.444a8.003 8.003 0 0 0-3.521-1.167l-15.068-1.305a3.12 3.12 0 0 1 .393-6.228l15.575.621a8.001 8.001 0 0 1 3.845 1.162l20.769 12.657a3.344 3.344 0 0 1 1.557 2.293z"
 					/>
 					<rect
@@ -30,7 +30,7 @@ export default class Image extends Component {
 						y="80.625"
 						fill="white"
 						stroke="#303334"
-						stroke-width="4"
+						strokeWidth="4"
 						rx="6"
 					/>
 					<rect
@@ -40,7 +40,7 @@ export default class Image extends Component {
 						y="80.625"
 						fill="white"
 						stroke="#303334"
-						stroke-width="4"
+						strokeWidth="4"
 						rx="6"
 					/>
 					<rect
@@ -50,7 +50,7 @@ export default class Image extends Component {
 						y="75.815"
 						fill="white"
 						stroke="#303334"
-						stroke-width="4"
+						strokeWidth="4"
 						rx="3.425"
 					/>
 					<rect
@@ -60,21 +60,21 @@ export default class Image extends Component {
 						y="95.803"
 						fill="white"
 						stroke="#303334"
-						stroke-width="4"
+						strokeWidth="4"
 						rx="3.425"
 					/>
 					<mask id="a" fill="white">
 						<path
-							fill-rule="evenodd"
+							fillRule="evenodd"
 							d="M133.424 63.535c-14.036 0-25.414 11.378-25.414 25.414 0 14.036 11.378 25.414 25.414 25.414h9.99a8 8 0 0 0 8-8V71.535a8 8 0 0 0-8-8h-9.99z"
-							clip-rule="evenodd"
+							clipRule="evenodd"
 						/>
 					</mask>
 					<path
 						fill="white"
-						fill-rule="evenodd"
+						fillRule="evenodd"
 						d="M133.424 63.535c-14.036 0-25.414 11.378-25.414 25.414 0 14.036 11.378 25.414 25.414 25.414h9.99a8 8 0 0 0 8-8V71.535a8 8 0 0 0-8-8h-9.99z"
-						clip-rule="evenodd"
+						clipRule="evenodd"
 					/>
 					<path
 						fill="#303334"
@@ -84,21 +84,21 @@ export default class Image extends Component {
 					<path
 						fill="black"
 						stroke="#303334"
-						stroke-width=".571"
+						strokeWidth=".571"
 						d="M141.99 66.105h.571v47.973h-.571z"
 					/>
 					<mask id="b" fill="white">
 						<path
-							fill-rule="evenodd"
+							fillRule="evenodd"
 							d="M172.397 113.569h9.989c14.036 0 25.414-11.378 25.414-25.414 0-14.036-11.378-25.414-25.414-25.414h-9.989a8 8 0 0 0-8 8v34.828a8 8 0 0 0 8 8z"
-							clip-rule="evenodd"
+							clipRule="evenodd"
 						/>
 					</mask>
 					<path
 						fill="white"
-						fill-rule="evenodd"
+						fillRule="evenodd"
 						d="M172.397 113.569h9.989c14.036 0 25.414-11.378 25.414-25.414 0-14.036-11.378-25.414-25.414-25.414h-9.989a8 8 0 0 0-8 8v34.828a8 8 0 0 0 8 8z"
-						clip-rule="evenodd"
+						clipRule="evenodd"
 					/>
 					<path
 						fill="black"
@@ -108,16 +108,16 @@ export default class Image extends Component {
 					<path fill="black" d="M174.106 111.285h-1.142V62.741h1.142z" />
 					<mask id="c" fill="white">
 						<path
-							fill-rule="evenodd"
+							fillRule="evenodd"
 							d="M172.397 113.569h9.989c14.036 0 25.414-11.378 25.414-25.414 0-14.036-11.378-25.414-25.414-25.414h-9.989a8 8 0 0 0-8 8v34.828a8 8 0 0 0 8 8z"
-							clip-rule="evenodd"
+							clipRule="evenodd"
 						/>
 					</mask>
 					<path
 						fill="white"
-						fill-rule="evenodd"
+						fillRule="evenodd"
 						d="M172.397 113.569h9.989c14.036 0 25.414-11.378 25.414-25.414 0-14.036-11.378-25.414-25.414-25.414h-9.989a8 8 0 0 0-8 8v34.828a8 8 0 0 0 8 8z"
-						clip-rule="evenodd"
+						clipRule="evenodd"
 					/>
 					<path
 						fill="#303334"
@@ -127,69 +127,69 @@ export default class Image extends Component {
 					<path
 						fill="black"
 						stroke="#303334"
-						stroke-width=".571"
+						strokeWidth=".571"
 						d="M173.82 110.999h-.571V63.026h.571z"
 					/>
 					<path
 						fill="white"
-						fill-rule="evenodd"
+						fillRule="evenodd"
 						d="M296.356 141.991c5.03 3.752 12.183 3.345 16.751-1.223 4.568-4.568 4.975-11.721 1.223-16.751 6.21-.904 10.98-6.248 10.98-12.709 0-6.461-4.77-11.806-10.98-12.71 3.752-5.03 3.345-12.182-1.223-16.75-4.568-4.569-11.721-4.976-16.751-1.224-.904-6.21-6.248-10.98-12.709-10.98-6.461 0-11.806 4.77-12.71 10.98-5.03-3.752-12.182-3.345-16.751 1.224-4.568 4.568-4.975 11.72-1.223 16.75-6.21.904-10.98 6.249-10.98 12.71 0 6.461 4.77 11.805 10.98 12.709-3.752 5.03-3.345 12.183 1.223 16.751 4.569 4.568 11.721 4.975 16.751 1.223h25.419z"
-						clip-rule="evenodd"
+						clipRule="evenodd"
 					/>
 					<path
 						stroke="#333333"
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="4"
+						strokeLinecap="round"
+						strokeLinejoin="round"
+						strokeWidth="4"
 						d="M296.356 141.991c5.03 3.752 12.183 3.345 16.751-1.223 4.568-4.568 4.975-11.721 1.223-16.751 6.21-.904 10.98-6.248 10.98-12.709 0-6.461-4.77-11.806-10.98-12.71 3.752-5.03 3.345-12.182-1.223-16.75-4.568-4.569-11.721-4.976-16.751-1.224-.904-6.21-6.248-10.98-12.709-10.98-6.461 0-11.806 4.77-12.71 10.98-5.03-3.752-12.182-3.345-16.751 1.224-4.568 4.568-4.975 11.72-1.223 16.75-6.21.904-10.98 6.249-10.98 12.71 0 6.461 4.77 11.805 10.98 12.709-3.752 5.03-3.345 12.183 1.223 16.751 4.569 4.568 11.721 4.975 16.751 1.223h25.419z"
-						clip-rule="evenodd"
+						clipRule="evenodd"
 					/>
 					<path
 						stroke="#333333"
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="4"
+						strokeLinecap="round"
+						strokeLinejoin="round"
+						strokeWidth="4"
 						d="M270.938 152.971v-10.98M296.356 152.971v-10.98"
 					/>
 					<path
 						fill="white"
-						fill-rule="evenodd"
+						fillRule="evenodd"
 						d="M298.359 118.662c6.21-.904 10.98-6.248 10.98-12.709h-6.423a6.423 6.423 0 1 0-12.846 0 6.423 6.423 0 1 0-12.846 0 6.423 6.423 0 1 0-12.846 0h-6.423c0 6.461 4.77 11.805 10.98 12.709h29.424z"
-						clip-rule="evenodd"
+						clipRule="evenodd"
 					/>
 					<path
 						stroke="#333333"
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="4"
+						strokeLinecap="round"
+						strokeLinejoin="round"
+						strokeWidth="4"
 						d="M298.359 118.662c6.21-.904 10.98-6.248 10.98-12.709h-6.423a6.423 6.423 0 1 0-12.846 0 6.423 6.423 0 1 0-12.846 0 6.423 6.423 0 1 0-12.846 0h-6.423c0 6.461 4.77 11.805 10.98 12.709h29.424z"
-						clip-rule="evenodd"
+						clipRule="evenodd"
 					/>
 					<path
 						fill="white"
-						fill-rule="evenodd"
+						fillRule="evenodd"
 						d="M270.008 111.602a19.231 19.231 0 0 0-5.649 13.639c0 10.653 8.635 19.289 19.288 19.289s19.289-8.636 19.289-19.289a19.231 19.231 0 0 0-5.649-13.639"
-						clip-rule="evenodd"
+						clipRule="evenodd"
 					/>
 					<path
 						stroke="#333333"
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="4"
+						strokeLinecap="round"
+						strokeLinejoin="round"
+						strokeWidth="4"
 						d="M270.008 111.602a19.231 19.231 0 0 0-5.649 13.639c0 10.653 8.635 19.289 19.288 19.289s19.289-8.636 19.289-19.289a19.231 19.231 0 0 0-5.649-13.639"
 					/>
 					<path
 						fill="#333333"
-						fill-rule="evenodd"
+						fillRule="evenodd"
 						d="M279.512 117.803a2.288 2.288 0 1 1-4.576 0 2.288 2.288 0 0 1 4.576 0zM292.357 117.803a2.287 2.287 0 1 1-4.575.001 2.287 2.287 0 0 1 4.575-.001zM283.648 142.582a4.14 4.14 0 0 1-4.136-4.136h8.272a4.14 4.14 0 0 1-4.136 4.136z"
-						clip-rule="evenodd"
+						clipRule="evenodd"
 					/>
 					<circle cx="45" cy="45" r="45" fill="url(#paint0_linear)" />
 					<path
 						fill="white"
-						fill-rule="evenodd"
+						fillRule="evenodd"
 						d="M40.423 15.302c-4.077.582-8.047 2.076-11.541 4.233-18.137 11.194-18.646 38.79-.68 50.43 2.93 1.898 6.095 3.308 9.506 4.092 3.286.754 6.812 1.209 10.183.773 4.784-.618 9.544-2.06 13.579-4.751 3.505-2.338 6.636-5.467 8.928-8.996 1.867-2.875 3.098-6.116 3.784-9.456.837-4.073 1.15-8.04.37-12.156-2.98-15.718-18.263-26.435-34.129-24.169zm1.501 6.129c-6.634 1.166-12.72 4.715-16.511 10.312-1.14 1.682-4.054 6.094-1.403 7.706 1.531.93 4.404.427 6.033.008 2.469-.635 4.927-1.366 7.129-2.68 2.482-1.48 4.74-2.762 7.828-2.777 3.236-.016 5.974 1.201 8.6 2.778 3.33 1.999 8.429 4.078 12.41 2.922 1.64-.476 1.853-2.129 1.445-3.568-.73-2.57-2.635-5.104-4.401-7.06-5.058-5.603-13.543-8.975-21.13-7.641zM23.938 47.497c-3.549 1.142-1.347 5.652-.256 7.883 2.292 4.692 5.82 8.344 10.435 10.84 1.521.823 3.996 2.105 5.764 1.45 3.273-1.213 2.225-8.128 1.334-10.601-2.315-6.417-10.225-11.843-17.277-9.572zm36.656-.064c-5.756 1.03-10.724 5.53-11.848 11.324-.542 2.794-1.146 9.607 3.362 9.045 5.938-.739 11.698-6.401 14.33-11.408l.072-.138.133-.25c1.01-1.9 2.67-5.028 1.845-7.005-.995-2.381-5.855-1.933-7.894-1.568zM45 51a6 6 0 1 0 0-12 6 6 0 0 0 0 12z"
-						clip-rule="evenodd"
+						clipRule="evenodd"
 					/>
 					<defs>
 						<linearGradient
@@ -199,8 +199,8 @@ export default class Image extends Component {
 							y2="90"
 							gradientUnits="userSpaceOnUse"
 						>
-							<stop stop-color="#4C3D72" />
-							<stop offset="1" stop-color="#2F2645" />
+							<stop stopColor="#4C3D72" />
+							<stop offset="1" stopColor="#2F2645" />
 						</linearGradient>
 					</defs>
 				</svg>

@@ -7,7 +7,15 @@
 	height: 24px;
 }
 
-.active path[fill] { fill: var(--blue); }
-.inactive path[fill] { fill: var(--ash); }
-.white path[fill] { fill: #FFFFFF; }
-.neutral path[fill] { fill: var(--concrete); }
+.active path[fill] {
+	fill: var(--blue);
+}
+.inactive path[fill] {
+	fill: var(--ash);
+}
+.white path[fill] {
+	fill: #ffffff;
+}
+.neutral path[fill] {
+	fill: var(--concrete);
+}

@@ -5,7 +5,7 @@ export default class Image extends Component {
 		return (
 			<picture className={`${this.props.className || ''}`}>
 				<svg xmlns="http://www.w3.org/2000/svg" width="264" height="264" viewBox="0 0 264 264">
-					<g fill="none" fill-rule="evenodd">
+					<g fill="none" fillRule="evenodd">
 						<path
 							fill="#45D1E3"
 							d="M163.063 53.159H71.188A9.188 9.188 0 0 0 62 62.347v165.374a9.189 9.189 0 0 0 9.188 9.188h91.875a9.189 9.189 0 0 0 9.188-9.188V62.347a9.188 9.188 0 0 0-9.188-9.188"
