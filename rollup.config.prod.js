@@ -43,6 +43,14 @@ export default {
 					},
 				],
 				[
+					'babel-plugin-jsx-pragmatic',
+					{
+						module: 'preact',
+						export: 'h',
+						import: 'h',
+					},
+				],
+				[
 					'@babel/plugin-proposal-class-properties',
 					{
 						spec: true,

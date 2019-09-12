@@ -7,15 +7,42 @@
 	height: 24px;
 }
 
-.active path[fill] {
-	fill: var(--blue);
+.blue-500 path[fill] {
+	fill: var(--blue-500);
 }
-.inactive path[fill] {
-	fill: var(--ash);
+.brown-500 path[fill] {
+	fill: var(--brown-500);
 }
-.white path[fill] {
-	fill: #ffffff;
+.green-500 path[fill] {
+	fill: var(--green-500);
 }
-.neutral path[fill] {
-	fill: var(--concrete);
+.purple-500 path[fill] {
+	fill: var(--purple-500);
+}
+.red-500 path[fill] {
+	fill: var(--red-500);
+}
+.yellow-500 path[fill] {
+	fill: var(--yellow-500);
+}
+.black-100 path[fill] {
+	fill: var(--black-100);
+}
+.black-200 path[fill] {
+	fill: var(--black-200);
+}
+.black-300 path[fill] {
+	fill: var(--black-300);
+}
+.black-400 path[fill] {
+	fill: var(--black-400);
+}
+.black-500 path[fill] {
+	fill: var(--black-500);
+}
+.black-600 path[fill] {
+	fill: var(--black-600);
+}
+.black-700 path[fill] {
+	fill: var(--black-700);
 }
