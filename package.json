@@ -1,6 +1,6 @@
 {
 	"name": "@lana/b2c-mapp-ui-assets",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"description": "Lana B2C Microapp UI Assets, icons and images for general use.",
 	"repository": {
 		"type": "git",
@@ -27,10 +27,6 @@
 	"module": "dist/bundle-esm.js",
 	"dependencies": {
 		"preact": "^10.0.4"
-	},
-	"peerDependencies": {
-		"preact": "^8.5.2",
-		"preact-compat": "^3.19.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.6.0",

@@ -5,7 +5,7 @@ export default class Icon extends Component {
 	render() {
 		let color = this.props.color ? CSS[this.props.color] : CSS.active
 		return (
-			<i className={`${CSS.icon} ${color} ${this.props.className || ''}`}>
+			<i className={`${this.props.className || ''} ${CSS.icon} ${color}`}>
 				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
 					<path
 						fill="#303334"
