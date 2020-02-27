@@ -16,6 +16,9 @@
 .green-500 path[fill] {
 	fill: var(--green-500);
 }
+.green-600 path[fill] {
+	fill: var(--green-600);
+}
 .purple-500 path[fill] {
 	fill: var(--purple-500);
 }
