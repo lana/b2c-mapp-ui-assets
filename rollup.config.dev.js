@@ -4,6 +4,7 @@ import resolve from 'rollup-plugin-node-resolve'
 import babel from 'rollup-plugin-babel'
 import postcss from 'rollup-plugin-postcss'
 import autoprefixer from 'autoprefixer'
+const babelConfig = require('./babelConfig')
 
 export default {
 	input: 'src/index.jsx',
@@ -32,50 +33,7 @@ export default {
 			modules: true,
 		}),
 		babel({
-			plugins: [
-				'@babel/plugin-proposal-object-rest-spread',
-				'@babel/plugin-proposal-export-default-from',
-				'@babel/plugin-proposal-export-namespace-from',
-				[
-					'@babel/plugin-transform-react-jsx',
-					{
-						pragma: 'h',
-					},
-				],
-				[
-					'babel-plugin-jsx-pragmatic',
-					{
-						module: 'preact',
-						export: 'h',
-						import: 'h',
-					},
-				],
-				[
-					'@babel/plugin-proposal-class-properties',
-					{
-						spec: true,
-					},
-				],
-			],
-			presets: [
-				[
-					'@babel/preset-env',
-					{
-						debug: false,
-						modules: false,
-						targets: {
-							browsers: [
-								'last 2 Chrome versions',
-								'last 2 Firefox versions',
-								'last 2 Edge versions',
-								'last 2 Opera versions',
-								'last 2 Safari versions',
-								'last 2 iOS versions',
-							],
-						},
-					},
-				],
-			],
+			...babelConfig,
 		}),
 	],
 }
