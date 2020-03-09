@@ -9,6 +9,54 @@ Lana B2C Microapp UI Icon sets for general use.
 ## Available icons
 
 ```
+<TCBusinessIcon />
+```
+
+```
+<TCCashIcon />
+```
+
+```
+<TCGroceriesIcon />
+```
+
+```
+<TCHealthIcon />
+```
+
+```
+<TCIncomeIcon />
+```
+
+```
+<TCLeisureIcon />
+```
+
+```
+<TCRestaurantsIcon />
+```
+
+```
+<TCShoppingIcon />
+```
+
+```
+<TCTransfersIcon />
+```
+
+```
+<TCTransportIcon />
+```
+
+```
+<TCTravelIcon />
+```
+
+```
+<TCUtilitiesIcon />
+```
+
+```
 <AddIcon />
 ```
 
@@ -17,7 +65,31 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<AddBoldIcon />
+```
+
+```
+<AddLineIcon />
+```
+
+```
 <ArrowBackIcon />
+```
+
+```
+<ArrowDownBoldIcon />
+```
+
+```
+<ArrowDownLineIcon />
+```
+
+```
+<ArrowUpBoldIcon />
+```
+
+```
+<ArrowUpLineIcon />
 ```
 
 ```
@@ -37,7 +109,59 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<BuildingIcon />
+```
+
+```
+<CalculatorIcon />
+```
+
+```
+<CalculatorCashIcon />
+```
+
+```
+<CalendarIcon />
+```
+
+```
+<CameraIcon />
+```
+
+```
 <CarIcon />
+```
+
+```
+<CardIcon />
+```
+
+```
+<CardBlockIcon />
+```
+
+```
+<CardCheckIcon />
+```
+
+```
+<CardDeleteIcon />
+```
+
+```
+<CardLockIcon />
+```
+
+```
+<CardMobileIcon />
+```
+
+```
+<CardRenewalIcon />
+```
+
+```
+<CardShieldIcon />
 ```
 
 ```
@@ -45,7 +169,51 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<CashPaymentIcon />
+```
+
+```
+<CashPaymentBillIcon />
+```
+
+```
 <CheckIcon />
+```
+
+```
+<CheckBoldIcon />
+```
+
+```
+<CheckCircleIcon />
+```
+
+```
+<CheckLineIcon />
+```
+
+```
+<ChevronDownIcon />
+```
+
+```
+<ChevronLeftIcon />
+```
+
+```
+<ChevronRightIcon />
+```
+
+```
+<ChevronUpIcon />
+```
+
+```
+<CircleIcon />
+```
+
+```
+<CircleSmallIcon />
 ```
 
 ```
@@ -53,7 +221,23 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<ClockIcon />
+```
+
+```
 <CloseIcon />
+```
+
+```
+<CloseBoldIcon />
+```
+
+```
+<CloseLineIcon />
+```
+
+```
+<CoinsIcon />
 ```
 
 ```
@@ -61,11 +245,31 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<CollectIcon />
+```
+
+```
+<ContractIcon />
+```
+
+```
 <CopyIcon />
 ```
 
 ```
-<DescriptionIcon />
+<CurrencyDecreaseIcon />
+```
+
+```
+<CurrencyIncreaseIcon />
+```
+
+```
+<DeleteIcon />
+```
+
+```
+<DepositIcon />
 ```
 
 ```
@@ -73,11 +277,59 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<DescriptionIcon />
+```
+
+```
+<DocumentAddedIcon />
+```
+
+```
+<DocumentEditIcon />
+```
+
+```
+<DollarBoldIcon />
+```
+
+```
+<DollarLineIcon />
+```
+
+```
 <DownIcon />
 ```
 
 ```
+<EditIcon />
+```
+
+```
+<EntretainmentIcon />
+```
+
+```
+<EraseIcon />
+```
+
+```
+<EuroBoldIcon />
+```
+
+```
+<EuroLineIcon />
+```
+
+```
 <ExpandSmallIcon />
+```
+
+```
+<FaceIdIcon />
+```
+
+```
+<FacebookIcon />
 ```
 
 ```
@@ -86,6 +338,14 @@ Lana B2C Microapp UI Icon sets for general use.
 
 ```
 <FAQIcon />
+```
+
+```
+<FavoriteOffIcon />
+```
+
+```
+<FavoriteOnIcon />
 ```
 
 ```
@@ -109,6 +369,10 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<FuelIcon />
+```
+
+```
 <GovernmentIcon />
 ```
 
@@ -117,7 +381,47 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<HelpBoldIcon />
+```
+
+```
+<HelpLineIcon />
+```
+
+```
+<ImageIcon />
+```
+
+```
 <InfoIcon />
+```
+
+```
+<InfoLineIcon />
+```
+
+```
+<InstagramIcon />
+```
+
+```
+<InsuranceIcon />
+```
+
+```
+<InsuranceCarIcon />
+```
+
+```
+<InsuranceDeviceIcon />
+```
+
+```
+<InsuranceHealthIcon />
+```
+
+```
+<InsuranceTravelIcon />
 ```
 
 ```
@@ -125,7 +429,47 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<LandlinePhoneIcon />
+```
+
+```
+<LightIcon />
+```
+
+```
+<LinkedinIcon />
+```
+
+```
+<ListIcon />
+```
+
+```
 <LocationIcon />
+```
+
+```
+<LocationHomeIcon />
+```
+
+```
+<LocationTargetIcon />
+```
+
+```
+<LockIcon />
+```
+
+```
+<LogOutIcon />
+```
+
+```
+<MailIcon />
+```
+
+```
+<MenuIcon />
 ```
 
 ```
@@ -133,7 +477,19 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<MessageBoldIcon />
+```
+
+```
+<MessageLineIcon />
+```
+
+```
 <MoneyIcon />
+```
+
+```
+<MoneyBagIcon />
 ```
 
 ```
@@ -142,6 +498,10 @@ Lana B2C Microapp UI Icon sets for general use.
 
 ```
 <MopErrorIcon />
+```
+
+```
+<MopPendingIcon />
 ```
 
 ```
@@ -165,7 +525,15 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
-<PersonIcon />
+<NotificationsClearedIcon />
+```
+
+```
+<PayIcon />
+```
+
+```
+<PdfIcon />
 ```
 
 ```
@@ -173,7 +541,23 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<PinIcon />
+```
+
+```
+<QrCodeIcon />
+```
+
+```
 <QrcardIcon />
+```
+
+```
+<RecordIcon />
+```
+
+```
+<ReloadIcon />
 ```
 
 ```
@@ -181,7 +565,15 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<ResizeIcon />
+```
+
+```
 <RotateIcon />
+```
+
+```
+<RotateDeviceIcon />
 ```
 
 ```
@@ -190,6 +582,10 @@ Lana B2C Microapp UI Icon sets for general use.
 
 ```
 <RotatePortraitIcon />
+```
+
+```
+<SaveMoneyIcon />
 ```
 
 ```
@@ -205,7 +601,23 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<SelfieIcon />
+```
+
+```
+<SelfiePictureIcon />
+```
+
+```
+<SendIcon />
+```
+
+```
 <ServicesIcon />
+```
+
+```
+<SettingsIcon />
 ```
 
 ```
@@ -217,6 +629,18 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<ShareIosIcon />
+```
+
+```
+<ShoppingIcon />
+```
+
+```
+<SignIcon />
+```
+
+```
 <SMSIcon />
 ```
 
@@ -225,7 +649,19 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<SupportChatLineIcon />
+```
+
+```
 <TaxesIcon />
+```
+
+```
+<TicketIcon />
+```
+
+```
+<TouchIdIcon />
 ```
 
 ```
@@ -237,7 +673,75 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
+<TvIcon />
+```
+
+```
+<TwitterIcon />
+```
+
+```
+<UnlockIcon />
+```
+
+```
 <UpIcon />
+```
+
+```
+<PersonIcon />
+```
+
+```
+<UserAddIcon />
+```
+
+```
+<UserCheckIcon />
+```
+
+```
+<UserEditIcon />
+```
+
+```
+<UserInfoIcon />
+```
+
+```
+<UserMoneyIcon />
+```
+
+```
+<UserShieldIcon />
+```
+
+```
+<VideoIcon />
+```
+
+```
+<ViewIcon />
+```
+
+```
+<ViewMoreIcon />
+```
+
+```
+<ViewMoreVerticalIcon />
+```
+
+```
+<ViewoffIcon />
+```
+
+```
+<VoiceIcon />
+```
+
+```
+<WalletIcon />
 ```
 
 ```
@@ -245,7 +749,15 @@ Lana B2C Microapp UI Icon sets for general use.
 ```
 
 ```
-<LogoIcon />
+<WarningBoldIcon />
+```
+
+```
+<WarningLineIcon />
+```
+
+```
+<WaterIcon />
 ```
 
 ```
