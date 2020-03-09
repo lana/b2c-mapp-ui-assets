@@ -1,26 +1,28 @@
 import { Component } from 'preact'
 import CSS from './styles.css'
 
-export default class Icon extends Component {
+class Icon extends Component {
 	render() {
 		let color = this.props.color ? CSS[this.props.color] : CSS.active
 		return (
 			<i className={`${CSS.icon} ${color} ${this.props.className || ''}`}>
 				<svg
-					width="24"
-					height="24"
-					viewBox="0 0 24 24"
+					width="26"
+					height="26"
+					viewBox="0 0 26 26"
 					fill="none"
 					xmlns="http://www.w3.org/2000/svg"
 				>
 					<path
 						fillRule="evenodd"
 						clipRule="evenodd"
-						d="M0 12C0 5.37258 5.37258 0 12 0C18.6274 0 24 5.37258 24 12C24 18.6274 18.6274 24 12 24C5.37258 24 0 18.6274 0 12ZM12 1.77778C6.35442 1.77778 1.77778 6.35442 1.77778 12C1.77778 17.6456 6.35442 22.2222 12 22.2222C17.6456 22.2222 22.2222 17.6456 22.2222 12C22.2222 6.35442 17.6456 1.77778 12 1.77778Z"
-						fill="#121E31"
+						d="M0.75 12.999C0.75 6.23354 6.23451 0.749023 13 0.749023C19.7655 0.749023 25.25 6.23354 25.25 12.999C25.25 19.7645 19.7655 25.249 13 25.249C6.23451 25.249 0.75 19.7645 0.75 12.999Z"
+						fill="#00A0DF"
 					/>
 				</svg>
 			</i>
 		)
 	}
 }
+
+export default Icon
