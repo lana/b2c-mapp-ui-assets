@@ -18,13 +18,14 @@
 	},
 	"homepage": "https://github.com/lana/b2c-mapp-ui-assets#readme",
 	"license": "ISC",
-	"scripts": {
+  "main": "dist/index.js",
+  "module": "dist/bundle-esm.js",
+  "scripts": {
 		"build:cjs": "rollup --config rollup.config.prod.js",
 		"build:esm": "rollup --config rollup.config.dev.js",
-		"prepare": "npm run build:cjs && npm run build:esm"
-	},
-	"main": "dist/index.js",
-	"module": "dist/bundle-esm.js",
+		"prepare": "npm run build:cjs && npm run build:esm",
+    "lint": "eslint --ext .jsx,.js ."
+  },
 	"dependencies": {
 		"preact": "^10.3.2"
 	},
@@ -41,7 +42,12 @@
 		"autoprefixer": "^9.7.4",
 		"babel-eslint": "^10.1.0",
 		"eslint": "^6.8.0",
+		"eslint-config-airbnb": "^18.1.0",
+		"eslint-plugin-fp": "^2.3.0",
+		"eslint-plugin-import": "^2.20.2",
+		"eslint-plugin-jsx-a11y": "^6.2.3",
 		"eslint-plugin-react": "^7.18.3",
+		"eslint-plugin-react-hooks": "^3.0.0",
 		"rollup": "^1.32.0",
 		"rollup-plugin-babel": "^4.3.3",
 		"rollup-plugin-commonjs": "^10.1.0",
