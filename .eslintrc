@@ -7,6 +7,13 @@
 	},
 	"extends": ["airbnb", "plugin:react/recommended"],
 	"plugins": ["react", "fp"],
+	"ignorePatterns": [
+		"*.test.js",
+		"*.test.jsx",
+		"jest.config.js",
+		"build/**/*",
+		"dist/**/*"
+	],
 	"globals": {
 		"document": true,
 		"window": true
