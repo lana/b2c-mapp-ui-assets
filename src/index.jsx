@@ -26,8 +26,8 @@ export { default as CardIcon } from './components/ic_card';
 export { default as CardImage } from './components/img_card';
 export { default as CardLockIcon } from './components/ic_card_lock';
 export { default as CardMobileIcon } from './components/ic_card_mobile';
-export { default as CardPinIcon } from './components/ic_card_pin';
-export { default as CardPinImage } from './components/ic_card_pin';
+export { default as CardPinIcon } from './components/ic_card_pin'; // eslint-disable-line import/group-exports
+export { default as CardPinImage } from './components/ic_card_pin'; // eslint-disable-line import/group-exports
 export { default as CardRenewalIcon } from './components/ic_card_renewal';
 export { default as CardShieldIcon } from './components/ic_card_shield';
 export { default as CarIcon } from './components/ic_car';
