@@ -1,6 +1,9 @@
-import { Component } from 'preact';
+// TODO NO-CLASS: Refactor this file to stop using `class`
 
-export default class Image extends Component {
+import { Component } from 'preact';
+import PropTypes from 'prop-types';
+
+class Icon extends Component { // eslint-disable-line fp/no-class, react/prefer-stateless-function
   render() {
     return (
       <picture className={`${this.props.className || ''}`}>
@@ -29,3 +32,9 @@ export default class Image extends Component {
     );
   }
 }
+
+Icon.propTypes = {
+  className: PropTypes.string,
+};
+
+export default Icon;
