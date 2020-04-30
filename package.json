@@ -19,7 +19,7 @@
 	"homepage": "https://github.com/lana/b2c-mapp-ui-assets#readme",
 	"license": "ISC",
 	"main": "dist/index.js",
-	"module": "dist/bundle-esm.js",
+	"module": "dist/index.umd.min.js",
 	"scripts": {
 		"build": "vue-cli-service build --target lib --name index ./src/index.js && rm ./dist/demo.html",
 		"lint": "vue-cli-service lint",
