@@ -205,5 +205,4 @@ export { default as VoiceIcon } from './components/voice.icon';
 export { default as WalletIcon } from './components/wallet.icon';
 export { default as WarningBoldIcon } from './components/warningBold.icon';
 export { default as WarningIcon } from './components/warning.icon';
-export { default as WarningLineIcon } from './components/warningLine.icon';
-export { default as WaterIcon } from './components/water.icon';
+
