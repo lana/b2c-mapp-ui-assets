@@ -1,5 +1,3 @@
-// TODO JASON: Add Rollup back for ESM build, then update teh `module` entry inside of package.json
-
 import AddBeneficiaryIcon from './icons/addBeneficiary.svg';
 import AddBoldIcon from './icons/addBold.svg';
 import AddIcon from './icons/add.svg';
