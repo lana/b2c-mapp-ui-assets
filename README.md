@@ -1,11 +1,6 @@
 # b2c-mapp-ui-icons
 Lana B2C Microapp UI Icon sets for general use.
 
-| Prop |  Value Type | Required |
-| --- | --- | --- |
-| `className` | `String` | false |
-| `color` | `active`, `inactive`, `white` | false |
-
 ## Available icons
 
 ```
