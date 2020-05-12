@@ -210,7 +210,7 @@ import WarningLineIcon from './icons/warningLine.svg';
 import WaterIcon from './icons/water.svg';
 import './styles/styles.scss';
 
-const libraryIcons = {
+export {
   AddBeneficiaryIcon,
   AddBoldIcon,
   AddIcon,
@@ -422,5 +422,3 @@ const libraryIcons = {
   WarningLineIcon,
   WaterIcon,
 };
-
-export default libraryIcons;
