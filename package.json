@@ -1,6 +1,6 @@
 {
 	"name": "@lana/b2c-mapp-ui-assets",
-	"version": "4.0.1",
+	"version": "4.0.2",
 	"description": "Lana B2C Microapp UI Assets, icons and images for general use.",
 	"repository": {
 		"type": "git",
@@ -23,10 +23,10 @@
 	"scripts": {
 		"build": "vue-cli-service build --target lib --name index ./src/index.js && rm ./dist/demo.html",
 		"lint": "vue-cli-service lint",
-    "build:cjs": "rollup --config rollup.config.prod.js",
-    "build:esm": "rollup --config rollup.config.dev.js",
-    "prepare": "npm run build:cjs && npm run build:esm"
-  },
+		"build:cjs": "rollup --config rollup.config.prod.js",
+		"build:esm": "rollup --config rollup.config.dev.js",
+		"prepare": "npm run build:cjs && npm run build:esm"
+	},
 	"dependencies": {
 		"core-js": "^3.6.4",
 		"vue": "^2.6.11"
