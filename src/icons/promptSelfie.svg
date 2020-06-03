@@ -1,4 +1,4 @@
-<svg viewBox="0 0 360 264" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg class="icon" viewBox="0 0 360 264" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="360" height="264" fill="white"/>
 <path d="M262.38 143.708L228.364 96L223 150.5L256 239C265.833 229.167 283.9 208.7 277.5 205.5C271.1 202.3 269.943 192.647 270.164 188.22V167.998C270.163 159.288 267.442 150.796 262.38 143.708Z" fill="#FFCEBF"/>
 <rect x="124" y="52" width="109" height="182" rx="12" fill="white" stroke="#19194B" stroke-width="8"/>
