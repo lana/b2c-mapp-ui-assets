@@ -208,6 +208,7 @@ import WarningBoldIcon from './icons/warningBold.svg';
 import WarningIcon from './icons/warning.svg';
 import WarningLineIcon from './icons/warningLine.svg';
 import WaterIcon from './icons/water.svg';
+import WelcomeImage from './icons/welcome.svg';
 import WorkInProgress from './icons/workInProgress.svg';
 import './styles/styles.scss';
 
@@ -422,5 +423,6 @@ export {
   WarningIcon,
   WarningLineIcon,
   WaterIcon,
+  WelcomeImage,
   WorkInProgress,
 };
