@@ -35,6 +35,8 @@ import CarInsuranceIcon from './icons/carInsurance.svg';
 import CashIcon from './icons/cash.svg';
 import CashPaymentBillIcon from './icons/cashPaymentBill.svg';
 import CashPaymentIcon from './icons/cashPayment.svg';
+import CheckboxChecked from './icons/checkboxChecked.svg';
+import CheckboxUnchecked from './icons/checkboxUnchecked.svg';
 import CheckBoldIcon from './icons/checkBold.svg';
 import CheckCircleIcon from './icons/checkCircle.svg';
 import CheckIcon from './icons/check.svg';
@@ -148,7 +150,8 @@ import RotateLandscapeIcon from './icons/rotateLandscape.svg';
 import RotatePortraitIcon from './icons/rotatePortrait.svg';
 import SaveMoneyIcon from './icons/saveMoney.svg';
 import ScanIcon from './icons/scan.svg';
-import ScanSuccessImage from './icons/scanSucccess.svg';
+import ScanSuccessImage from './icons/scanSuccess.svg';
+import ScanFailureImage from './icons/scanFailure.svg';
 import SearchIcon from './icons/search.svg';
 import SecurityIcon from './icons/security.svg';
 import SelfieIcon from './icons/selfie.svg';
@@ -250,6 +253,8 @@ export {
   CashIcon,
   CashPaymentBillIcon,
   CashPaymentIcon,
+  CheckboxChecked,
+  CheckboxUnchecked,
   CheckBoldIcon,
   CheckCircleIcon,
   CheckIcon,
@@ -363,6 +368,7 @@ export {
   RotatePortraitIcon,
   SaveMoneyIcon,
   ScanIcon,
+  ScanFailureImage,
   ScanSuccessImage,
   SearchIcon,
   SecurityIcon,
