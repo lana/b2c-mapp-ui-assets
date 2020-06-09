@@ -18,6 +18,7 @@ import CalculatorCashIcon from './icons/calculatorCash.svg';
 import CalculatorIcon from './icons/calculator.svg';
 import CalendarIcon from './icons/calendar.svg';
 import CameraIcon from './icons/camera.svg';
+import CameraImage from './icons/cameraImage.svg';
 import CardBlockIcon from './icons/cardBlock.svg';
 import CardBrokenIcon from './icons/cardBroken.svg';
 import CardBrokenImage from './icons/cardBrokenImage.svg';
@@ -236,6 +237,7 @@ export {
   CalculatorIcon,
   CalendarIcon,
   CameraIcon,
+  CameraImage,
   CardBlockIcon,
   CardBrokenIcon,
   CardBrokenImage,
