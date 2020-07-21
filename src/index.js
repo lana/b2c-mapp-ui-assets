@@ -1,3 +1,4 @@
+import Account from './icons/account.svg';
 import AddBeneficiaryIcon from './icons/addBeneficiary.svg';
 import AddBoldIcon from './icons/addBold.svg';
 import AddIcon from './icons/add.svg';
@@ -27,6 +28,7 @@ import CardDeleteIcon from './icons/cardDelete.svg';
 import CardIcon from './icons/card.svg';
 import CardImage from './icons/cardImage.svg';
 import CardLockIcon from './icons/cardLock.svg';
+import CardMinimal from './icons/cardMinimal.svg';
 import CardMobileIcon from './icons/cardMobile.svg';
 import CardPinIcon from './icons/cardPin.svg';
 import CardRenewalIcon from './icons/cardRenewal.svg';
@@ -36,6 +38,7 @@ import CarInsuranceIcon from './icons/carInsurance.svg';
 import CashIcon from './icons/cash.svg';
 import CashPaymentBillIcon from './icons/cashPaymentBill.svg';
 import CashPaymentIcon from './icons/cashPayment.svg';
+import Chat from './icons/chat.svg';
 import CheckboxChecked from './icons/checkboxChecked.svg';
 import CheckboxUnchecked from './icons/checkboxUnchecked.svg';
 import CheckBoldIcon from './icons/checkBold.svg';
@@ -52,7 +55,12 @@ import ClockIcon from './icons/clock.svg';
 import CloseBoldIcon from './icons/closeBold.svg';
 import CloseIcon from './icons/close.svg';
 import CloseLineIcon from './icons/closeLine.svg';
+import Coin from './icons/coin.svg';
 import CoinsIcon from './icons/coins.svg';
+import ColorLock from './icons/colorLock.svg';
+import ColorSecurity from './icons/colorSecurity.svg';
+import ColorSmartphone from './icons/colorSmartphone.svg';
+import ColorUmbrella from './icons/colorUmbrella.svg';
 import CollapseSmallIcon from './icons/collapseSmall.svg';
 import CollectIcon from './icons/collect.svg';
 import ConnectCabifyImage from './icons/connectCabify.svg';
@@ -65,6 +73,7 @@ import DeleteKeyIcon from './icons/deleteKey.svg';
 import DepositIcon from './icons/deposit.svg';
 import DescriptionAddedIcon from './icons/descriptionAdded.svg';
 import DescriptionIcon from './icons/document.svg';
+import Details from './icons/details.svg';
 import DeviceInsuranceIcon from './icons/deviceInsurance.svg';
 import DocumentAddedIcon from './icons/documentAdded.svg';
 import DocumentEditIcon from './icons/documentEdit.svg';
@@ -150,6 +159,7 @@ import RotateIcon from './icons/rotate.svg';
 import RotateLandscapeIcon from './icons/rotateLandscape.svg';
 import RotatePortraitIcon from './icons/rotatePortrait.svg';
 import SaveMoneyIcon from './icons/saveMoney.svg';
+import Savings from './icons/savings.svg';
 import ScanIcon from './icons/scan.svg';
 import ScanSuccessImage from './icons/scanSuccess.svg';
 import ScanFailureImage from './icons/scanFailure.svg';
@@ -164,6 +174,7 @@ import SettingsIcon from './icons/settings.svg';
 import ShareAndroidIcon from './icons/shareAndroid.svg';
 import ShareIcon from './icons/share.svg';
 import ShareIosIcon from './icons/shareIos.svg';
+import Sheep from './icons/sheep.svg';
 import ShoppingIcon from './icons/shopping.svg';
 import SignIcon from './icons/sign.svg';
 import SmallCircleIcon from './icons/smallCircle.svg';
@@ -217,6 +228,7 @@ import WorkInProgress from './icons/workInProgress.svg';
 import './styles/styles.scss';
 
 export {
+  Account,
   AddBeneficiaryIcon,
   AddBoldIcon,
   AddIcon,
@@ -247,6 +259,7 @@ export {
   CardImage,
   CardLockIcon,
   CardMobileIcon,
+  CardMinimal,
   CardPinIcon,
   CardRenewalIcon,
   CardShieldIcon,
@@ -255,6 +268,7 @@ export {
   CashIcon,
   CashPaymentBillIcon,
   CashPaymentIcon,
+  Chat,
   CheckboxChecked,
   CheckboxUnchecked,
   CheckBoldIcon,
@@ -271,7 +285,12 @@ export {
   CloseBoldIcon,
   CloseIcon,
   CloseLineIcon,
+  Coin,
   CoinsIcon,
+  ColorLock,
+  ColorSecurity,
+  ColorSmartphone,
+  ColorUmbrella,
   CollapseSmallIcon,
   CollectIcon,
   ConnectCabifyImage,
@@ -284,6 +303,7 @@ export {
   DepositIcon,
   DescriptionAddedIcon,
   DescriptionIcon,
+  Details,
   DeviceInsuranceIcon,
   DocumentAddedIcon,
   DocumentEditIcon,
@@ -369,6 +389,7 @@ export {
   RotateLandscapeIcon,
   RotatePortraitIcon,
   SaveMoneyIcon,
+  Savings,
   ScanIcon,
   ScanFailureImage,
   ScanSuccessImage,
@@ -383,6 +404,7 @@ export {
   ShareAndroidIcon,
   ShareIcon,
   ShareIosIcon,
+  Sheep,
   ShoppingIcon,
   SignIcon,
   SmallCircleIcon,
