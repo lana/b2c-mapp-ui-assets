@@ -123,6 +123,7 @@ import Logo from './icons/logo.svg';
 import LogoImage from './icons/logoImage.svg';
 import LogOutIcon from './icons/logout.svg';
 import MailIcon from './icons/mail.svg';
+import MailIllustration from './icons/mailIllustration.svg';
 import MapImage from './icons/map.svg';
 import MenuIcon from './icons/menu.svg';
 import MessageBoldIcon from './icons/messageBold.svg';
@@ -353,6 +354,7 @@ export {
   LogoImage,
   LogOutIcon,
   MailIcon,
+  MailIllustration,
   MapImage,
   MenuIcon,
   MessageBoldIcon,
