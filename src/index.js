@@ -1,4 +1,4 @@
-import Account from './icons/account.svg';
+import AccountIcon from './icons/account.svg';
 import AddBeneficiaryIcon from './icons/addBeneficiary.svg';
 import AddBoldIcon from './icons/addBold.svg';
 import AddIcon from './icons/add.svg';
@@ -9,6 +9,7 @@ import ArrowDownBoldIcon from './icons/arrowDownBold.svg';
 import ArrowDownLineIcon from './icons/arrowDownLine.svg';
 import ArrowUpBoldIcon from './icons/arrowUpBold.svg';
 import ArrowUpLineIcon from './icons/arrowUpLine.svg';
+import AtmIcon from './icons/atm.svg';
 import AttachmentIcon from './icons/attachment.svg';
 import BackIcon from './icons/back.svg';
 import BankAccountIcon from './icons/bankAccount.svg';
@@ -28,7 +29,7 @@ import CardDeleteIcon from './icons/cardDelete.svg';
 import CardIcon from './icons/card.svg';
 import CardImage from './icons/cardImage.svg';
 import CardLockIcon from './icons/cardLock.svg';
-import CardMinimal from './icons/cardMinimal.svg';
+import CardMinimalIcon from './icons/cardMinimal.svg';
 import CardMobileIcon from './icons/cardMobile.svg';
 import CardPinIcon from './icons/cardPin.svg';
 import CardRenewalIcon from './icons/cardRenewal.svg';
@@ -38,15 +39,16 @@ import CarInsuranceIcon from './icons/carInsurance.svg';
 import CashIcon from './icons/cash.svg';
 import CashPaymentBillIcon from './icons/cashPaymentBill.svg';
 import CashPaymentIcon from './icons/cashPayment.svg';
-import Chat from './icons/chat.svg';
-import CheckboxChecked from './icons/checkboxChecked.svg';
-import CheckboxUnchecked from './icons/checkboxUnchecked.svg';
+import ChatIcon from './icons/chat.svg';
+import CheckboxCheckedIcon from './icons/checkboxChecked.svg';
+import CheckboxUncheckedIcon from './icons/checkboxUnchecked.svg';
 import CheckBoldIcon from './icons/checkBold.svg';
 import CheckCircleIcon from './icons/checkCircle.svg';
 import CheckIcon from './icons/check.svg';
 import CheckLineIcon from './icons/checkLine.svg';
 import ChevronDownIcon from './icons/chevronDown.svg';
 import ChevronLeftIcon from './icons/chevronLeft.svg';
+import ChevronsRightIcon from './icons/chevronsRight.svg';
 import ChevronRightIcon from './icons/chevronRight.svg';
 import ChevronUpIcon from './icons/chevronUp.svg';
 import CircleIcon from './icons/circle.svg';
@@ -55,12 +57,12 @@ import ClockIcon from './icons/clock.svg';
 import CloseBoldIcon from './icons/closeBold.svg';
 import CloseIcon from './icons/close.svg';
 import CloseLineIcon from './icons/closeLine.svg';
-import Coin from './icons/coin.svg';
+import CoinIcon from './icons/coin.svg';
 import CoinsIcon from './icons/coins.svg';
-import ColorLock from './icons/colorLock.svg';
-import ColorSecurity from './icons/colorSecurity.svg';
-import ColorSmartphone from './icons/colorSmartphone.svg';
-import ColorUmbrella from './icons/colorUmbrella.svg';
+import ColorLockIcon from './icons/colorLock.svg';
+import ColorSecurityIcon from './icons/colorSecurity.svg';
+import ColorSmartphoneIcon from './icons/colorSmartphone.svg';
+import ColorUmbrellaIcon from './icons/colorUmbrella.svg';
 import CollapseSmallIcon from './icons/collapseSmall.svg';
 import CollectIcon from './icons/collect.svg';
 import ConnectCabifyImage from './icons/connectCabify.svg';
@@ -73,7 +75,7 @@ import DeleteKeyIcon from './icons/deleteKey.svg';
 import DepositIcon from './icons/deposit.svg';
 import DescriptionAddedIcon from './icons/descriptionAdded.svg';
 import DescriptionIcon from './icons/document.svg';
-import Details from './icons/details.svg';
+import DetailsIcon from './icons/details.svg';
 import DeviceInsuranceIcon from './icons/deviceInsurance.svg';
 import DocumentAddedIcon from './icons/documentAdded.svg';
 import DocumentEditIcon from './icons/documentEdit.svg';
@@ -111,6 +113,12 @@ import InfoLineIcon from './icons/infoLine.svg';
 import InstagramIcon from './icons/instagram.svg';
 import InsuranceIcon from './icons/insurance.svg';
 import LanaCardIcon from './icons/lanaCard.svg';
+import LanaCardAtmIcon from './icons/lanaCardATM.svg';
+import LanaCardDelayImage from './icons/lanaCardDelayImage.svg';
+import LanaCardEmptyIcon from './icons/lanaCardEmpty.svg';
+import LanaCardNewImage from './icons/lanaCardNewImage.svg';
+import LanaCardArrivedImage from './icons/lanaCardArrivedImage.svg';
+import LanaCardSmallIcon from './icons/lanaCardSmall.svg';
 import LandlinePhoneIcon from './icons/landlinePhone.svg';
 import LightIcon from './icons/light.svg';
 import LinkedinIcon from './icons/linkedIn.svg';
@@ -130,6 +138,7 @@ import MessageBoldIcon from './icons/messageBold.svg';
 import MessageIcon from './icons/message.svg';
 import MessageLineIcon from './icons/messageLine.svg';
 import MoneyBagIcon from './icons/moneyBag.svg';
+import MobileIcon from './icons/mobile.svg';
 import MoneyIcon from './icons/money.svg';
 import MopErrorIcon from './icons/mopError.svg';
 import MopIcon from './icons/mop.svg';
@@ -160,11 +169,12 @@ import RotateIcon from './icons/rotate.svg';
 import RotateLandscapeIcon from './icons/rotateLandscape.svg';
 import RotatePortraitIcon from './icons/rotatePortrait.svg';
 import SaveMoneyIcon from './icons/saveMoney.svg';
-import Savings from './icons/savings.svg';
+import SavingsIcon from './icons/savings.svg';
 import ScanIcon from './icons/scan.svg';
 import ScanSuccessImage from './icons/scanSuccess.svg';
 import ScanFailureImage from './icons/scanFailure.svg';
 import SearchIcon from './icons/search.svg';
+import SearchAtmIcon from './icons/searchATM.svg';
 import SecurityIcon from './icons/security.svg';
 import SelfieIcon from './icons/selfie.svg';
 import SelfiePictureIcon from './icons/selfiePicture.svg';
@@ -175,12 +185,14 @@ import SettingsIcon from './icons/settings.svg';
 import ShareAndroidIcon from './icons/shareAndroid.svg';
 import ShareIcon from './icons/share.svg';
 import ShareIosIcon from './icons/shareIos.svg';
-import Sheep from './icons/sheep.svg';
+import SheepIcon from './icons/sheep.svg';
 import ShoppingIcon from './icons/shopping.svg';
+import ShoppingSmallIcon from './icons/shoppingSmall.svg';
 import SignIcon from './icons/sign.svg';
 import SmallCircleIcon from './icons/smallCircle.svg';
 import SmsIcon from './icons/sms.svg';
 import SnowFlakeIcon from './icons/snowflake.svg';
+import SuccessImage from './icons/successImage.svg';
 import SuccessInfoImage from './icons/successInfo.svg';
 import SuccessPhoneImage from './icons/successPhone.svg';
 import SupportChatLineIcon from './icons/supportChatLine.svg';
@@ -225,11 +237,11 @@ import WarningIcon from './icons/warning.svg';
 import WarningLineIcon from './icons/warningLine.svg';
 import WaterIcon from './icons/water.svg';
 import WelcomeImage from './icons/welcome.svg';
-import WorkInProgress from './icons/workInProgress.svg';
+import WorkInProgressIcon from './icons/workInProgress.svg';
 import './styles/styles.scss';
 
 export {
-  Account,
+  AccountIcon,
   AddBeneficiaryIcon,
   AddBoldIcon,
   AddIcon,
@@ -240,6 +252,7 @@ export {
   ArrowDownLineIcon,
   ArrowUpBoldIcon,
   ArrowUpLineIcon,
+  AtmIcon,
   AttachmentIcon,
   BackIcon,
   BankAccountIcon,
@@ -260,7 +273,7 @@ export {
   CardImage,
   CardLockIcon,
   CardMobileIcon,
-  CardMinimal,
+  CardMinimalIcon,
   CardPinIcon,
   CardRenewalIcon,
   CardShieldIcon,
@@ -269,15 +282,16 @@ export {
   CashIcon,
   CashPaymentBillIcon,
   CashPaymentIcon,
-  Chat,
-  CheckboxChecked,
-  CheckboxUnchecked,
+  ChatIcon,
+  CheckboxCheckedIcon,
+  CheckboxUncheckedIcon,
   CheckBoldIcon,
   CheckCircleIcon,
   CheckIcon,
   CheckLineIcon,
   ChevronDownIcon,
   ChevronLeftIcon,
+  ChevronsRightIcon,
   ChevronRightIcon,
   ChevronUpIcon,
   CircleIcon,
@@ -286,12 +300,12 @@ export {
   CloseBoldIcon,
   CloseIcon,
   CloseLineIcon,
-  Coin,
+  CoinIcon,
   CoinsIcon,
-  ColorLock,
-  ColorSecurity,
-  ColorSmartphone,
-  ColorUmbrella,
+  ColorLockIcon,
+  ColorSecurityIcon,
+  ColorSmartphoneIcon,
+  ColorUmbrellaIcon,
   CollapseSmallIcon,
   CollectIcon,
   ConnectCabifyImage,
@@ -304,7 +318,7 @@ export {
   DepositIcon,
   DescriptionAddedIcon,
   DescriptionIcon,
-  Details,
+  DetailsIcon,
   DeviceInsuranceIcon,
   DocumentAddedIcon,
   DocumentEditIcon,
@@ -342,6 +356,12 @@ export {
   InstagramIcon,
   InsuranceIcon,
   LanaCardIcon,
+  LanaCardAtmIcon,
+  LanaCardDelayImage,
+  LanaCardEmptyIcon,
+  LanaCardNewImage,
+  LanaCardArrivedImage,
+  LanaCardSmallIcon,
   LandlinePhoneIcon,
   LightIcon,
   LinkedinIcon,
@@ -360,6 +380,7 @@ export {
   MessageBoldIcon,
   MessageIcon,
   MessageLineIcon,
+  MobileIcon,
   MoneyBagIcon,
   MoneyIcon,
   MopErrorIcon,
@@ -391,11 +412,12 @@ export {
   RotateLandscapeIcon,
   RotatePortraitIcon,
   SaveMoneyIcon,
-  Savings,
+  SavingsIcon,
   ScanIcon,
   ScanFailureImage,
   ScanSuccessImage,
   SearchIcon,
+  SearchAtmIcon,
   SecurityIcon,
   SelfieIcon,
   SelfiePictureIcon,
@@ -406,12 +428,14 @@ export {
   ShareAndroidIcon,
   ShareIcon,
   ShareIosIcon,
-  Sheep,
+  SheepIcon,
   ShoppingIcon,
+  ShoppingSmallIcon,
   SignIcon,
   SmallCircleIcon,
   SmsIcon,
   SnowFlakeIcon,
+  SuccessImage,
   SuccessInfoImage,
   SuccessPhoneImage,
   SupportChatLineIcon,
@@ -456,5 +480,5 @@ export {
   WarningLineIcon,
   WaterIcon,
   WelcomeImage,
-  WorkInProgress,
+  WorkInProgressIcon,
 };
