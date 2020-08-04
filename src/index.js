@@ -86,6 +86,7 @@ import DownIcon from './icons/down.svg';
 import EditIcon from './icons/edit.svg';
 import EntertainmentIcon from './icons/entertainment.svg';
 import EraseIcon from './icons/erase.svg';
+import ErrorConnection from './icons/errorConnection.svg';
 import EuroBoldIcon from './icons/euroBold.svg';
 import EuroLineIcon from './icons/euroLine.svg';
 import ExpandSmallIcon from './icons/expandSmall.svg';
@@ -329,6 +330,7 @@ export {
   EditIcon,
   EntertainmentIcon,
   EraseIcon,
+  ErrorConnection,
   EuroBoldIcon,
   EuroLineIcon,
   ExpandSmallIcon,
