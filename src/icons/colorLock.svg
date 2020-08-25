@@ -1,5 +1,4 @@
 <svg class="icon" fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-    <rect width="48" height="48" fill="#fff"/>
     <mask id="a" fill="white">
         <path d="m15 20.824v-7.5934c0-5.0972 4.1336-9.2308 9.2308-9.2308 5.0971 0 9.2307 4.1336 9.2307 9.2308v7.5934"/>
     </mask>
