@@ -151,7 +151,7 @@ import MoreIcon from './icons/more.svg';
 import MoveMoneyIcon from './icons/moveMoney.svg';
 import NotificationsClearedIcon from './icons/notificationsCleared.svg';
 import NotificationsIcon from './icons/notifications.svg';
-import PaymentsIcon from './icons/PayImage.svg';
+import PaymentsIcon from './icons/payImage.svg';
 import PayIcon from './icons/pay.svg';
 import PdfIcon from './icons/pdf.svg';
 import PersonIcon from './icons/person.svg';
