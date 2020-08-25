@@ -113,6 +113,7 @@ import InfoIcon from './icons/infoBold.svg';
 import InfoLineIcon from './icons/infoLine.svg';
 import InstagramIcon from './icons/instagram.svg';
 import InsuranceIcon from './icons/insurance.svg';
+import LanaAppIcon from './icons/lanaAppImage.svg';
 import LanaCardIcon from './icons/lanaCard.svg';
 import LanaCardAtmIcon from './icons/lanaCardATM.svg';
 import LanaCardDelayImage from './icons/lanaCardDelayImage.svg';
@@ -150,6 +151,7 @@ import MoreIcon from './icons/more.svg';
 import MoveMoneyIcon from './icons/moveMoney.svg';
 import NotificationsClearedIcon from './icons/notificationsCleared.svg';
 import NotificationsIcon from './icons/notifications.svg';
+import PaymentsIcon from './icons/payImage.svg';
 import PayIcon from './icons/pay.svg';
 import PdfIcon from './icons/pdf.svg';
 import PersonIcon from './icons/person.svg';
@@ -233,6 +235,7 @@ import ViewMoreIcon from './icons/viewMore.svg';
 import ViewMoreVerticalIcon from './icons/viewMoreVertical.svg';
 import ViewoffIcon from './icons/viewOff.svg';
 import VoiceIcon from './icons/voice.svg';
+import ColorWalletIcon from './icons/walletImage.svg';
 import WalletIcon from './icons/wallet.svg';
 import WarningBoldIcon from './icons/warningBold.svg';
 import WarningIcon from './icons/warning.svg';
@@ -308,6 +311,7 @@ export {
   ColorSecurityIcon,
   ColorSmartphoneIcon,
   ColorUmbrellaIcon,
+  ColorWalletIcon,
   CollapseSmallIcon,
   CollectIcon,
   ConnectCabifyImage,
@@ -358,6 +362,7 @@ export {
   InfoLineIcon,
   InstagramIcon,
   InsuranceIcon,
+  LanaAppIcon,
   LanaCardIcon,
   LanaCardAtmIcon,
   LanaCardDelayImage,
@@ -395,6 +400,7 @@ export {
   MoveMoneyIcon,
   NotificationsClearedIcon,
   NotificationsIcon,
+  PaymentsIcon,
   PayIcon,
   PdfIcon,
   PersonIcon,
