@@ -149,6 +149,7 @@ import MopSpinnerIcon from './icons/mopSpinner.svg';
 import MopSuccessIcon from './icons/mopSuccess.svg';
 import MoreIcon from './icons/more.svg';
 import MoveMoneyIcon from './icons/moveMoney.svg';
+import NationalId from './icons/nationalId.svg';
 import NotificationsClearedIcon from './icons/notificationsCleared.svg';
 import NotificationsIcon from './icons/notifications.svg';
 import PaymentsIcon from './icons/payImage.svg';
@@ -398,6 +399,7 @@ export {
   MopSuccessIcon,
   MoreIcon,
   MoveMoneyIcon,
+  NationalId,
   NotificationsClearedIcon,
   NotificationsIcon,
   PaymentsIcon,
