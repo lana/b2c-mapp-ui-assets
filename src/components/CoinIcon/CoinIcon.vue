@@ -1,8 +1,8 @@
 <template>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
-    <rect width="48" height="48" fill="white"/>
+  <svg class="icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path d="M23.9998 4C12.9752 4 4 12.9753 4 24C4 35.0247 12.9752 44 23.9998 44C35.0244 44 43.9996 35.0247 43.9996 24C44.0703 12.9753 35.0951 4 23.9998 4Z" fill="url(#paint0_linear)"/>
     <mask id="mask0"
+          mask-type="alpha"
           maskUnits="userSpaceOnUse"
           x="4"
           y="4"

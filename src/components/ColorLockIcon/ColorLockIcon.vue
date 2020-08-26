@@ -1,9 +1,9 @@
 <template>
-  <svg class="icon" fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-    <mask id="a" fill="white">
-      <path d="m15 20.824v-7.5934c0-5.0972 4.1336-9.2308 9.2308-9.2308 5.0971 0 9.2307 4.1336 9.2307 9.2308v7.5934"/>
+  <svg class="icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <mask id="path-1-inside-1" fill="white">
+      <path d="M15 20.8242V13.2308C15 8.13363 19.1336 4 24.2308 4C29.3279 4 33.4615 8.13363 33.4615 13.2308V20.8242"/>
     </mask>
-    <path d="m12 20.824c0 1.6568 1.3431 3 3 3s3-1.3432 3-3h-6zm18.462 0c0 1.6568 1.3432 3 3 3 1.6569 0 3-1.3432 3-3h-6zm-12.462 0v-7.5934h-6v7.5934h6zm0-7.5934c0-3.4403 2.7905-6.2308 6.2308-6.2308v-6c-6.754 0-12.231 5.4768-12.231 12.231h6zm6.2308-6.2308c3.4403 0 6.2307 2.7905 6.2307 6.2308h6c0-6.754-5.4767-12.231-12.231-12.231v6zm6.2307 6.2308v7.5934h6v-7.5934h-6z" fill="#DFE1E6" mask="url(#a)"/>
+    <path d="M12 20.8242C12 22.481 13.3431 23.8242 15 23.8242C16.6569 23.8242 18 22.481 18 20.8242H12ZM30.4615 20.8242C30.4615 22.481 31.8047 23.8242 33.4615 23.8242C35.1184 23.8242 36.4615 22.481 36.4615 20.8242H30.4615ZM18 20.8242V13.2308H12V20.8242H18ZM18 13.2308C18 9.79048 20.7905 7 24.2308 7V1C17.4768 1 12 6.47677 12 13.2308H18ZM24.2308 7C27.6711 7 30.4615 9.79048 30.4615 13.2308H36.4615C36.4615 6.47677 30.9848 1 24.2308 1V7ZM30.4615 13.2308V20.8242H36.4615V13.2308H30.4615Z" fill="#DFE1E6" mask="url(#path-1-inside-1)"/>
     <rect x="9"
           y="20"
           width="30"
@@ -11,13 +11,13 @@
           rx="4"
           fill="#FAC34B"
     />
-    <mask id="c"
+    <mask id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
           x="9"
           y="20"
           width="30"
           height="24"
-          mask-type="alpha"
-          maskUnits="userSpaceOnUse"
     >
       <rect x="9"
             y="20"
@@ -27,27 +27,27 @@
             fill="#FAC34B"
       />
     </mask>
-    <g mask="url(#c)">
-      <path d="M39 44V20L9 44H39Z" fill="url(#b)" opacity=".5"/>
+    <g mask="url(#mask0)">
+      <path opacity="0.5" d="M39 44V20L9 44H39Z" fill="url(#paint0_linear)"/>
     </g>
-    <path d="m24 27c1.6575 0 3 1.3425 3 3s-1.3425 3-3 3-3-1.3425-3-3 1.3425-3 3-3z"
+    <path d="M24 27C25.6575 27 27 28.3425 27 30C27 31.6575 25.6575 33 24 33C22.3425 33 21 31.6575 21 30C21 28.3425 22.3425 27 24 27Z"
           fill="#C87C1B"
           stroke="#C87C1B"
+          stroke-width="2"
           stroke-linecap="round"
           stroke-linejoin="round"
-          stroke-width="2"
     />
-    <path d="m22.5 32.5h3v4.5c0 0.8284-0.6716 1.5-1.5 1.5s-1.5-0.6716-1.5-1.5v-4.5z" fill="#C87C1B" stroke="#C87C1B"/>
+    <path d="M22.5 32.5H25.5V37C25.5 37.8284 24.8284 38.5 24 38.5C23.1716 38.5 22.5 37.8284 22.5 37V32.5Z" fill="#C87C1B" stroke="#C87C1B"/>
     <defs>
-      <linearGradient id="b"
+      <linearGradient id="paint0_linear"
                       x1="39"
-                      x2="3"
                       y1="33"
+                      x2="3"
                       y2="50.5"
                       gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#FFDC84" offset="0"/>
-        <stop stop-color="#FBD677" stop-opacity="0" offset="1"/>
+        <stop stop-color="#FFDC84"/>
+        <stop offset="1" stop-color="#FBD677" stop-opacity="0"/>
       </linearGradient>
     </defs>
   </svg>
