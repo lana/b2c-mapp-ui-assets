@@ -1,11 +1,31 @@
-<svg class="icon" fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<template>
+  <svg class="icon" fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
     <rect width="48" height="48" fill="#fff"/>
-    <rect x="4" y="10" width="40" height="27" rx="5" fill="#F4F5F7"/>
-    <mask id="b" x="4" y="10" width="40" height="27" mask-type="alpha" maskUnits="userSpaceOnUse">
-        <rect x="4" y="10" width="40" height="27" rx="4" fill="#F4F5F7"/>
+    <rect x="4"
+          y="10"
+          width="40"
+          height="27"
+          rx="5"
+          fill="#F4F5F7"
+    />
+    <mask id="b"
+          x="4"
+          y="10"
+          width="40"
+          height="27"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+    >
+      <rect x="4"
+            y="10"
+            width="40"
+            height="27"
+            rx="4"
+            fill="#F4F5F7"
+      />
     </mask>
     <g mask="url(#b)">
-        <path d="M44 37V10L4 37H44Z" fill="url(#a)"/>
+      <path d="M44 37V10L4 37H44Z" fill="url(#a)"/>
     </g>
     <path d="m21 23c0-0.5523 0.4477-1 1-1h9c0.5522 0 1 0.4477 1 1s-0.4478 1-1 1h-9c-0.5523 0-1-0.4477-1-1z" fill="#19194B"/>
     <path d="m33 23c0-0.5523 0.4477-1 1-1h5c0.5523 0 1 0.4477 1 1s-0.4477 1-1 1h-5c-0.5523 0-1-0.4477-1-1z" fill="#19194B"/>
@@ -22,9 +42,16 @@
     <path d="m31 28c0-0.5523 0.4477-1 1-1h2c0.5522 0 1 0.4477 1 1 0 0.5522-0.4478 1-1 1h-2c-0.5523 0-1-0.4478-1-1z" fill="#00A0DF"/>
     <path d="m16.678 19.239c0 1.7888-1.4501 3.2389-3.2389 3.2389s-3.2389-1.4501-3.2389-3.2389 1.4501-3.2389 3.2389-3.2389 3.2389 1.4501 3.2389 3.2389zm-7.1927 5.7628c1.0488-1.0488 2.4708-1.6388 3.954-1.6405 1.4832 0.0017 2.9052 0.5917 3.954 1.6405s1.6387 2.4708 1.6405 3.954c0 0.0781-0.0311 0.153-0.0863 0.2082s-0.1301 0.0862-0.2082 0.0862h-10.6c-0.0781 0-0.15299-0.031-0.20821-0.0862s-0.08624-0.1301-0.08624-0.2082c0.00172-1.4832 0.59168-2.9052 1.6405-3.954z" clip-rule="evenodd" fill="#00A0DF" fill-rule="evenodd"/>
     <defs>
-        <linearGradient id="a" x1="26.5" x2="20" y1="9" y2="38" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#EBECF0" offset="0"/>
-            <stop stop-color="#EBECF0" stop-opacity="0" offset="1"/>
-        </linearGradient>
+      <linearGradient id="a"
+                      x1="26.5"
+                      x2="20"
+                      y1="9"
+                      y2="38"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#EBECF0" offset="0"/>
+        <stop stop-color="#EBECF0" stop-opacity="0" offset="1"/>
+      </linearGradient>
     </defs>
-</svg>
+  </svg>
+</template>

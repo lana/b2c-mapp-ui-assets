@@ -1,0 +1,54 @@
+<template>
+  <svg class="icon" fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <mask id="a" fill="white">
+      <path d="m15 20.824v-7.5934c0-5.0972 4.1336-9.2308 9.2308-9.2308 5.0971 0 9.2307 4.1336 9.2307 9.2308v7.5934"/>
+    </mask>
+    <path d="m12 20.824c0 1.6568 1.3431 3 3 3s3-1.3432 3-3h-6zm18.462 0c0 1.6568 1.3432 3 3 3 1.6569 0 3-1.3432 3-3h-6zm-12.462 0v-7.5934h-6v7.5934h6zm0-7.5934c0-3.4403 2.7905-6.2308 6.2308-6.2308v-6c-6.754 0-12.231 5.4768-12.231 12.231h6zm6.2308-6.2308c3.4403 0 6.2307 2.7905 6.2307 6.2308h6c0-6.754-5.4767-12.231-12.231-12.231v6zm6.2307 6.2308v7.5934h6v-7.5934h-6z" fill="#DFE1E6" mask="url(#a)"/>
+    <rect x="9"
+          y="20"
+          width="30"
+          height="24"
+          rx="4"
+          fill="#FAC34B"
+    />
+    <mask id="c"
+          x="9"
+          y="20"
+          width="30"
+          height="24"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+    >
+      <rect x="9"
+            y="20"
+            width="30"
+            height="24"
+            rx="4"
+            fill="#FAC34B"
+      />
+    </mask>
+    <g mask="url(#c)">
+      <path d="M39 44V20L9 44H39Z" fill="url(#b)" opacity=".5"/>
+    </g>
+    <path d="m24 27c1.6575 0 3 1.3425 3 3s-1.3425 3-3 3-3-1.3425-3-3 1.3425-3 3-3z"
+          fill="#C87C1B"
+          stroke="#C87C1B"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+    />
+    <path d="m22.5 32.5h3v4.5c0 0.8284-0.6716 1.5-1.5 1.5s-1.5-0.6716-1.5-1.5v-4.5z" fill="#C87C1B" stroke="#C87C1B"/>
+    <defs>
+      <linearGradient id="b"
+                      x1="39"
+                      x2="3"
+                      y1="33"
+                      y2="50.5"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#FFDC84" offset="0"/>
+        <stop stop-color="#FBD677" stop-opacity="0" offset="1"/>
+      </linearGradient>
+    </defs>
+  </svg>
+</template>
