@@ -1,255 +1,263 @@
 <template>
-  <svg class="icon" fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-    <mask id="l"
+  <svg class="icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <mask id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
           x="6"
           y="4"
           width="37"
           height="17"
-          mask-type="alpha"
-          maskUnits="userSpaceOnUse"
     >
-      <rect x="6.0526" y="4" width="36.842" height="16.842" fill="#C4C4C4"/>
+      <rect x="6.05261" y="4" width="36.8421" height="16.8421" fill="#C4C4C4"/>
     </mask>
-    <g mask="url(#l)">
-      <rect transform="rotate(-24.487 5.2793 20.344)"
-            x="5.2793"
-            y="20.344"
-            width="31.812"
-            height="19.364"
-            rx="2.2995"
-            fill="url(#b)"
+    <g mask="url(#mask0)">
+      <rect x="5.2793"
+            y="20.3436"
+            width="31.8121"
+            height="19.3639"
+            rx="2.29946"
+            transform="rotate(-24.487 5.2793 20.3436)"
+            fill="url(#paint0_linear)"
       />
-      <mask x="5"
-            y="7"
-            width="38"
-            height="31"
+      <mask id="mask1"
             mask-type="alpha"
             maskUnits="userSpaceOnUse"
+            x="6"
+            y="7"
+            width="36"
+            height="31"
       >
-        <rect transform="rotate(-24.487 5.2793 20.344)"
-              x="5.2793"
-              y="20.344"
-              width="31.812"
-              height="19.364"
-              rx="2.2995"
-              fill="url(#b)"
+        <rect x="5.2793"
+              y="20.3436"
+              width="31.8121"
+              height="19.3639"
+              rx="2.29946"
+              transform="rotate(-24.487 5.2793 20.3436)"
+              fill="url(#paint1_linear)"
         />
       </mask>
-      <mask id="j"
-            x="5"
-            y="7"
-            width="38"
-            height="31"
+      <g mask="url(#mask1)"/>
+      <mask id="mask2"
             mask-type="alpha"
             maskUnits="userSpaceOnUse"
+            x="6"
+            y="7"
+            width="36"
+            height="31"
       >
-        <rect transform="rotate(-24.487 5.2793 20.344)"
-              x="5.2793"
-              y="20.344"
-              width="31.812"
-              height="19.364"
-              rx="2.2995"
-              fill="url(#b)"
+        <rect x="5.2793"
+              y="20.3436"
+              width="31.8121"
+              height="19.3639"
+              rx="2.29946"
+              transform="rotate(-24.487 5.2793 20.3436)"
+              fill="url(#paint2_linear)"
         />
       </mask>
-      <g mask="url(#j)">
-        <path d="m42.256 24.78-8.0261-17.622-20.925 30.808 28.951-13.186z" fill="url(#c)"/>
+      <g mask="url(#mask2)">
+        <path d="M42.2562 24.7801L34.2301 7.1579L13.3054 37.9658L42.2562 24.7801Z" fill="url(#paint3_linear)"/>
       </g>
-      <mask id="i"
-            x="5"
-            y="7"
-            width="38"
-            height="31"
+      <mask id="mask3"
             mask-type="alpha"
             maskUnits="userSpaceOnUse"
+            x="6"
+            y="7"
+            width="36"
+            height="31"
       >
-        <rect transform="rotate(-24.487 5.2793 20.344)"
-              x="5.2793"
-              y="20.344"
-              width="31.812"
-              height="19.364"
-              rx="2.2995"
-              fill="url(#b)"
+        <rect x="5.2793"
+              y="20.3436"
+              width="31.8121"
+              height="19.3639"
+              rx="2.29946"
+              transform="rotate(-24.487 5.2793 20.3436)"
+              fill="url(#paint4_linear)"
         />
       </mask>
-      <g mask="url(#i)">
-        <g filter="url(#n)">
-          <rect transform="rotate(-24.487 5.2793 20.344)"
-                x="5.2793"
-                y="20.344"
-                width="31.812"
-                height="19.364"
-                rx="2.2995"
-                fill="url(#b)"
+      <g mask="url(#mask3)">
+        <g filter="url(#filter0_d)">
+          <rect x="5.2793"
+                y="20.3436"
+                width="31.8121"
+                height="19.3639"
+                rx="2.29946"
+                transform="rotate(-24.487 5.2793 20.3436)"
+                fill="url(#paint5_linear)"
           />
-          <mask x="5"
-                y="7"
-                width="38"
-                height="31"
+          <mask id="mask4"
                 mask-type="alpha"
                 maskUnits="userSpaceOnUse"
+                x="6"
+                y="7"
+                width="36"
+                height="31"
           >
-            <rect transform="rotate(-24.487 5.2793 20.344)"
-                  x="5.2793"
-                  y="20.344"
-                  width="31.812"
-                  height="19.364"
-                  rx="2.2995"
-                  fill="url(#b)"
+            <rect x="5.2793"
+                  y="20.3436"
+                  width="31.8121"
+                  height="19.3639"
+                  rx="2.29946"
+                  transform="rotate(-24.487 5.2793 20.3436)"
+                  fill="url(#paint6_linear)"
             />
           </mask>
-          <mask id="h"
-                x="5"
-                y="7"
-                width="38"
-                height="31"
+          <g mask="url(#mask4)"/>
+          <mask id="mask5"
                 mask-type="alpha"
                 maskUnits="userSpaceOnUse"
+                x="6"
+                y="7"
+                width="36"
+                height="31"
           >
-            <rect transform="rotate(-24.487 5.2793 20.344)"
-                  x="5.2793"
-                  y="20.344"
-                  width="31.812"
-                  height="19.364"
-                  rx="2.2995"
-                  fill="url(#b)"
+            <rect x="5.2793"
+                  y="20.3436"
+                  width="31.8121"
+                  height="19.3639"
+                  rx="2.29946"
+                  transform="rotate(-24.487 5.2793 20.3436)"
+                  fill="url(#paint7_linear)"
             />
           </mask>
-          <g mask="url(#h)">
-            <path d="m42.256 24.78-8.0261-17.622-20.925 30.808 28.951-13.186z" fill="url(#c)"/>
+          <g mask="url(#mask5)">
+            <path d="M42.2562 24.7801L34.2301 7.1579L13.3054 37.9658L42.2562 24.7801Z" fill="url(#paint8_linear)"/>
           </g>
         </g>
       </g>
-      <path d="m22.807 18.343c0.8343-0.2458 1.6428-0.1846 2.2188 0.1972 0.1094 0.0844 0.1992 0.1777 0.26 0.3111 0.1518 0.3334 0.0382 0.7072-0.2556 0.8411-0.1372 0.0624-0.3148 0.036-0.5228-0.0572-0.4653-0.1906-1.0962-0.2254-1.6448 0.0244-0.8228 0.3748-0.9142 0.9532-0.7117 1.3978 0.6682 1.4671 3.9395-0.8548 5.2051 1.9238 0.5568 1.2226 0.2356 2.3352-1.0061 3.0886l0.2835 0.6224c0.1316 0.289 0.0274 0.6317-0.2272 0.7477-0.2547 0.116-0.562-0.0393-0.6936-0.3283l-0.2835-0.6224c-1.0207 0.3038-2.0284 0.0649-2.6449-0.4058-0.0797-0.0711-0.1695-0.1644-0.2201-0.2755-0.1519-0.3335-0.0383-0.7073 0.2556-0.8411 0.2155-0.0982 0.3938-0.0183 0.5423 0.0482 0.6241 0.2794 1.3251 0.4164 1.9912 0.113 0.9012-0.4104 1.1804-0.9402 0.8665-1.6293-0.7391-1.6227-3.9901 0.7437-5.2051-1.9238-0.4556-1.0003-0.2917-2.0948 0.8912-2.8215l-0.2936-0.6446c-0.1316-0.289-0.0275-0.6317 0.2076-0.7388 0.2547-0.116 0.5816 0.0304 0.7132 0.3194l0.2936 0.6446-0.0196 9e-3z" fill="#20804E"/>
-      <rect transform="rotate(-24.487 7.6438 21.228)"
-            x="7.6438"
-            y="21.228"
-            width="27.896"
-            height="15.794"
-            rx="1.1497"
-            opacity=".5"
+      <path d="M22.8069 18.3427C23.6412 18.0969 24.4497 18.1581 25.0257 18.5399C25.1351 18.6243 25.2249 18.7176 25.2857 18.851C25.4375 19.1844 25.3239 19.5582 25.0301 19.6921C24.8929 19.7545 24.7153 19.7281 24.5073 19.6349C24.042 19.4443 23.4111 19.4095 22.8625 19.6593C22.0397 20.0341 21.9483 20.6125 22.1508 21.0571C22.819 22.5242 26.0903 20.2023 27.3559 22.9809C27.9127 24.2035 27.5915 25.3161 26.3498 26.0695L26.6333 26.6919C26.7649 26.9809 26.6607 27.3236 26.4061 27.4396C26.1514 27.5556 25.8441 27.4003 25.7125 27.1113L25.429 26.4889C24.4083 26.7927 23.4006 26.5538 22.7841 26.0831C22.7044 26.012 22.6146 25.9187 22.564 25.8076C22.4121 25.4741 22.5257 25.1003 22.8196 24.9665C23.0351 24.8683 23.2134 24.9482 23.3619 25.0147C23.986 25.2941 24.687 25.4311 25.3531 25.1277C26.2543 24.7173 26.5335 24.1875 26.2196 23.4984C25.4805 21.8757 22.2295 24.2421 21.0145 21.5746C20.5589 20.5743 20.7228 19.4798 21.9057 18.7531L21.6121 18.1085C21.4805 17.8195 21.5846 17.4768 21.8197 17.3697C22.0744 17.2537 22.4013 17.4001 22.5329 17.6891L22.8265 18.3337L22.8069 18.3427Z" fill="#20804E"/>
+      <rect opacity="0.5"
+            x="7.64376"
+            y="21.2283"
+            width="27.8961"
+            height="15.7937"
+            rx="1.14973"
+            transform="rotate(-24.487 7.64376 21.2283)"
             stroke="#4ABE6B"
-            stroke-width="1.1497"
+            stroke-width="1.14973"
       />
-      <rect transform="rotate(-33.417 1 24.52)"
-            x="1"
-            y="24.52"
-            width="31.812"
-            height="19.364"
-            rx="2.2995"
-            fill="url(#a)"
+      <rect x="1"
+            y="24.5199"
+            width="31.8121"
+            height="19.3639"
+            rx="2.29946"
+            transform="rotate(-33.4172 1 24.5199)"
+            fill="url(#paint9_linear)"
       />
-      <mask x="1"
-            y="7"
-            width="38"
-            height="34"
+      <mask id="mask6"
             mask-type="alpha"
             maskUnits="userSpaceOnUse"
-      >
-        <rect transform="rotate(-33.417 1 24.52)"
-              x="1"
-              y="24.52"
-              width="31.812"
-              height="19.364"
-              rx="2.2995"
-              fill="url(#a)"
-        />
-      </mask>
-      <mask id="g"
             x="1"
             y="7"
-            width="38"
-            height="34"
-            mask-type="alpha"
-            maskUnits="userSpaceOnUse"
+            width="37"
+            height="33"
       >
-        <rect transform="rotate(-33.417 1 24.52)"
-              x="1"
-              y="24.52"
-              width="31.812"
-              height="19.364"
-              rx="2.2995"
-              fill="url(#a)"
+        <rect x="1"
+              y="24.5199"
+              width="31.8121"
+              height="19.3639"
+              rx="2.29946"
+              transform="rotate(-33.4172 1 24.5199)"
+              fill="url(#paint10_linear)"
         />
       </mask>
-      <g mask="url(#g)">
-        <path d="m38.217 23.163-10.664-16.163-15.889 33.683 26.553-17.52z" fill="url(#d)"/>
+      <g mask="url(#mask6)"/>
+      <mask id="mask7"
+            mask-type="alpha"
+            maskUnits="userSpaceOnUse"
+            x="1"
+            y="7"
+            width="37"
+            height="33"
+      >
+        <rect x="1"
+              y="24.5199"
+              width="31.8121"
+              height="19.3639"
+              rx="2.29946"
+              transform="rotate(-33.4172 1 24.5199)"
+              fill="url(#paint11_linear)"
+        />
+      </mask>
+      <g mask="url(#mask7)">
+        <path d="M38.2173 23.1627L27.553 7L11.6643 40.6826L38.2173 23.1627Z" fill="url(#paint12_linear)"/>
       </g>
-      <mask id="f"
-            x="1"
-            y="7"
-            width="38"
-            height="34"
+      <mask id="mask8"
             mask-type="alpha"
             maskUnits="userSpaceOnUse"
+            x="1"
+            y="7"
+            width="37"
+            height="33"
       >
-        <rect transform="rotate(-33.417 1 24.52)"
-              x="1"
-              y="24.52"
-              width="31.812"
-              height="19.364"
-              rx="2.2995"
-              fill="url(#a)"
+        <rect x="1"
+              y="24.5199"
+              width="31.8121"
+              height="19.3639"
+              rx="2.29946"
+              transform="rotate(-33.4172 1 24.5199)"
+              fill="url(#paint13_linear)"
         />
       </mask>
-      <g mask="url(#f)">
-        <g filter="url(#m)">
-          <rect transform="rotate(-33.417 1 24.52)"
-                x="1"
-                y="24.52"
-                width="31.812"
-                height="19.364"
-                rx="2.2995"
-                fill="url(#a)"
+      <g mask="url(#mask8)">
+        <g filter="url(#filter1_d)">
+          <rect x="1"
+                y="24.5199"
+                width="31.8121"
+                height="19.3639"
+                rx="2.29946"
+                transform="rotate(-33.4172 1 24.5199)"
+                fill="url(#paint14_linear)"
           />
-          <mask x="1"
-                y="7"
-                width="38"
-                height="34"
+          <mask id="mask9"
                 mask-type="alpha"
                 maskUnits="userSpaceOnUse"
-          >
-            <rect transform="rotate(-33.417 1 24.52)"
-                  x="1"
-                  y="24.52"
-                  width="31.812"
-                  height="19.364"
-                  rx="2.2995"
-                  fill="url(#a)"
-            />
-          </mask>
-          <mask id="k"
                 x="1"
                 y="7"
-                width="38"
-                height="34"
-                mask-type="alpha"
-                maskUnits="userSpaceOnUse"
+                width="37"
+                height="33"
           >
-            <rect transform="rotate(-33.417 1 24.52)"
-                  x="1"
-                  y="24.52"
-                  width="31.812"
-                  height="19.364"
-                  rx="2.2995"
-                  fill="url(#a)"
+            <rect x="1"
+                  y="24.5199"
+                  width="31.8121"
+                  height="19.3639"
+                  rx="2.29946"
+                  transform="rotate(-33.4172 1 24.5199)"
+                  fill="url(#paint15_linear)"
             />
           </mask>
-          <g mask="url(#k)">
-            <path d="m38.217 23.163-10.664-16.163-15.889 33.683 26.553-17.52z" fill="url(#d)"/>
+          <g mask="url(#mask9)"/>
+          <mask id="mask10"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                x="1"
+                y="7"
+                width="37"
+                height="33"
+          >
+            <rect x="1"
+                  y="24.5199"
+                  width="31.8121"
+                  height="19.3639"
+                  rx="2.29946"
+                  transform="rotate(-33.4172 1 24.5199)"
+                  fill="url(#paint16_linear)"
+            />
+          </mask>
+          <g mask="url(#mask10)">
+            <path d="M38.2173 23.1627L27.553 7L11.6643 40.6826L38.2173 23.1627Z" fill="url(#paint17_linear)"/>
           </g>
         </g>
       </g>
-      <path d="m18.004 19.822c0.786-0.3723 1.5942-0.4373 2.2226-0.1495 0.1211 0.0664 0.2243 0.1446 0.305 0.2669 0.2018 0.3058 0.1476 0.6928-0.1219 0.8706-0.1258 0.083-0.3054 0.0844-0.5253 0.0247-0.4893-0.1161-1.1179-0.0525-1.621 0.2794-0.7547 0.498-0.7552 1.0836-0.4861 1.4913 0.8878 1.3457 3.759-1.456 5.4406 1.0925 0.7398 1.1214 0.5952 2.2703-0.5145 3.2074l0.3767 0.5708c0.1748 0.2651 0.1252 0.6198-0.1084 0.7739s-0.5613 0.0484-0.7362-0.2166l-0.3766-0.5709c-0.9612 0.4586-1.9938 0.379-2.6759 0.0097-0.0897-0.0578-0.1929-0.1361-0.2602-0.238-0.2018-0.3058-0.1476-0.6928 0.1219-0.8706 0.1977-0.1304 0.3862-0.0792 0.5433-0.0366 0.6599 0.1792 1.3737 0.2057 1.9846-0.1974 0.8266-0.5454 1.0201-1.112 0.6031-1.744-0.982-1.4884-3.8263 1.3541-5.4406-1.0925-0.6054-0.9175-0.6134-2.0242 0.4424-2.9257l-0.3901-0.5913c-0.1749-0.265-0.1252-0.6197 0.0904-0.762 0.2336-0.1541 0.5792-0.0602 0.7541 0.2048l0.3901 0.5913-0.018 0.0118z" fill="#20804E"/>
-      <rect transform="rotate(-33.417 3.4732 25.027)"
-            x="3.4732"
-            y="25.027"
-            width="27.896"
-            height="15.794"
-            rx="1.1497"
-            opacity=".5"
+      <path d="M18.0045 19.8224C18.7905 19.4501 19.5987 19.3851 20.2271 19.6729C20.3482 19.7393 20.4514 19.8175 20.5321 19.9398C20.7339 20.2456 20.6797 20.6326 20.4102 20.8104C20.2844 20.8934 20.1048 20.8948 19.8849 20.8351C19.3956 20.719 18.767 20.7826 18.2639 21.1145C17.5092 21.6125 17.5087 22.1981 17.7778 22.6058C18.6656 23.9515 21.5368 21.1498 23.2184 23.6983C23.9582 24.8197 23.8136 25.9686 22.7039 26.9057L23.0806 27.4765C23.2554 27.7416 23.2058 28.0963 22.9722 28.2504C22.7386 28.4045 22.4109 28.2988 22.236 28.0338L21.8594 27.4629C20.8982 27.9215 19.8656 27.8419 19.1835 27.4726C19.0938 27.4148 18.9906 27.3365 18.9233 27.2346C18.7215 26.9288 18.7757 26.5418 19.0452 26.364C19.2429 26.2336 19.4314 26.2848 19.5885 26.3274C20.2484 26.5066 20.9622 26.5331 21.5731 26.13C22.3997 25.5846 22.5932 25.018 22.1762 24.386C21.1942 22.8976 18.3499 25.7401 16.7356 23.2935C16.1302 22.376 16.1222 21.2693 17.178 20.3678L16.7879 19.7765C16.613 19.5115 16.6627 19.1568 16.8783 19.0145C17.1119 18.8604 17.4575 18.9543 17.6324 19.2193L18.0225 19.8106L18.0045 19.8224Z" fill="#20804E"/>
+      <rect opacity="0.5"
+            x="3.47318"
+            y="25.0268"
+            width="27.8961"
+            height="15.7937"
+            rx="1.14973"
+            transform="rotate(-33.4172 3.47318 25.0268)"
             stroke="#4ABE6B"
-            stroke-width="1.1497"
+            stroke-width="1.14973"
       />
     </g>
     <rect x="5"
@@ -257,110 +265,250 @@
           width="37"
           height="26"
           rx="6"
-          fill="url(#e)"
+          fill="url(#paint18_linear)"
     />
-    <rect x="6.5"
+    <rect opacity="0.2"
+          x="6.5"
           y="19.5"
           width="34"
           height="23"
           rx="5"
-          opacity=".2"
           stroke="#6F3507"
-          stroke-dasharray="1 1"
+          stroke-width="0.7"
           stroke-linecap="round"
-          stroke-width=".7"
+          stroke-dasharray="1 1"
     />
-    <path d="m41.333 38c0.7073 0 1.3856-0.2739 1.8857-0.7615 0.5-0.4876 0.781-1.1489 0.781-1.8385v-7.8c0-0.6896-0.281-1.3509-0.781-1.8385-0.5001-0.4876-1.1784-0.7615-1.8857-0.7615h-6.6666c-1.7681 0-3.4638 0.6848-4.7141 1.9038-1.2502 1.219-1.9526 2.8723-1.9526 4.5962s0.7024 3.3772 1.9526 4.5962c1.2503 1.219 2.946 1.9038 4.7141 1.9038h6.6666z" fill="#A76013"/>
-    <path d="m40.667 37c0.6188 0 1.2123-0.2318 1.6499-0.6444 0.4376-0.4125 0.6834-0.9721 0.6834-1.5556v-6.6c0-0.5835-0.2458-1.1431-0.6834-1.5556-0.4376-0.4126-1.0311-0.6444-1.6499-0.6444h-5.8334c-1.5471 0-3.0308 0.5795-4.1248 1.6109-1.0939 1.0315-1.7085 2.4304-1.7085 3.8891s0.6146 2.8576 1.7085 3.8891c1.094 1.0314 2.5777 1.6109 4.1248 1.6109h5.8334z"
-          opacity=".2"
+    <path d="M41.3333 38C42.0406 38 42.7189 37.7261 43.219 37.2385C43.719 36.7509 44 36.0896 44 35.4V27.6C44 26.9104 43.719 26.2491 43.219 25.7615C42.7189 25.2739 42.0406 25 41.3333 25H34.6667C32.8986 25 31.2029 25.6848 29.9526 26.9038C28.7024 28.1228 28 29.7761 28 31.5C28 33.2239 28.7024 34.8772 29.9526 36.0962C31.2029 37.3152 32.8986 38 34.6667 38H41.3333Z" fill="#A76013"/>
+    <path opacity="0.2"
+          d="M40.6667 37C41.2855 37 41.879 36.7682 42.3166 36.3556C42.7542 35.9431 43 35.3835 43 34.8V28.2C43 27.6165 42.7542 27.0569 42.3166 26.6444C41.879 26.2318 41.2855 26 40.6667 26H34.8333C33.2862 26 31.8025 26.5795 30.7085 27.6109C29.6146 28.6424 29 30.0413 29 31.5C29 32.9587 29.6146 34.3576 30.7085 35.3891C31.8025 36.4205 33.2862 37 34.8333 37H40.6667Z"
           stroke="#6F3507"
-          stroke-dasharray="1 1"
+          stroke-width="0.7"
           stroke-linecap="round"
-          stroke-width=".7"
+          stroke-dasharray="1 1"
     />
-    <path d="m34.603 29.511c-0.5128 0-1.0045 0.2037-1.3671 0.5662-0.3626 0.3626-0.5663 0.8544-0.5663 1.3672 0 0.3823 0.1134 0.7562 0.3258 1.0741 0.2125 0.318 0.5144 0.5658 0.8677 0.7121s0.742 0.1846 1.1171 0.11c0.375-0.0746 0.7195-0.2587 0.9899-0.5291s0.4545-0.6149 0.5291-0.9899c0.0746-0.3751 0.0364-0.7638-0.11-1.1171-0.1463-0.3533-0.3941-0.6553-0.7121-0.8677-0.3179-0.2124-0.6917-0.3258-1.0741-0.3258z" clip-rule="evenodd" fill="#6F3507" fill-rule="evenodd"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M34.6026 29.5113C34.0898 29.5113 33.5981 29.715 33.2355 30.0775C32.8729 30.4401 32.6692 30.9319 32.6692 31.4447C32.6692 31.827 32.7826 32.2009 32.995 32.5188C33.2075 32.8368 33.5094 33.0846 33.8627 33.2309C34.216 33.3772 34.6047 33.4155 34.9798 33.3409C35.3548 33.2663 35.6993 33.0822 35.9697 32.8118C36.2401 32.5414 36.4242 32.1969 36.4988 31.8219C36.5734 31.4468 36.5352 31.0581 36.3888 30.7048C36.2425 30.3515 35.9947 30.0495 35.6767 29.8371C35.3588 29.6247 34.985 29.5113 34.6026 29.5113Z" fill="#6F3507"/>
     <defs>
-      <filter id="n"
-              x="2.9798"
-              y=".25951"
-              width="46.175"
-              height="40.006"
-              color-interpolation-filters="sRGB"
+      <filter id="filter0_d"
+              x="3.72556"
+              y="1.00522"
+              width="44.6833"
+              height="38.5143"
               filterUnits="userSpaceOnUse"
+              color-interpolation-filters="sRGB"
       >
         <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-        <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
         <feOffset dx="2.29946" dy="-2.29946"/>
         <feGaussianBlur stdDeviation="2.29946"/>
-        <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
-        <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
-        <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+        <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+        <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
       </filter>
-      <filter id="m"
-              x="-1.2995"
-              y=".10161"
-              width="46.415"
-              height="42.88"
-              color-interpolation-filters="sRGB"
+      <filter id="filter1_d"
+              x="-0.413476"
+              y="0.987598"
+              width="44.6432"
+              height="41.1085"
               filterUnits="userSpaceOnUse"
+              color-interpolation-filters="sRGB"
       >
         <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-        <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
         <feOffset dx="2.29946" dy="-2.29946"/>
         <feGaussianBlur stdDeviation="2.29946"/>
-        <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
-        <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
-        <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+        <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+        <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
       </filter>
-      <linearGradient id="b"
-                      x1="21.185"
-                      x2="21.185"
-                      y1="20.344"
-                      y2="54.23"
+      <linearGradient id="paint0_linear"
+                      x1="21.1854"
+                      y1="20.3436"
+                      x2="21.1854"
+                      y2="54.2304"
                       gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#66DE7D" offset="0"/>
-        <stop stop-color="#4ABE6B" offset="1"/>
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
       </linearGradient>
-      <linearGradient id="c"
-                      x1="29.698"
-                      x2="14.198"
-                      y1="13.655"
-                      y2="38.616"
+      <linearGradient id="paint1_linear"
+                      x1="21.1854"
+                      y1="20.3436"
+                      x2="21.1854"
+                      y2="54.2304"
                       gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#66DE7D" offset="0"/>
-        <stop stop-color="#4ABE6B" offset="1"/>
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
       </linearGradient>
-      <linearGradient id="a"
-                      x1="16.906"
-                      x2="16.906"
-                      y1="24.52"
-                      y2="58.407"
+      <linearGradient id="paint2_linear"
+                      x1="21.1854"
+                      y1="20.3436"
+                      x2="21.1854"
+                      y2="54.2304"
                       gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#66DE7D" offset="0"/>
-        <stop stop-color="#4ABE6B" offset="1"/>
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
       </linearGradient>
-      <linearGradient id="d"
-                      x1="24.085"
-                      x2="12.647"
-                      y1="14.122"
-                      y2="41.186"
+      <linearGradient id="paint3_linear"
+                      x1="29.6985"
+                      y1="13.6547"
+                      x2="14.1976"
+                      y2="38.6157"
                       gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#66DE7D" offset="0"/>
-        <stop stop-color="#4ABE6B" offset="1"/>
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
       </linearGradient>
-      <linearGradient id="e"
+      <linearGradient id="paint4_linear"
+                      x1="21.1854"
+                      y1="20.3436"
+                      x2="21.1854"
+                      y2="54.2304"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint5_linear"
+                      x1="21.1854"
+                      y1="20.3436"
+                      x2="21.1854"
+                      y2="54.2304"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint6_linear"
+                      x1="21.1854"
+                      y1="20.3436"
+                      x2="21.1854"
+                      y2="54.2304"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint7_linear"
+                      x1="21.1854"
+                      y1="20.3436"
+                      x2="21.1854"
+                      y2="54.2304"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint8_linear"
+                      x1="29.6985"
+                      y1="13.6547"
+                      x2="14.1976"
+                      y2="38.6157"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint9_linear"
+                      x1="16.9061"
+                      y1="24.5199"
+                      x2="16.9061"
+                      y2="58.4067"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint10_linear"
+                      x1="16.9061"
+                      y1="24.5199"
+                      x2="16.9061"
+                      y2="58.4067"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint11_linear"
+                      x1="16.9061"
+                      y1="24.5199"
+                      x2="16.9061"
+                      y2="58.4067"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint12_linear"
+                      x1="24.0848"
+                      y1="14.1215"
+                      x2="12.6466"
+                      y2="41.1861"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint13_linear"
+                      x1="16.9061"
+                      y1="24.5199"
+                      x2="16.9061"
+                      y2="58.4067"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint14_linear"
+                      x1="16.9061"
+                      y1="24.5199"
+                      x2="16.9061"
+                      y2="58.4067"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint15_linear"
+                      x1="16.9061"
+                      y1="24.5199"
+                      x2="16.9061"
+                      y2="58.4067"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint16_linear"
+                      x1="16.9061"
+                      y1="24.5199"
+                      x2="16.9061"
+                      y2="58.4067"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint17_linear"
+                      x1="24.0848"
+                      y1="14.1215"
+                      x2="12.6466"
+                      y2="41.1861"
+                      gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#66DE7D"/>
+        <stop offset="1" stop-color="#4ABE6B"/>
+      </linearGradient>
+      <linearGradient id="paint18_linear"
                       x1="5"
-                      x2="30.488"
                       y1="58.326"
-                      y2="-2.5926"
+                      x2="30.488"
+                      y2="-2.59265"
                       gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#A76013" offset="0"/>
-        <stop stop-color="#E99B26" offset="1"/>
+        <stop stop-color="#A76013"/>
+        <stop offset="1" stop-color="#E99B26"/>
       </linearGradient>
     </defs>
   </svg>
