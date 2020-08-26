@@ -1,37 +1,20 @@
-<svg class="icon"
-     viewBox="0 0 40 40"
-     fill="none"
-     xmlns="http://www.w3.org/2000/svg"
->
-  <path d="M0 0H40V40H0V0Z" fill="white" />
-  <path d="M29 25C29 27.7614 24.9706 30 20 30C15.0294 30 11 27.7614 11 25C11 22.2386 15.0294 20 20 20C24.9706 20 29 22.2386 29 25Z"
-        fill="#FAC34B"
-  />
-  <path fill-rule="evenodd"
-        clip-rule="evenodd"
-        d="M20.0299 32C20.9504 32 21.6966 32.7462 21.6966 33.6667V37.6667C21.6966 38.5871 20.9504 39.3333 20.0299 39.3333C19.1095 39.3333 18.3633 38.5871 18.3633 37.6667V33.6667C18.3633 32.7462 19.1095 32 20.0299 32Z"
-        fill="#FAC34B"
-  />
-  <path fill-rule="evenodd"
-        clip-rule="evenodd"
-        d="M11.7751 30.176C12.5984 30.5876 12.9321 31.5887 12.5205 32.412L10.5205 36.412C10.1088 37.2353 9.10773 37.569 8.28443 37.1574C7.46113 36.7457 7.12743 35.7446 7.53907 34.9213L9.53907 30.9213C9.95072 30.098 10.9518 29.7643 11.7751 30.176Z"
-        fill="#FAC34B"
-  />
-  <path fill-rule="evenodd"
-        clip-rule="evenodd"
-        d="M28.2844 30.176C29.1077 29.7643 30.1088 30.098 30.5205 30.9213L32.5205 34.9213C32.9321 35.7446 32.5984 36.7457 31.7751 37.1574C30.9518 37.569 29.9507 37.2353 29.5391 36.412L27.5391 32.412C27.1274 31.5887 27.4611 30.5876 28.2844 30.176Z"
-        fill="#FAC34B"
-  />
-  <rect x="19" width="2" height="7" fill="#19194B" />
-  <path d="M18.4144 11H21.5856C28.9942 11 35 17.0058 35 24.4144C35 24.7378 34.7378 25 34.4144 25H5.58559C5.26218 25 5 24.7378 5 24.4144C5 17.0058 11.0058 11 18.4144 11Z"
-        fill="#66C6EC"
-        stroke="#19194B"
-        stroke-width="2"
-  />
-  <path d="M16 7H24C24.5523 7 25 7.44772 25 8V11H15V8C15 7.44772 15.4477 7 16 7Z"
-        fill="#00A0DF"
-        stroke="#19194B"
-        stroke-width="2"
-  />
-  <rect x="2" width="36" height="2" rx="1" fill="#EBECF0" />
+<svg class="icon" id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 36 39.333">
+  <defs>
+    <linearGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" x1="20" y1="19.89" x2="20" y2="9.89" gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e99b26"/>
+      <stop offset="1" stop-color="#fac34b"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_2" data-name="Degradado sin nombre 2" x1="20" y1="29.89" x2="20" y2="8.39" gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00a0df"/>
+      <stop offset="1" stop-color="#66c6ec"/>
+    </linearGradient>
+  </defs>
+  <path d="M29,25c0,2.761-4.029,5-9,5s-9-2.239-9-5,4.029-5,9-5S29,22.239,29,25Z" transform="translate(-2 0)" fill="url(#Degradado_sin_nombre)"/>
+  <path d="M20.03,32A1.667,1.667,0,0,1,21.7,33.667v4a1.667,1.667,0,0,1-3.334,0v-4A1.667,1.667,0,0,1,20.03,32Z" transform="translate(-2 0)" fill="#fac34b" fill-rule="evenodd"/>
+  <path d="M11.775,30.176a1.668,1.668,0,0,1,.746,2.236l-2,4a1.667,1.667,0,0,1-2.982-1.491l2-4A1.667,1.667,0,0,1,11.775,30.176Z" transform="translate(-2 0)" fill="#fac34b" fill-rule="evenodd"/>
+  <path d="M28.284,30.176a1.667,1.667,0,0,1,2.237.745l2,4a1.667,1.667,0,0,1-2.982,1.491l-2-4A1.667,1.667,0,0,1,28.284,30.176Z" transform="translate(-2 0)" fill="#fac34b" fill-rule="evenodd"/>
+  <rect x="17" width="2" height="7" fill="#19194b"/>
+  <path d="M14,8a2,2,0,0,1,2-2h8a2,2,0,0,1,2,2v4H14Z" transform="translate(-2 0)" fill="#007cbf"/>
+  <path d="M3,0H37a1,1,0,0,1,1,1h0a1,1,0,0,1-1,1H3A1,1,0,0,1,2,1H2A1,1,0,0,1,3,0Z" transform="translate(-2 0)" fill="#ebecf0"/>
+  <path d="M4,24.414A14.415,14.415,0,0,1,18.414,10h3.172A14.415,14.415,0,0,1,36,24.414,1.586,1.586,0,0,1,34.414,26H5.586A1.586,1.586,0,0,1,4,24.414Z" transform="translate(-2 0)" fill="url(#Degradado_sin_nombre_2)"/>
 </svg>

@@ -1,28 +1,38 @@
 <template>
-  <svg class="icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M24.4017 15.9658C27.706 15.9658 30.3846 13.2872 30.3846 9.9829C30.3846 6.67864 27.706 4 24.4017 4C21.0975 4 18.4188 6.67864 18.4188 9.9829C18.4188 13.2872 21.0975 15.9658 24.4017 15.9658Z" fill="url(#paint0_linear)"/>
-    <path d="M24.4017 17.5043C21.9091 17.507 19.5193 18.4984 17.7567 20.261C15.9941 22.0235 15.0027 24.4133 15 26.906L15 32.8889C15 33.1156 15.09 33.333 15.2503 33.4933C15.4106 33.6535 15.628 33.7436 15.8547 33.7436H18.9487C19.0558 33.7436 19.159 33.7839 19.2378 33.8564C19.3166 33.9289 19.3654 34.0283 19.3744 34.135L20.1282 43.2171C20.1462 43.4311 20.2442 43.6305 20.4026 43.7756C20.5609 43.9206 20.7681 44.0008 20.9829 44H27.8205C28.0353 44.0008 28.2425 43.9206 28.4008 43.7756C28.5592 43.6305 28.6572 43.4311 28.6752 43.2171L29.4325 34.135C29.4414 34.0289 29.4897 33.9299 29.5678 33.8575C29.6459 33.7851 29.7482 33.7445 29.8547 33.7436H32.9487C33.1754 33.7436 33.3928 33.6535 33.5531 33.4933C33.7134 33.333 33.8034 33.1156 33.8034 32.8889V26.906C33.8007 24.4133 32.8093 22.0235 31.0467 20.261C29.2841 18.4984 26.8944 17.507 24.4017 17.5043Z" fill="url(#paint1_linear)"/>
+  <svg id="Capa_1"
+       class="icon"
+       data-name="Capa 1"
+       xmlns="http://www.w3.org/2000/svg"
+       xmlns:xlink="http://www.w3.org/1999/xlink"
+       viewBox="0 0 18.803 40"
+  >
     <defs>
-      <linearGradient id="paint0_linear"
-                      x1="24.4017"
-                      y1="4"
-                      x2="24.4017"
-                      y2="45.2694"
+      <linearGradient id="Degradado_sin_nombre"
+                      data-name="Degradado sin nombre"
+                      x1="20.402"
+                      y1="39.89"
+                      x2="20.402"
+                      y2="-1.38"
+                      gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
                       gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#FAF0E1"/>
-        <stop offset="1" stop-color="#D7C0A4"/>
+        <stop offset="0" stop-color="#faf0e1"/>
+        <stop offset="1" stop-color="#d7c0a4"/>
       </linearGradient>
-      <linearGradient id="paint1_linear"
-                      x1="24.4017"
-                      y1="17.5043"
-                      x2="24.4017"
-                      y2="81.851"
+      <linearGradient id="Degradado_sin_nombre_2"
+                      data-name="Degradado sin nombre 2"
+                      x1="20.402"
+                      y1="26.385"
+                      x2="20.402"
+                      y2="-37.961"
+                      gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
                       gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#00A0DF"/>
-        <stop offset="1" stop-color="#007CBF"/>
+        <stop offset="0" stop-color="#00a0df"/>
+        <stop offset="1" stop-color="#007cbf"/>
       </linearGradient>
     </defs>
+    <path d="M20.4,11.966a5.983,5.983,0,1,0-5.983-5.983A5.983,5.983,0,0,0,20.4,11.966Z" transform="translate(-11 0)" fill="url(#Degradado_sin_nombre)"/>
+    <path d="M20.4,13.5a9.413,9.413,0,0,0-9.4,9.4v5.983a.855.855,0,0,0,.855.855h3.094a.425.425,0,0,1,.425.391l.754,9.082a.855.855,0,0,0,.855.783H23.82a.853.853,0,0,0,.855-.783l.758-9.082a.425.425,0,0,1,.422-.391h3.094a.855.855,0,0,0,.854-.855V22.906a9.411,9.411,0,0,0-9.4-9.4Z" transform="translate(-11 0)" fill="url(#Degradado_sin_nombre_2)"/>
   </svg>
 </template>

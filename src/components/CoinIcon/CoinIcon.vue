@@ -1,52 +1,74 @@
 <template>
-  <svg class="icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M23.9998 4C12.9752 4 4 12.9753 4 24C4 35.0247 12.9752 44 23.9998 44C35.0244 44 43.9996 35.0247 43.9996 24C44.0703 12.9753 35.0951 4 23.9998 4Z" fill="url(#paint0_linear)"/>
-    <mask id="mask0"
-          mask-type="alpha"
-          maskUnits="userSpaceOnUse"
-          x="4"
-          y="4"
-          width="40"
-          height="40"
-    >
-      <path d="M23.9998 4C12.9752 4 4 12.9753 4 24C4 35.0247 12.9752 44 23.9998 44C35.0244 44 43.9996 35.0247 43.9996 24C44.0703 12.9753 35.0951 4 23.9998 4Z" fill="url(#paint1_linear)"/>
-    </mask>
-    <g mask="url(#mask0)">
-      <path d="M44 44V4L4 44H44Z" fill="url(#paint2_linear)"/>
-    </g>
-    <path opacity="0.5" d="M24.0875 7.33331C14.9003 7.33331 7.42102 14.8127 7.42102 24C7.42102 33.1873 14.9003 40.6666 24.0875 40.6666C33.2747 40.6666 40.754 33.1873 40.754 24C40.8129 14.8127 33.3336 7.33331 24.0875 7.33331V7.33331Z" stroke="#E99B26" stroke-width="1.58333"/>
-    <path d="M24.8315 14.3241C26.9613 14.603 28.7184 15.4953 29.6236 16.8337C29.7833 17.1126 29.8898 17.3914 29.8898 17.726C29.8898 18.5626 29.2509 19.2318 28.4522 19.2318C28.0795 19.2318 27.7068 19.0087 27.334 18.6183C26.4821 17.7818 25.0977 17.1126 23.6068 17.1126C21.3705 17.1126 20.5718 18.2279 20.5718 19.3433C20.5718 23.024 30.3158 21.2952 30.3158 28.2663C30.3158 31.3336 28.4522 33.3412 24.8847 33.7316V35.2931C24.8847 36.0181 24.299 36.6316 23.6068 36.6316C22.9146 36.6316 22.3822 36.0181 22.3822 35.2931V33.7316C19.7731 33.397 17.7498 31.947 16.8446 30.3855C16.7381 30.1624 16.6316 29.8836 16.6316 29.6047C16.6316 28.7682 17.2705 28.099 18.0692 28.099C18.6549 28.099 18.9744 28.4336 19.2406 28.7124C20.3588 29.8836 21.7964 30.8316 23.6068 30.8316C26.0561 30.8316 27.2275 29.9951 27.2275 28.2663C27.2275 24.1952 17.4835 26.0355 17.4835 19.3433C17.4835 16.8337 18.9744 14.7145 22.3822 14.3241V12.7069C22.3822 11.9819 22.9679 11.3684 23.6068 11.3684C24.299 11.3684 24.8847 11.9819 24.8847 12.7069V14.3241H24.8315Z" fill="#A76013"/>
+  <svg id="Capa_1"
+       class="icon"
+       data-name="Capa 1"
+       xmlns="http://www.w3.org/2000/svg"
+       xmlns:xlink="http://www.w3.org/1999/xlink"
+       viewBox="0 0 40 40"
+  >
     <defs>
-      <linearGradient id="paint0_linear"
-                      x1="24.0877"
-                      y1="86.5"
-                      x2="24.0877"
-                      y2="4"
+      <linearGradient id="Degradado_sin_nombre_2"
+                      data-name="Degradado sin nombre 2"
+                      x1="20"
+                      y1="-42.61"
+                      x2="20"
+                      y2="39.89"
+                      gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
                       gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#E99B26"/>
-        <stop offset="1" stop-color="#FAC34B"/>
+        <stop offset="0" stop-color="#413017"/>
+        <stop offset="1" stop-color="#fac34b"/>
       </linearGradient>
-      <linearGradient id="paint1_linear"
-                      x1="24.0877"
-                      y1="86.5"
-                      x2="24.0877"
-                      y2="4"
+      <linearGradient id="Degradado_sin_nombre"
+                      data-name="Degradado sin nombre"
+                      x1="20"
+                      y1="-42.61"
+                      x2="20"
+                      y2="39.89"
+                      gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
                       gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#413017"/>
-        <stop offset="1" stop-color="#FAC34B"/>
+        <stop offset="0" stop-color="#e99b26"/>
+        <stop offset="1" stop-color="#fac34b"/>
       </linearGradient>
-      <linearGradient id="paint2_linear"
-                      x1="24.5"
-                      y1="44"
-                      x2="38.5"
-                      y2="10.5"
+      <mask id="mask"
+            x="0"
+            y="0"
+            width="40"
+            height="40"
+            maskUnits="userSpaceOnUse"
+      >
+        <g transform="translate(0 0)">
+          <g id="mask0">
+            <path d="M20,0A20,20,0,1,0,40,20,20.027,20.027,0,0,0,20,0Z" fill="url(#Degradado_sin_nombre_2)"/>
+          </g>
+        </g>
+      </mask>
+      <linearGradient id="Degradado_sin_nombre_3"
+                      data-name="Degradado sin nombre 3"
+                      x1="20.074"
+                      y1="0.068"
+                      x2="34.074"
+                      y2="33.568"
+                      gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
                       gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#E99B26" stop-opacity="0.26"/>
-        <stop offset="1" stop-color="#FAC34B"/>
+        <stop offset="0" stop-color="#e99b26" stop-opacity="0.26"/>
+        <stop offset="1" stop-color="#fac34b"/>
       </linearGradient>
     </defs>
+    <path d="M20,0A20,20,0,1,0,40,20,20.027,20.027,0,0,0,20,0Z" transform="translate(0 0)" fill="url(#Degradado_sin_nombre)"/>
+    <g mask="url(#mask)">
+      <path d="M40,40V0L0,40Z" transform="translate(0 0)" fill="url(#Degradado_sin_nombre_3)"/>
+    </g>
+    <path d="M20.087,3.333A16.667,16.667,0,1,0,36.754,20,16.689,16.689,0,0,0,20.087,3.333Z"
+          transform="translate(0 0)"
+          fill="none"
+          stroke="#e99b26"
+          stroke-width="1.583"
+          opacity="0.5"
+          style="isolation: isolate"
+    />
+    <path d="M20.831,10.324a6.718,6.718,0,0,1,4.793,2.51,1.747,1.747,0,0,1,.266.892,1.467,1.467,0,0,1-1.438,1.506,1.631,1.631,0,0,1-1.118-.614,5.485,5.485,0,0,0-3.727-1.505c-2.236,0-3.035,1.115-3.035,2.23,0,3.681,9.744,1.952,9.744,8.923,0,3.068-1.864,5.075-5.431,5.466v1.561a1.328,1.328,0,0,1-1.278,1.339,1.285,1.285,0,0,1-1.225-1.339V29.732a7.527,7.527,0,0,1-5.537-3.347,1.868,1.868,0,0,1-.213-.78A1.467,1.467,0,0,1,14.069,24.1a1.543,1.543,0,0,1,1.172.613,6.039,6.039,0,0,0,4.366,2.12c2.449,0,3.621-.837,3.621-2.566,0-4.071-9.745-2.23-9.745-8.923,0-2.509,1.491-4.629,4.9-5.019V8.707a1.254,1.254,0,1,1,2.5,0v1.617Z" transform="translate(0 0)" fill="#a76013"/>
   </svg>
 </template>

@@ -1,26 +1,31 @@
 <template>
-  <svg class="icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect x="23"
-          y="4"
-          width="2"
-          height="33"
-          rx="1"
-          fill="#19194B"
-    />
-    <path d="M4 26C4 14.9543 12.9543 6 24 6C35.0457 6 44 14.9543 44 26C44 26 41.7465 24 40 24C38.2535 24 36 26 36 26C36 26 32.4699 24 30 24C27.5301 24 24 26 24 26C24 26 20.1559 24 17.5 24C14.8441 24 11 26 11 26C11 26 9.07425 24 7.5 24C5.92575 24 4 26 4 26Z" fill="#00A0DF"/>
-    <mask id="mask0"
-          mask-type="alpha"
-          maskUnits="userSpaceOnUse"
-          x="4"
-          y="6"
-          width="40"
-          height="20"
-    >
-      <path d="M4 26C4 14.9543 12.9543 6 24 6C35.0457 6 44 14.9543 44 26C44 26 41.7465 24 40 24C38.2535 24 36 26 36 26C36 26 32.4699 24 30 24C27.5301 24 24 26 24 26C24 26 20.1559 24 17.5 24C14.8441 24 11 26 11 26C11 26 9.07425 24 7.5 24C5.92575 24 4 26 4 26Z" fill="#00A0DF"/>
-    </mask>
-    <g mask="url(#mask0)">
-      <path d="M11 26C11 26 12.5 6 24 6C35.5 6 36 26 36 26H11Z" fill="#33B3E5"/>
+  <svg id="Capa_1"
+       class="icon"
+       data-name="Capa 1"
+       xmlns="http://www.w3.org/2000/svg"
+       xmlns:xlink="http://www.w3.org/1999/xlink"
+       viewBox="0 0 40 40"
+  >
+    <defs>
+      <mask id="mask"
+            x="0"
+            y="2"
+            width="40"
+            height="20"
+            maskUnits="userSpaceOnUse"
+      >
+        <g transform="translate(0 0)">
+          <g id="mask0">
+            <path d="M0,22a20,20,0,0,1,40,0s-2.254-2-4-2-4,2-4,2-3.53-2-6-2-6,2-6,2-3.844-2-6.5-2S7,22,7,22s-1.926-2-3.5-2S0,22,0,22Z" fill="#00a0df"/>
+          </g>
+        </g>
+      </mask>
+    </defs>
+    <path d="M20,0h0a1,1,0,0,1,1,1V32a1,1,0,0,1-1,1h0a1,1,0,0,1-1-1V1A1,1,0,0,1,20,0Z" transform="translate(0 0)" fill="#19194b"/>
+    <path d="M0,22a20,20,0,0,1,40,0s-2.254-2-4-2-4,2-4,2-3.53-2-6-2-6,2-6,2-3.844-2-6.5-2S7,22,7,22s-1.926-2-3.5-2S0,22,0,22Z" transform="translate(0 0)" fill="#00a0df"/>
+    <g mask="url(#mask)">
+      <path d="M7,22S8.5,2,20,2,32,22,32,22Z" transform="translate(0 0)" fill="#33b3e5"/>
     </g>
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 35C24.5523 35 25 35.4477 25 36V41C25 42.6569 23.6569 44 22 44C20.3431 44 19 42.6569 19 41V40.5C19 39.9477 19.4477 39.5 20 39.5C20.5523 39.5 21 39.9477 21 40.5V41C21 41.5523 21.4477 42 22 42C22.5523 42 23 41.5523 23 41V36C23 35.4477 23.4477 35 24 35Z" fill="#19194B"/>
+    <path d="M20,31a1,1,0,0,1,1,1v5a3,3,0,0,1-6,0v-.5a1,1,0,0,1,2,0V37a1,1,0,0,0,2,0V32A1,1,0,0,1,20,31Z" transform="translate(0 0)" fill="#19194b" fill-rule="evenodd"/>
   </svg>
 </template>
