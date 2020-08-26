@@ -1,6 +1,10 @@
 # b2c-mapp-ui-icons
 Lana B2C Microapp UI Icon sets for general use.
 
+## Documentation
+
+Live Demo on [Storybook](https://lana.github.io/b2c-mapp-ui/?path=/story/components-icons--default-example)
+
 ## Available icons
 
 ```
