@@ -1,0 +1,61 @@
+<svg id="search-atm"
+     class="icon"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 39.998 40"
+>
+  <defs>
+    <linearGradient id="search-atm-gradient-1"
+                    x1="13.817"
+                    y1="39.705"
+                    x2="19.961"
+                    y2="-16.217"
+                    gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
+                    gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0" stop-color="#00a0df"/>
+      <stop offset="1" stop-color="#007cbf"/>
+    </linearGradient>
+    <linearGradient id="search-atm-gradient-2"
+                    x1="27.673"
+                    y1="12.068"
+                    x2="44.673"
+                    y2="-4.432"
+                    gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
+                    gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0" stop-color="#fac34b"/>
+      <stop offset="1" stop-color="#e99b26"/>
+    </linearGradient>
+    <mask id="search-atm-mask"
+          x="3"
+          y="3"
+          width="25"
+          height="25"
+          maskUnits="userSpaceOnUse"
+    >
+      <g transform="translate(0 0)">
+        <g id="search-atm-mask0">
+          <path d="M3,15.5a12.5,12.5,0,1,0,.952-4.784A12.482,12.482,0,0,0,3,15.5Z" fill="#c4c4c4"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient id="search-atm-gradient-3"
+                    x1="13.793"
+                    y1="13.024"
+                    x2="36.293"
+                    y2="31.024"
+                    gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
+                    gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0" stop-color="#cff6ff"/>
+      <stop offset="1" stop-color="#99d9f2"/>
+    </linearGradient>
+  </defs>
+  <path d="M28.445,25.518a1.047,1.047,0,0,1-.108-1.329,15.492,15.492,0,1,0-4.147,4.148,1.046,1.046,0,0,1,1.328.108l1.31,1.31a1,1,0,0,0,1.415,0l1.512-1.512a1,1,0,0,0,0-1.415Z" transform="translate(0 0)" fill-rule="evenodd" fill="url(#search-atm-gradient-1)"/>
+  <path d="M39.14,34.743l-8.484-8.486a.9.9,0,0,0-1.259,0L26.257,29.4a.9.9,0,0,0,0,1.258l8.485,8.486a3.111,3.111,0,0,0,4.4-4.4Z" transform="translate(0 0)" fill="url(#search-atm-gradient-2)"/>
+  <path d="M3,15.5a12.5,12.5,0,1,0,.952-4.784A12.482,12.482,0,0,0,3,15.5Z" transform="translate(0 0)" fill="#cff6ff"/>
+  <g mask="url(#search-atm-mask)">
+    <path d="M28,28V3L3,28Z" transform="translate(0 0)" fill-opacity="0.5" fill="url(#search-atm-gradient-3)"/>
+  </g>
+</svg>

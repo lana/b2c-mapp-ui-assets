@@ -1,14 +1,14 @@
 <template>
-  <svg id="Capa_1"
+  <svg id="color-wallet"
        class="icon"
-       data-name="Capa 1"
+       viewBox="0 0 42.114 37"
+       data-name="color-wallet"
        xmlns="http://www.w3.org/2000/svg"
        xmlns:xlink="http://www.w3.org/1999/xlink"
-       viewBox="0 0 42.114 37"
   >
     <defs>
-      <linearGradient id="Degradado_sin_nombre_2"
-                      data-name="Degradado sin nombre 2"
+      <linearGradient id="color-wallet-gradient-2"
+                      data-name="color-wallet-gradient-2"
                       x1="-173.939"
                       y1="-55.199"
                       x2="-173.939"
@@ -19,16 +19,16 @@
         <stop offset="0" stop-color="#66de7d"/>
         <stop offset="1" stop-color="#4abe6b"/>
       </linearGradient>
-      <linearGradient id="Degradado_sin_nombre_17"
-                      data-name="Degradado sin nombre 17"
+      <linearGradient id="color-wallet-gradient-17"
+                      data-name="color-wallet-gradient-17"
                       x1="-253.73"
                       y1="-66.89"
                       x2="-253.73"
                       y2="-100.777"
                       gradientTransform="matrix(1, 0, 0, -1, 269.339, -56.731)"
-                      xlink:href="#Degradado_sin_nombre_2"
+                      xlink:href="#color-wallet-gradient-2"
       />
-      <mask id="mask"
+      <mask id="color-wallet-mask"
             x="0"
             y="-3"
             width="41.009"
@@ -36,12 +36,12 @@
             maskUnits="userSpaceOnUse"
       >
         <g transform="translate(2.114 -3)">
-          <g id="mask0">
+          <g id="color-wallet-mask0">
             <rect x="2.053" width="36.842" height="16.842" fill="#c4c4c4"/>
           </g>
         </g>
       </mask>
-      <mask id="mask-2"
+      <mask id="color-wallet-mask-2"
             x="4.139"
             y="0.904"
             width="35.485"
@@ -49,19 +49,19 @@
             maskUnits="userSpaceOnUse"
       >
         <g transform="translate(2.114 -3)">
-          <g id="mask1">
+          <g id="color-wallet-mask1">
             <rect x="3.862"
                   y="8.88"
                   width="31.812"
                   height="19.364"
                   rx="2.299"
                   transform="translate(-5.916 9.863) rotate(-24.487)"
-                  fill="url(#Degradado_sin_nombre_2)"
+                  fill="url(#color-wallet-gradient-2)"
             />
           </g>
         </g>
       </mask>
-      <mask id="mask-3"
+      <mask id="color-wallet-mask-3"
             x="4.139"
             y="0.158"
             width="36.231"
@@ -69,28 +69,28 @@
             maskUnits="userSpaceOnUse"
       >
         <g transform="translate(2.114 -3)">
-          <g id="mask2">
+          <g id="color-wallet-mask2">
             <rect x="3.862"
                   y="8.88"
                   width="31.812"
                   height="19.364"
                   rx="2.299"
                   transform="translate(-5.916 9.863) rotate(-24.487)"
-                  fill="url(#Degradado_sin_nombre_2)"
+                  fill="url(#color-wallet-gradient-2)"
             />
           </g>
         </g>
       </mask>
-      <linearGradient id="Degradado_sin_nombre_4"
-                      data-name="Degradado sin nombre 4"
+      <linearGradient id="color-wallet-gradient-4"
+                      data-name="color-wallet-gradient-4"
                       x1="32.255"
                       y1="26.163"
                       x2="16.754"
                       y2="1.202"
                       gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
-                      xlink:href="#Degradado_sin_nombre_2"
+                      xlink:href="#color-wallet-gradient-2"
       />
-      <mask id="mask-7"
+      <mask id="color-wallet-mask-7"
             x="0"
             y="0.886"
             width="35.445"
@@ -98,19 +98,19 @@
             maskUnits="userSpaceOnUse"
       >
         <g transform="translate(2.114 -3)">
-          <g id="mask6">
+          <g id="color-wallet-mask6">
             <rect x="-0.297"
                   y="10.159"
                   width="31.812"
                   height="19.364"
                   rx="2.299"
                   transform="translate(-8.347 11.876) rotate(-33.417)"
-                  fill="url(#Degradado_sin_nombre_17)"
+                  fill="url(#color-wallet-gradient-17)"
             />
           </g>
         </g>
       </mask>
-      <mask id="mask-8"
+      <mask id="color-wallet-mask-8"
             x="0"
             y="0"
             width="36.331"
@@ -118,29 +118,29 @@
             maskUnits="userSpaceOnUse"
       >
         <g transform="translate(2.114 -3)">
-          <g id="mask7">
+          <g id="color-wallet-mask7">
             <rect x="-0.297"
                   y="10.159"
                   width="31.812"
                   height="19.364"
                   rx="2.299"
                   transform="translate(-8.347 11.876) rotate(-33.417)"
-                  fill="url(#Degradado_sin_nombre_17)"
+                  fill="url(#color-wallet-gradient-17)"
             />
           </g>
         </g>
       </mask>
-      <linearGradient id="Degradado_sin_nombre_13"
-                      data-name="Degradado sin nombre 13"
+      <linearGradient id="color-wallet-gradient-13"
+                      data-name="color-wallet-gradient-13"
                       x1="27.194"
                       y1="26.764"
                       x2="15.756"
                       y2="-0.301"
                       gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
-                      xlink:href="#Degradado_sin_nombre_2"
+                      xlink:href="#color-wallet-gradient-2"
       />
-      <linearGradient id="Degradado_sin_nombre_19"
-                      data-name="Degradado sin nombre 19"
+      <linearGradient id="color-wallet-gradient-19"
+                      data-name="color-wallet-gradient-19"
                       x1="7.014"
                       y1="-16.953"
                       x2="32.502"
@@ -152,7 +152,7 @@
         <stop offset="1" stop-color="#e99b26"/>
       </linearGradient>
     </defs>
-    <g mask="url(#mask)">
+    <g mask="url(#color-wallet-mask)">
       <g>
         <rect x="3.862"
               y="8.88"
@@ -160,12 +160,12 @@
               height="19.364"
               rx="2.299"
               transform="translate(-3.802 6.863) rotate(-24.487)"
-              fill="url(#Degradado_sin_nombre_2)"
+              fill="url(#color-wallet-gradient-2)"
         />
-        <g mask="url(#mask-3)">
-          <path d="M38.256,20.78,30.23,3.158,9.305,33.966Z" transform="translate(2.114 -3)" fill="url(#Degradado_sin_nombre_4)"/>
+        <g mask="url(#color-wallet-mask-3)">
+          <path d="M38.256,20.78,30.23,3.158,9.305,33.966Z" transform="translate(2.114 -3)" fill="url(#color-wallet-gradient-4)"/>
         </g>
-        <g mask="url(#mask-2)">
+        <g mask="url(#color-wallet-mask-2)">
           <g>
             <rect x="3.862"
                   y="8.88"
@@ -173,10 +173,10 @@
                   height="19.364"
                   rx="2.299"
                   transform="translate(-3.802 6.863) rotate(-24.487)"
-                  fill="url(#Degradado_sin_nombre_2)"
+                  fill="url(#color-wallet-gradient-2)"
             />
-            <g mask="url(#mask-3)">
-              <path d="M38.256,20.78,30.23,3.158,9.305,33.966Z" transform="translate(2.114 -3)" fill="url(#Degradado_sin_nombre_4)"/>
+            <g mask="url(#color-wallet-mask-3)">
+              <path d="M38.256,20.78,30.23,3.158,9.305,33.966Z" transform="translate(2.114 -3)" fill="url(#color-wallet-gradient-4)"/>
             </g>
           </g>
         </g>
@@ -199,12 +199,12 @@
               height="19.364"
               rx="2.299"
               transform="translate(-6.233 8.876) rotate(-33.417)"
-              fill="url(#Degradado_sin_nombre_17)"
+              fill="url(#color-wallet-gradient-17)"
         />
-        <g mask="url(#mask-8)">
-          <path d="M34.217,19.163,23.553,3,7.664,36.683Z" transform="translate(2.114 -3)" fill="url(#Degradado_sin_nombre_13)"/>
+        <g mask="url(#color-wallet-mask-8)">
+          <path d="M34.217,19.163,23.553,3,7.664,36.683Z" transform="translate(2.114 -3)" fill="url(#color-wallet-gradient-13)"/>
         </g>
-        <g mask="url(#mask-7)">
+        <g mask="url(#color-wallet-mask-7)">
           <g>
             <rect x="-0.297"
                   y="10.159"
@@ -212,10 +212,10 @@
                   height="19.364"
                   rx="2.299"
                   transform="translate(-6.233 8.876) rotate(-33.417)"
-                  fill="url(#Degradado_sin_nombre_17)"
+                  fill="url(#color-wallet-gradient-17)"
             />
-            <g mask="url(#mask-8)">
-              <path d="M34.217,19.163,23.553,3,7.664,36.683Z" transform="translate(2.114 -3)" fill="url(#Degradado_sin_nombre_13)"/>
+            <g mask="url(#color-wallet-mask-8)">
+              <path d="M34.217,19.163,23.553,3,7.664,36.683Z" transform="translate(2.114 -3)" fill="url(#color-wallet-gradient-13)"/>
             </g>
           </g>
         </g>
@@ -239,7 +239,7 @@
           width="37"
           height="26"
           rx="6"
-          fill="url(#Degradado_sin_nombre_19)"
+          fill="url(#color-wallet-gradient-19)"
     />
     <rect x="4.614"
           y="12.5"

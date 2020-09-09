@@ -1,14 +1,14 @@
 <template>
-  <svg id="Capa_1"
+  <svg id="coin-icon"
        class="icon"
-       data-name="Capa 1"
+       data-name="coin-icon"
        xmlns="http://www.w3.org/2000/svg"
        xmlns:xlink="http://www.w3.org/1999/xlink"
        viewBox="0 0 40 40"
   >
     <defs>
-      <linearGradient id="Degradado_sin_nombre_2"
-                      data-name="Degradado sin nombre 2"
+      <linearGradient id="coin-icon-gradient-2"
+                      data-name="coin-icon-gradient-2"
                       x1="20"
                       y1="-42.61"
                       x2="20"
@@ -19,8 +19,8 @@
         <stop offset="0" stop-color="#413017"/>
         <stop offset="1" stop-color="#fac34b"/>
       </linearGradient>
-      <linearGradient id="Degradado_sin_nombre"
-                      data-name="Degradado sin nombre"
+      <linearGradient id="coin-icon-gradient-1"
+                      data-name="coin-icon-gradient-1"
                       x1="20"
                       y1="-42.61"
                       x2="20"
@@ -31,7 +31,7 @@
         <stop offset="0" stop-color="#e99b26"/>
         <stop offset="1" stop-color="#fac34b"/>
       </linearGradient>
-      <mask id="mask"
+      <mask id="coin-icon-mask"
             x="0"
             y="0"
             width="40"
@@ -39,13 +39,13 @@
             maskUnits="userSpaceOnUse"
       >
         <g transform="translate(0 0)">
-          <g id="mask0">
-            <path d="M20,0A20,20,0,1,0,40,20,20.027,20.027,0,0,0,20,0Z" fill="url(#Degradado_sin_nombre_2)"/>
+          <g id="coin-icon-mask0">
+            <path d="M20,0A20,20,0,1,0,40,20,20.027,20.027,0,0,0,20,0Z" fill="url(#coin-icon-gradient-2)"/>
           </g>
         </g>
       </mask>
-      <linearGradient id="Degradado_sin_nombre_3"
-                      data-name="Degradado sin nombre 3"
+      <linearGradient id="coin-icon-gradient-3"
+                      data-name="coin-icon-gradient-3"
                       x1="20.074"
                       y1="0.068"
                       x2="34.074"
@@ -57,9 +57,9 @@
         <stop offset="1" stop-color="#fac34b"/>
       </linearGradient>
     </defs>
-    <path d="M20,0A20,20,0,1,0,40,20,20.027,20.027,0,0,0,20,0Z" transform="translate(0 0)" fill="url(#Degradado_sin_nombre)"/>
-    <g mask="url(#mask)">
-      <path d="M40,40V0L0,40Z" transform="translate(0 0)" fill="url(#Degradado_sin_nombre_3)"/>
+    <path d="M20,0A20,20,0,1,0,40,20,20.027,20.027,0,0,0,20,0Z" transform="translate(0 0)" fill="url(#coin-icon-gradient-1)"/>
+    <g mask="url(#coin-icon-mask)">
+      <path d="M40,40V0L0,40Z" transform="translate(0 0)" fill="url(#coin-icon-gradient-3)"/>
     </g>
     <path d="M20.087,3.333A16.667,16.667,0,1,0,36.754,20,16.689,16.689,0,0,0,20.087,3.333Z"
           transform="translate(0 0)"

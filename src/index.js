@@ -115,7 +115,7 @@ import InstagramIcon from './icons/instagram.svg';
 import InsuranceIcon from './icons/insurance.svg';
 import LanaAppIcon from './components/LanaAppIcon/LanaAppIcon.vue';
 import LanaCardIcon from './icons/lanaCard.svg';
-import LanaCardAtmIcon from './icons/lanaCardATM.svg';
+import LanaCardAtmIcon from './icons/lanaCardAtm.svg';
 import LanaCardDelayImage from './icons/lanaCardDelayImage.svg';
 import LanaCardEmptyIcon from './icons/lanaCardEmpty.svg';
 import LanaCardNewImage from './icons/lanaCardNewImage.svg';
@@ -177,7 +177,7 @@ import ScanIcon from './icons/scan.svg';
 import ScanSuccessImage from './icons/scanSuccess.svg';
 import ScanFailureImage from './icons/scanFailure.svg';
 import SearchIcon from './icons/search.svg';
-import SearchAtmIcon from './icons/searchATM.svg';
+import SearchAtmIcon from './icons/searchAtm.svg';
 import SecurityIcon from './icons/security.svg';
 import SelfieIcon from './icons/selfie.svg';
 import SelfiePictureIcon from './icons/selfiePicture.svg';
@@ -229,6 +229,7 @@ import UserInfoIcon from './icons/userInfo.svg';
 import UserMoneyIcon from './icons/userMoney.svg';
 import UserShieldIcon from './icons/userShield.svg';
 import VectorIcon from './icons/vector.svg';
+import VerifyEmailIcon from './icons/verifyEmail.svg';
 import VideoIcon from './icons/video.svg';
 import ViewIcon from './icons/view.svg';
 import ViewMoreIcon from './icons/viewMore.svg';
@@ -236,6 +237,7 @@ import ViewMoreVerticalIcon from './icons/viewMoreVertical.svg';
 import ViewoffIcon from './icons/viewOff.svg';
 import VoiceIcon from './icons/voice.svg';
 import ColorWalletIcon from './components/ColorWalletIcon/ColorWalletIcon.vue';
+import WaitingSheepIcon from './icons/waitingSheep.svg';
 import WalletIcon from './icons/wallet.svg';
 import WarningBoldIcon from './icons/warningBold.svg';
 import WarningIcon from './icons/warning.svg';
@@ -478,12 +480,14 @@ export {
   UserMoneyIcon,
   UserShieldIcon,
   VectorIcon,
+  VerifyEmailIcon,
   VideoIcon,
   ViewIcon,
   ViewMoreIcon,
   ViewMoreVerticalIcon,
   ViewoffIcon,
   VoiceIcon,
+  WaitingSheepIcon,
   WalletIcon,
   WarningBoldIcon,
   WarningIcon,

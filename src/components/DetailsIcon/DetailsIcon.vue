@@ -1,13 +1,13 @@
 <template>
-  <svg id="Capa_1"
+  <svg id="details-icon"
        class="icon"
-       data-name="Capa 1"
+       data-name="details-icon"
        xmlns="http://www.w3.org/2000/svg"
        xmlns:xlink="http://www.w3.org/1999/xlink"
        viewBox="0 0 40 27"
   >
     <defs>
-      <mask id="mask"
+      <mask id="details-icon-mask"
             x="0"
             y="0"
             width="40"
@@ -15,13 +15,13 @@
             maskUnits="userSpaceOnUse"
       >
         <g transform="translate(0 -6)">
-          <g id="mask0">
+          <g id="details-icon-mask0">
             <rect y="6" width="40" height="27" rx="4" fill="#f4f5f7"/>
           </g>
         </g>
       </mask>
-      <linearGradient id="Degradado_sin_nombre"
-                      data-name="Degradado sin nombre"
+      <linearGradient id="details-icon-gradient-1"
+                      data-name="details-icon-gradient-1"
                       x1="26.095"
                       y1="34.084"
                       x2="19.595"
@@ -34,8 +34,8 @@
       </linearGradient>
     </defs>
     <rect width="40" height="27" rx="5" fill="#f4f5f7"/>
-    <g mask="url(#mask)">
-      <path d="M40,33V6L0,33Z" transform="translate(0 -6)" fill="url(#Degradado_sin_nombre)"/>
+    <g mask="url(#details-icon-mask)">
+      <path d="M40,33V6L0,33Z" transform="translate(0 -6)" fill="url(#details-icon-gradient-1)"/>
     </g>
     <path d="M17,19a1,1,0,0,1,1-1h9a1,1,0,0,1,0,2H18A1,1,0,0,1,17,19Z" transform="translate(0 -6)" fill="#19194b"/>
     <path d="M29,19a1,1,0,0,1,1-1h5a1,1,0,0,1,0,2H30A1,1,0,0,1,29,19Z" transform="translate(0 -6)" fill="#19194b"/>

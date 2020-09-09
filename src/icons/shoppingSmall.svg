@@ -1,16 +1,46 @@
-<svg class="icon" id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 35.216 40">
+<svg id="shopping-small"
+     class="icon"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 35.216 40"
+>
   <defs>
-    <linearGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" x1="20" y1="-34.11" x2="20" y2="31.89" gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="shopping-small-gradient"
+                    x1="20"
+                    y1="-34.11"
+                    x2="20"
+                    y2="31.89"
+                    gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
+                    gradientUnits="userSpaceOnUse"
+    >
       <stop offset="0" stop-color="#e99b26"/>
       <stop offset="1" stop-color="#fac34b"/>
     </linearGradient>
   </defs>
-  <path d="M4.66,11.627A4,4,0,0,1,8.643,8H31.358a4,4,0,0,1,3.982,3.627l2.25,24A4,4,0,0,1,33.607,40H6.393A4,4,0,0,1,2.41,35.627Z" transform="translate(-2.392 0)" fill="url(#Degradado_sin_nombre)"/>
+  <path d="M4.66,11.627A4,4,0,0,1,8.643,8H31.358a4,4,0,0,1,3.982,3.627l2.25,24A4,4,0,0,1,33.607,40H6.393A4,4,0,0,1,2.41,35.627Z" transform="translate(-2.392 0)" fill="url(#shopping-small-gradient)"/>
   <g opacity="0.5">
     <path d="M18.716,18.4A2.3,2.3,0,0,1,20,18a2.107,2.107,0,0,1,1.3.408,2.073,2.073,0,0,1,.667.819,2.059,2.059,0,0,1,.748-.148,1.87,1.87,0,0,1,.352.038h0a2.431,2.431,0,0,1,1.2.622,2.216,2.216,0,0,1,.622,1.2l0,.012v.012a2.435,2.435,0,0,1-.119,1.1,2.441,2.441,0,0,1,.826.685A2.1,2.1,0,0,1,26,24a2.632,2.632,0,0,1-.351,1.228l-.005.009,0,.008a1.979,1.979,0,0,1-.867.719,1.984,1.984,0,0,1,.111,1.1v0a2.421,2.421,0,0,1-.621,1.2,2.222,2.222,0,0,1-1.2.622l-.011,0h-.01c-.1.01-.208.016-.312.016a2.184,2.184,0,0,1-.774-.128,2.172,2.172,0,0,1-.662.82l0,0,0,0A2.3,2.3,0,0,1,20,30a2.166,2.166,0,0,1-1.293-.406h0a2.079,2.079,0,0,1-.668-.82,2.059,2.059,0,0,1-.748.148,1.87,1.87,0,0,1-.352-.038h0a2.421,2.421,0,0,1-1.2-.621,1.9,1.9,0,0,1-.625-1.223,2.434,2.434,0,0,1,.114-1.082,2.174,2.174,0,0,1-.822-.663l0,0,0,0A2.3,2.3,0,0,1,14,24a2.166,2.166,0,0,1,.406-1.293h0a2.084,2.084,0,0,1,.821-.669,1.986,1.986,0,0,1-.111-1.1v0a2.421,2.421,0,0,1,.621-1.2,2.216,2.216,0,0,1,1.2-.622l.011,0h.01a2.964,2.964,0,0,1,.312-.016,2.184,2.184,0,0,1,.774.128,2.172,2.172,0,0,1,.662-.82l0,0Z" transform="translate(-2.392 0)" fill="#e99b26"/>
   </g>
   <path d="M14,33H26a1,1,0,0,1,1,1h0a1,1,0,0,1-1,1H14a1,1,0,0,1-1-1h0A1,1,0,0,1,14,33Z" transform="translate(-2.392 0)" fill="#e99b26" opacity="0.5" style="isolation: isolate"/>
-  <circle cx="23.608" cy="13" r="2" fill="#e99b26" opacity="0.5" style="isolation: isolate"/>
-  <circle cx="11.608" cy="13" r="2" fill="#e99b26" opacity="0.5" style="isolation: isolate"/>
-  <path d="M14,12.5V7a6,6,0,0,1,6-6h0a6,6,0,0,1,6,6v5.5" transform="translate(-2.392 0)" fill="none" stroke="#dfe1e6" stroke-linecap="round" stroke-width="2"/>
+  <circle cx="23.608"
+          cy="13"
+          r="2"
+          fill="#e99b26"
+          opacity="0.5"
+          style="isolation: isolate"
+  />
+  <circle cx="11.608"
+          cy="13"
+          r="2"
+          fill="#e99b26"
+          opacity="0.5"
+          style="isolation: isolate"
+  />
+  <path d="M14,12.5V7a6,6,0,0,1,6-6h0a6,6,0,0,1,6,6v5.5"
+        transform="translate(-2.392 0)"
+        fill="none"
+        stroke="#dfe1e6"
+        stroke-linecap="round"
+        stroke-width="2"
+  />
 </svg>

@@ -1,14 +1,14 @@
 <template>
-  <svg id="Capa_1"
+  <svg id="payments-icon"
        class="icon"
-       data-name="Capa 1"
+       data-name="payments-icon"
        xmlns="http://www.w3.org/2000/svg"
        xmlns:xlink="http://www.w3.org/1999/xlink"
        viewBox="0 0 39 38"
   >
     <defs>
-      <linearGradient id="Degradado_sin_nombre_3"
-                      data-name="Degradado sin nombre 3"
+      <linearGradient id="payments-icon-gradient-3"
+                      data-name="payments-icon-gradient-3"
                       x1="27"
                       y1="-9.61"
                       x2="27"
@@ -19,8 +19,8 @@
         <stop offset="0" stop-color="#413017"/>
         <stop offset="1" stop-color="#fac34b"/>
       </linearGradient>
-      <linearGradient id="Degradado_sin_nombre"
-                      data-name="Degradado sin nombre"
+      <linearGradient id="payments-icon-gradient-1"
+                      data-name="payments-icon-gradient-1"
                       x1="19.5"
                       y1="15.89"
                       x2="19.5"
@@ -31,8 +31,8 @@
         <stop offset="0" stop-color="#faf0e1"/>
         <stop offset="1" stop-color="#d7c0a4"/>
       </linearGradient>
-      <linearGradient id="Degradado_sin_nombre_2"
-                      data-name="Degradado sin nombre 2"
+      <linearGradient id="payments-icon-gradient-2"
+                      data-name="payments-icon-gradient-2"
                       x1="27"
                       y1="-9.61"
                       x2="27"
@@ -43,7 +43,7 @@
         <stop offset="0" stop-color="#e99b26"/>
         <stop offset="1" stop-color="#fac34b"/>
       </linearGradient>
-      <mask id="mask"
+      <mask id="payments-icon-mask"
             x="15"
             y="0"
             width="24"
@@ -51,13 +51,13 @@
             maskUnits="userSpaceOnUse"
       >
         <g transform="translate(0 0)">
-          <g id="mask0">
-            <path d="M27,0A12,12,0,1,0,39,12,12.016,12.016,0,0,0,27,0Z" fill="url(#Degradado_sin_nombre_3)"/>
+          <g id="payments-icon-mask0">
+            <path d="M27,0A12,12,0,1,0,39,12,12.016,12.016,0,0,0,27,0Z" fill="url(#payments-icon-gradient-3)"/>
           </g>
         </g>
       </mask>
-      <linearGradient id="Degradado_sin_nombre_4"
-                      data-name="Degradado sin nombre 4"
+      <linearGradient id="payments-icon-gradient-4"
+                      data-name="payments-icon-gradient-4"
                       x1="27.045"
                       y1="15.996"
                       x2="35.445"
@@ -69,10 +69,10 @@
         <stop offset="1" stop-color="#fac34b"/>
       </linearGradient>
     </defs>
-    <path d="M34.514,27.524h-.019l-6.07,2.068a.428.428,0,0,0-.158.1.456.456,0,0,0-.106.154A3.506,3.506,0,0,1,26.9,31.36a3.4,3.4,0,0,1-1.871.573h-6.9a.852.852,0,0,1-.609-.258.895.895,0,0,1,0-1.247.852.852,0,0,1,.609-.258h6.9a1.707,1.707,0,0,0,1.22-.516,1.788,1.788,0,0,0,0-2.493,1.7,1.7,0,0,0-1.22-.517H18.985A12.132,12.132,0,0,0,12.083,24H8.531a6.777,6.777,0,0,0-3.087.746L.238,27.4a.433.433,0,0,0-.174.163A.45.45,0,0,0,0,27.8v9.509a.449.449,0,0,0,.059.224.444.444,0,0,0,.162.163.429.429,0,0,0,.221.055.43.43,0,0,0,.217-.068l5.558-3.544A1.724,1.724,0,0,1,7.7,33.962c17.2,5.92,11.436,5.946,30.827-4.076a.9.9,0,0,0,.327-.3.923.923,0,0,0-.2-1.226,4.237,4.237,0,0,0-1.962-.975A4.192,4.192,0,0,0,34.514,27.524Z" transform="translate(0 0)" fill="url(#Degradado_sin_nombre)"/>
-    <path d="M27,0A12,12,0,1,0,39,12,12.016,12.016,0,0,0,27,0Z" transform="translate(0 0)" fill="url(#Degradado_sin_nombre_2)"/>
-    <g mask="url(#mask)">
-      <path d="M39,24V0L15,24Z" transform="translate(0 0)" fill="url(#Degradado_sin_nombre_4)"/>
+    <path d="M34.514,27.524h-.019l-6.07,2.068a.428.428,0,0,0-.158.1.456.456,0,0,0-.106.154A3.506,3.506,0,0,1,26.9,31.36a3.4,3.4,0,0,1-1.871.573h-6.9a.852.852,0,0,1-.609-.258.895.895,0,0,1,0-1.247.852.852,0,0,1,.609-.258h6.9a1.707,1.707,0,0,0,1.22-.516,1.788,1.788,0,0,0,0-2.493,1.7,1.7,0,0,0-1.22-.517H18.985A12.132,12.132,0,0,0,12.083,24H8.531a6.777,6.777,0,0,0-3.087.746L.238,27.4a.433.433,0,0,0-.174.163A.45.45,0,0,0,0,27.8v9.509a.449.449,0,0,0,.059.224.444.444,0,0,0,.162.163.429.429,0,0,0,.221.055.43.43,0,0,0,.217-.068l5.558-3.544A1.724,1.724,0,0,1,7.7,33.962c17.2,5.92,11.436,5.946,30.827-4.076a.9.9,0,0,0,.327-.3.923.923,0,0,0-.2-1.226,4.237,4.237,0,0,0-1.962-.975A4.192,4.192,0,0,0,34.514,27.524Z" transform="translate(0 0)" fill="url(#payments-icon-gradient-1)"/>
+    <path d="M27,0A12,12,0,1,0,39,12,12.016,12.016,0,0,0,27,0Z" transform="translate(0 0)" fill="url(#payments-icon-gradient-2)"/>
+    <g mask="url(#payments-icon-mask)">
+      <path d="M39,24V0L15,24Z" transform="translate(0 0)" fill="url(#payments-icon-gradient-4)"/>
     </g>
     <path d="M27.052,2a10,10,0,1,0,10,10,10.013,10.013,0,0,0-10-10Z"
           transform="translate(0 0)"
