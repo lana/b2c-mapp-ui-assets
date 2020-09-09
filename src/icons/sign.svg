@@ -1,52 +1,107 @@
-<svg class="icon" id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 52.498 38.125">
+<svg id="sign-icon"
+     class="icon"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 11 40 27.5"
+>
   <defs>
-    <mask id="mask" x="0" y="11.125" width="40" height="27" maskUnits="userSpaceOnUse">
+    <mask id="sign-icon-mask"
+          x="0"
+          y="11.125"
+          width="40"
+          height="27"
+          maskUnits="userSpaceOnUse"
+    >
       <g transform="translate(0 5.125)">
-        <g id="mask0">
+        <g id="sign-icon-mask0">
           <rect y="6" width="40" height="27" rx="4" fill="#f4f5f7"/>
         </g>
       </g>
     </mask>
-    <linearGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" x1="26.095" y1="34.084" x2="19.595" y2="5.084" gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="sign-icon-gradient-1"
+                    x1="26.095"
+                    y1="34.084"
+                    x2="19.595"
+                    y2="5.084"
+                    gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
+                    gradientUnits="userSpaceOnUse"
+    >
       <stop offset="0" stop-color="#ebecf0"/>
       <stop offset="1" stop-color="#ebecf0" stop-opacity="0"/>
     </linearGradient>
-    <mask id="mask-2" x="0" y="0" width="52.498" height="38.125" maskUnits="userSpaceOnUse">
+    <mask id="sign-icon-mask-2"
+          x="0"
+          y="0"
+          width="52.498"
+          height="38.125"
+          maskUnits="userSpaceOnUse"
+    >
       <g transform="translate(0 5.125)">
-        <g id="mask1">
+        <g id="sign-icon-mask1">
           <rect y="6" width="40" height="27" rx="4" fill="#f4f5f7"/>
         </g>
       </g>
     </mask>
-    <mask id="mask-3" x="15.084" y="19.805" width="14.439" height="12.318" maskUnits="userSpaceOnUse">
+    <mask id="sign-icon-mask-3"
+          x="15.084"
+          y="19.805"
+          width="14.439"
+          height="12.318"
+          maskUnits="userSpaceOnUse"
+    >
       <g transform="translate(0 5.125)">
-        <g id="mask2">
+        <g id="sign-icon-mask2">
           <path d="M29.523,20.61l-5.111-5.929-3.739,7.2a.969.969,0,0,0,1.175,1.364Z" fill="#ffcebf"/>
         </g>
       </g>
     </mask>
-    <mask id="mask-4" x="24.148" y="18.528" width="6.857" height="7.368" maskUnits="userSpaceOnUse">
+    <mask id="sign-icon-mask-4"
+          x="24.148"
+          y="18.528"
+          width="6.857"
+          height="7.368"
+          maskUnits="userSpaceOnUse"
+    >
       <g transform="translate(0 5.125)">
-        <g id="mask3">
-          <rect x="26.73" y="13.093" width="1.957" height="7.828" transform="translate(-4.383 22.217) rotate(-40.763)" fill="#c4c4c4"/>
+        <g id="sign-icon-mask3">
+          <rect x="26.73"
+                y="13.093"
+                width="1.957"
+                height="7.828"
+                transform="translate(-4.383 22.217) rotate(-40.763)"
+                fill="#c4c4c4"
+          />
         </g>
       </g>
     </mask>
   </defs>
   <rect y="11.125" width="40" height="27" rx="4" fill="#f4f5f7"/>
-  <g mask="url(#mask)">
-    <path d="M40,33V6L0,33Z" transform="translate(0 5.125)" fill="url(#Degradado_sin_nombre)"/>
+  <g mask="url(#sign-icon-mask)">
+    <path d="M40,33V6L0,33Z" transform="translate(0 5.125)" fill="url(#sign-icon-gradient-1)"/>
   </g>
-  <path d="M6,27c3.714-4.036,5.05-8.979,6.852-13.654.042-.108.17-.43.118-.325a12.726,12.726,0,0,0-.535,1.354,63.114,63.114,0,0,0-2.235,8,13.2,13.2,0,0,0-.224,1.348c-.006.058-.02.208.038.172A6.013,6.013,0,0,0,11.4,22.172c1.156-1.625,2.128-3.314,3.165-4.985.132-.213.263-.427.406-.636.095-.139,1.25-1.581,1.347-1.443a8.586,8.586,0,0,1,0,1.969,13.249,13.249,0,0,1-.631,2.952A24.672,24.672,0,0,1,14.12,24.12c-1.592,3.782.212,1.413.212,1.413a38.527,38.527,0,0,0,3.848-5.848c.656-1.082,1.282-2.174,1.931-3.258.61-1.02,0,.867,0,.869-.5,1.976-1.238,3.913-1.707,5.893-.03.124-.2,1.538-.179,1.522C19.262,23.978,21.369,22.98,22,22" transform="translate(0 5.125)" fill="none" stroke="#00a0df" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-  <g mask="url(#mask-2)">
+  <path d="M6,27c3.714-4.036,5.05-8.979,6.852-13.654.042-.108.17-.43.118-.325a12.726,12.726,0,0,0-.535,1.354,63.114,63.114,0,0,0-2.235,8,13.2,13.2,0,0,0-.224,1.348c-.006.058-.02.208.038.172A6.013,6.013,0,0,0,11.4,22.172c1.156-1.625,2.128-3.314,3.165-4.985.132-.213.263-.427.406-.636.095-.139,1.25-1.581,1.347-1.443a8.586,8.586,0,0,1,0,1.969,13.249,13.249,0,0,1-.631,2.952A24.672,24.672,0,0,1,14.12,24.12c-1.592,3.782.212,1.413.212,1.413a38.527,38.527,0,0,0,3.848-5.848c.656-1.082,1.282-2.174,1.931-3.258.61-1.02,0,.867,0,.869-.5,1.976-1.238,3.913-1.707,5.893-.03.124-.2,1.538-.179,1.522C19.262,23.978,21.369,22.98,22,22"
+        transform="translate(0 5.125)"
+        fill="none"
+        stroke="#00a0df"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="1.5"
+  />
+  <g mask="url(#sign-icon-mask-2)">
     <g>
       <path d="M52.5.8,29.523,20.61l-5.111-5.929L47.387-5.125Z" transform="translate(0 5.125)" fill="#fadd7f"/>
       <path d="M45.917.664l.639.741L27.287,18.016l-.639-.741Z" transform="translate(0 5.125)" fill="#f6c770"/>
       <path d="M29.523,20.61l-5.111-5.929-3.739,7.2a.969.969,0,0,0,1.175,1.364Z" transform="translate(0 5.125)" fill="#ffcebf"/>
-      <g mask="url(#mask-3)">
-        <rect x="18.004" y="15.944" width="4.892" height="10.763" transform="translate(-8.963 23.65) rotate(-40.763)" fill="#19194b"/>
+      <g mask="url(#sign-icon-mask-3)">
+        <rect x="18.004"
+              y="15.944"
+              width="4.892"
+              height="10.763"
+              transform="translate(-8.963 23.65) rotate(-40.763)"
+              fill="#19194b"
+        />
       </g>
-      <g mask="url(#mask-4)">
+      <g mask="url(#sign-icon-mask-4)">
         <path d="M27.059,17.566c-.562.485-.447,1.542.259,2.36s1.734,1.089,2.3.6.447-1.542-.259-2.361S27.622,17.08,27.059,17.566ZM24.5,14.6c-.563.485-.447,1.542.259,2.36s1.734,1.089,2.3.6.447-1.542-.259-2.36S25.067,14.116,24.5,14.6Z" transform="translate(0 5.125)" fill="#ffcebf" fill-rule="evenodd"/>
       </g>
     </g>

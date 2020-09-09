@@ -1,17 +1,17 @@
 <template>
-  <svg id="Capa_1"
+  <svg id="sheep-icon"
        class="icon"
-       data-name="Capa 1"
+       data-name="sheep-icon"
        xmlns="http://www.w3.org/2000/svg"
        xmlns:xlink="http://www.w3.org/1999/xlink"
        viewBox="0 0 40 40"
   >
     <defs>
-      <clipPath id="clip-path" transform="translate(0 0)">
+      <clipPath id="sheep-icon-clip-path" transform="translate(0 0)">
         <rect width="40" height="40" fill="none"/>
       </clipPath>
     </defs>
-    <g clip-path="url(#clip-path)">
+    <g clip-path="url(#sheep-icon-clip-path)">
       <g>
         <path d="M13.185,39.293a.708.708,0,0,0,.708.707h.667a.707.707,0,0,0,.707-.707V32.922H13.185Z" transform="translate(0 0)" fill="#19194b" fill-rule="evenodd"/>
         <path d="M24.752,32.922v6.371a.708.708,0,0,0,.707.707h.668a.708.708,0,0,0,.707-.707V32.922Z" transform="translate(0 0)" fill="#19194b" fill-rule="evenodd"/>

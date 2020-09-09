@@ -3,10 +3,10 @@
      fill="none"
      xmlns="http://www.w3.org/2000/svg"
 >
-  <g filter="url(#filter0_d)">
+  <g filter="url(#blank-card-filter0_d)">
     <rect x="16" y="12" width="280" height="176" rx="16" fill="#DFE1E6"/>
   </g>
-  <mask id="mask0"
+  <mask id="blank-card-mask0"
         mask-type="alpha"
         maskUnits="userSpaceOnUse"
         x="16"
@@ -18,7 +18,7 @@
           fill="#C4C4C4"
     />
   </mask>
-  <g mask="url(#mask0)">
+  <g mask="url(#blank-card-mask0)">
     <path fill-rule="evenodd"
           clip-rule="evenodd"
           d="M266.021 119.509C266.021 121.226 267.416 122.62 269.134 122.62H272.07C273.787 122.62 275.18 121.226 275.18 119.509V91.4965H266.021V119.509Z"
@@ -74,7 +74,7 @@
         fill="#F79E1B"
   />
   <defs>
-    <filter id="filter0_d"
+    <filter id="blank-card-filter0_d"
             x="0"
             y="0"
             width="312"

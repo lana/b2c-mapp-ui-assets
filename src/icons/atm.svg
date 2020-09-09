@@ -1,50 +1,179 @@
-<svg class="icon" id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 36">
+<svg id="atm"
+     class="icon"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 40 36"
+>
   <defs>
-    <clipPath id="clip-path" transform="translate(0 -2)">
+    <clipPath id="atm-clip-path" transform="translate(0 -2)">
       <rect width="40" height="40" fill="none"/>
     </clipPath>
-    <linearGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" x1="20" y1="30.89" x2="20" y2="-3.91" gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="atm-gradient-1"
+                    x1="20"
+                    y1="30.89"
+                    x2="20"
+                    y2="-3.91"
+                    gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
+                    gradientUnits="userSpaceOnUse"
+    >
       <stop offset="0" stop-color="#f4f5f7"/>
       <stop offset="1" stop-color="#dfe1e6"/>
     </linearGradient>
-    <linearGradient id="Degradado_sin_nombre_2" data-name="Degradado sin nombre 2" y1="37.89" x2="20" y2="4.29" xlink:href="#Degradado_sin_nombre"/>
-    <linearGradient id="Degradado_sin_nombre_3" data-name="Degradado sin nombre 3" x1="4" y1="32.89" x2="4" y2="23.175" gradientTransform="matrix(1, 0, 0, -1, 0, 37.89)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="atm-gradient-2"
+                    y1="37.89"
+                    x2="20"
+                    y2="4.29"
+                    xlink:href="#atm-gradient-1"
+    />
+    <linearGradient id="atm-gradient-3"
+                    x1="4"
+                    y1="32.89"
+                    x2="4"
+                    y2="23.175"
+                    gradientTransform="matrix(1, 0, 0, -1, 0, 37.89)"
+                    gradientUnits="userSpaceOnUse"
+    >
       <stop offset="0" stop-color="#00a0df"/>
       <stop offset="1" stop-color="#007cbf"/>
     </linearGradient>
-    <linearGradient id="Degradado_sin_nombre_4" data-name="Degradado sin nombre 4" x1="4" y1="25.89" x2="4" y2="16.175" xlink:href="#Degradado_sin_nombre_3"/>
-    <linearGradient id="Degradado_sin_nombre_5" data-name="Degradado sin nombre 5" x1="4" y1="18.89" x2="4" y2="9.175" xlink:href="#Degradado_sin_nombre_3"/>
-    <linearGradient id="Degradado_sin_nombre_6" data-name="Degradado sin nombre 6" x1="36" y1="32.89" x2="36" y2="23.175" xlink:href="#Degradado_sin_nombre_3"/>
-    <linearGradient id="Degradado_sin_nombre_7" data-name="Degradado sin nombre 7" x1="36" y1="25.89" x2="36" y2="16.175" xlink:href="#Degradado_sin_nombre_3"/>
-    <linearGradient id="Degradado_sin_nombre_8" data-name="Degradado sin nombre 8" x1="36" y1="18.89" x2="36" y2="9.175" xlink:href="#Degradado_sin_nombre_3"/>
-    <mask id="mask" x="8.923" y="3" width="22.154" height="22" maskUnits="userSpaceOnUse">
+    <linearGradient id="atm-gradient-4"
+                    x1="4"
+                    y1="25.89"
+                    x2="4"
+                    y2="16.175"
+                    xlink:href="#atm-gradient-3"
+    />
+    <linearGradient id="atm-gradient-5"
+                    x1="4"
+                    y1="18.89"
+                    x2="4"
+                    y2="9.175"
+                    xlink:href="#atm-gradient-3"
+    />
+    <linearGradient id="atm-gradient-6"
+                    x1="36"
+                    y1="32.89"
+                    x2="36"
+                    y2="23.175"
+                    xlink:href="#atm-gradient-3"
+    />
+    <linearGradient id="atm-gradient-7"
+                    x1="36"
+                    y1="25.89"
+                    x2="36"
+                    y2="16.175"
+                    xlink:href="#atm-gradient-3"
+    />
+    <linearGradient id="atm-gradient-8"
+                    x1="36"
+                    y1="18.89"
+                    x2="36"
+                    y2="9.175"
+                    xlink:href="#atm-gradient-3"
+    />
+    <mask id="atm-mask"
+          x="8.923"
+          y="3"
+          width="22.154"
+          height="22"
+          maskUnits="userSpaceOnUse"
+    >
       <g transform="translate(0 -2)">
-        <g id="mask0">
-          <rect x="8.923" y="5" width="22.154" height="22" rx="3" fill="#99d9f2"/>
+        <g id="atm-mask-0">
+          <rect x="8.923"
+                y="5"
+                width="22.154"
+                height="22"
+                rx="3"
+                fill="#99d9f2"
+          />
         </g>
       </g>
     </mask>
-    <linearGradient id="Degradado_sin_nombre_9" data-name="Degradado sin nombre 9" x1="21.119" y1="34.045" x2="19.891" y2="10.825" gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="atm-gradient-9"
+                    x1="21.119"
+                    y1="34.045"
+                    x2="19.891"
+                    y2="10.825"
+                    gradientTransform="matrix(1, 0, 0, -1, 0, 39.89)"
+                    gradientUnits="userSpaceOnUse"
+    >
       <stop offset="0" stop-color="#33b3e5"/>
       <stop offset="1" stop-color="#99d9f2" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <g clip-path="url(#clip-path)">
+  <g clip-path="url(#atm-clip-path)">
     <g>
-      <path d="M0,13A4,4,0,0,1,4,9H36a4,4,0,0,1,4,4V34a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4Z" transform="translate(0 -2)" fill="url(#Degradado_sin_nombre)"/>
-      <path d="M0,6A4,4,0,0,1,4,2H36a4,4,0,0,1,4,4V26a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4Z" transform="translate(0 -2)" fill="url(#Degradado_sin_nombre_2)"/>
-      <rect x="2" y="5" width="4" height="4" rx="1.5" fill="url(#Degradado_sin_nombre_3)"/>
-      <rect x="2" y="12" width="4" height="4" rx="1.5" fill="url(#Degradado_sin_nombre_4)"/>
-      <rect x="2" y="19" width="4" height="4" rx="1.5" fill="url(#Degradado_sin_nombre_5)"/>
-      <rect x="34" y="5" width="4" height="4" rx="1.5" fill="url(#Degradado_sin_nombre_6)"/>
-      <rect x="34" y="12" width="4" height="4" rx="1.5" fill="url(#Degradado_sin_nombre_7)"/>
-      <rect x="34" y="19" width="4" height="4" rx="1.5" fill="url(#Degradado_sin_nombre_8)"/>
-      <rect x="8" y="2" width="24" height="24" rx="4" fill="#19194b"/>
-      <rect x="8.923" y="3" width="22.154" height="22" rx="3" fill="#fff"/>
-      <rect x="8.923" y="3" width="22.154" height="22" rx="3" fill="#99d9f2" opacity="0.4" style="isolation: isolate"/>
+      <path d="M0,13A4,4,0,0,1,4,9H36a4,4,0,0,1,4,4V34a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4Z" transform="translate(0 -2)" fill="url(#atm-gradient-1)"/>
+      <path d="M0,6A4,4,0,0,1,4,2H36a4,4,0,0,1,4,4V26a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4Z" transform="translate(0 -2)" fill="url(#atm-gradient-2)"/>
+      <rect x="2"
+            y="5"
+            width="4"
+            height="4"
+            rx="1.5"
+            fill="url(#atm-gradient-3)"
+      />
+      <rect x="2"
+            y="12"
+            width="4"
+            height="4"
+            rx="1.5"
+            fill="url(#atm-gradient-4)"
+      />
+      <rect x="2"
+            y="19"
+            width="4"
+            height="4"
+            rx="1.5"
+            fill="url(#atm-gradient-5)"
+      />
+      <rect x="34"
+            y="5"
+            width="4"
+            height="4"
+            rx="1.5"
+            fill="url(#atm-gradient-6)"
+      />
+      <rect x="34"
+            y="12"
+            width="4"
+            height="4"
+            rx="1.5"
+            fill="url(#atm-gradient-7)"
+      />
+      <rect x="34"
+            y="19"
+            width="4"
+            height="4"
+            rx="1.5"
+            fill="url(#atm-gradient-8)"
+      />
+      <rect x="8"
+            y="2"
+            width="24"
+            height="24"
+            rx="4"
+            fill="#19194b"
+      />
+      <rect x="8.923"
+            y="3"
+            width="22.154"
+            height="22"
+            rx="3"
+            fill="#fff"
+      />
+      <rect x="8.923"
+            y="3"
+            width="22.154"
+            height="22"
+            rx="3"
+            fill="#99d9f2"
+            opacity="0.4"
+            style="isolation: isolate"
+      />
       <g opacity="0.4">
-        <g mask="url(#mask)">
-          <path d="M8.923,27,31.077,5V27Z" transform="translate(0 -2)" opacity="0.5" fill="url(#Degradado_sin_nombre_9)" style="isolation: isolate"/>
+        <g mask="url(#atm-mask)">
+          <path d="M8.923,27,31.077,5V27Z" transform="translate(0 -2)" opacity="0.5" fill="url(#atm-gradient-9)" style="isolation: isolate"/>
         </g>
       </g>
       <path d="M4,32H22a2,2,0,0,1,2,2h0a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2H2A2,2,0,0,1,4,32Z" transform="translate(0 -2)" fill="#f4f5f7" opacity="0.64" style="isolation: isolate"/>

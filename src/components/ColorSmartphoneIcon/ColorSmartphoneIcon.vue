@@ -1,12 +1,11 @@
 <template>
   <svg class="icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect
-      x="11"
-      y="4"
-      width="26"
-      height="40"
-      rx="4"
-      fill="url(#paint0_linear)"
+    <rect x="11"
+          y="4"
+          width="26"
+          height="40"
+          rx="4"
+          fill="url(#color-smartphone-paint0_linear)"
     />
     <rect x="13"
           y="6"
@@ -24,7 +23,7 @@
           fill="#99D9F2"
     />
     <g opacity="0.4">
-      <mask id="mask0"
+      <mask id="color-smartphone-mask0"
             mask-type="alpha"
             maskUnits="userSpaceOnUse"
             x="13"
@@ -40,13 +39,13 @@
               fill="#99D9F2"
         />
       </mask>
-      <g mask="url(#mask0)">
-        <path opacity="0.5" d="M13 34L35 6V34H13Z" fill="url(#paint1_linear)"/>
+      <g mask="url(#color-smartphone-mask0)">
+        <path opacity="0.5" d="M13 34L35 6V34H13Z" fill="url(#color-smartphone-paint1_linear)"/>
       </g>
     </g>
     <circle cx="24" cy="39" r="2" fill="#99D9F2"/>
     <defs>
-      <linearGradient id="paint0_linear"
+      <linearGradient id="color-smartphone-paint0_linear"
                       x1="24"
                       y1="4"
                       x2="36"
@@ -56,7 +55,7 @@
         <stop stop-color="#00A0DF"/>
         <stop offset="1" stop-color="#007CBF"/>
       </linearGradient>
-      <linearGradient id="paint1_linear"
+      <linearGradient id="color-smartphone-paint1_linear"
                       x1="24"
                       y1="7"
                       x2="22"

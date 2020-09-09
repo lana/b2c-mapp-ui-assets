@@ -3,7 +3,7 @@
      fill="none"
      xmlns="http://www.w3.org/2000/svg"
 >
-  <g clip-path="url(#clip0)">
+  <g clip-path="url(#voice-icon-clip0)">
     <path d="M0 0H40V40H0V0Z" fill="white"/>
     <path d="M37.3346 19.5619L40.0002 19.1284"
           stroke="#00A0DF"
@@ -32,7 +32,7 @@
     />
   </g>
   <defs>
-    <clipPath id="clip0">
+    <clipPath id="voice-icon-clip0">
       <path d="M0 0H40V40H0V0Z" fill="white" />
     </clipPath>
   </defs>
