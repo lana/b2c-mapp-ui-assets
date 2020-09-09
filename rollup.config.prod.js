@@ -8,6 +8,8 @@ import globals from 'rollup-plugin-node-globals';
 import postcss from 'rollup-plugin-postcss';
 import autoprefixer from 'autoprefixer';
 
+import { svgOptions } from './rollupHelper';
+
 const babelConfig = require('./babel.config');
 
 const config = {
@@ -36,7 +38,7 @@ const config = {
       plugins: [autoprefixer()],
       modules: true,
     }),
-    svg({ svgoConfig: { plugins: [{ cleanupIDs: false }] } }),
+    svg(svgOptions),
     vue({ css: false }),
     babel({
       ...babelConfig,
