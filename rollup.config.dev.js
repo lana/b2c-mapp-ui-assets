@@ -35,7 +35,7 @@ const config = {
       plugins: [autoprefixer()],
       modules: true,
     }),
-    svg(),
+    svg({ svgoConfig: { plugins: [{ cleanupIDs: false }] } }),
     vue({ css: false }),
     babel({
       ...babelConfig,
