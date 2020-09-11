@@ -97,6 +97,7 @@ import FaqIcon from './icons/faq.svg';
 import FavoriteOffIcon from './icons/favoriteOff.svg';
 import FavoriteOnIcon from './icons/favoriteOn.svg';
 import FilterIcon from './icons/filter.svg';
+import FillInfoIcon from './icons/fillInfo.svg';
 import FlashOffIcon from './icons/flashOff.svg';
 import FlashOnIcon from './icons/flashOn.svg';
 import ForwardIcon from './icons/forward.svg';
@@ -348,6 +349,7 @@ export {
   FavoriteOffIcon,
   FavoriteOnIcon,
   FilterIcon,
+  FillInfoIcon,
   FlashOffIcon,
   FlashOnIcon,
   ForwardIcon,
