@@ -87,9 +87,11 @@ import EditIcon from './icons/edit.svg';
 import EntertainmentIcon from './icons/entertainment.svg';
 import EraseIcon from './icons/erase.svg';
 import ErrorConnection from './icons/errorConnection.svg';
+import ErrorMicroillustration from './icons/errorMicroillustration.svg';
 import EuroBoldIcon from './icons/euroBold.svg';
 import EuroLineIcon from './icons/euroLine.svg';
 import ExpandSmallIcon from './icons/expandSmall.svg';
+import FacebookDarkIcon from './icons/facebookDarkBlue.svg';
 import FacebookIcon from './icons/facebook.svg';
 import FaceIdBlueIcon from './icons/faceIdBlue.svg';
 import FaceIdIcon from './icons/faceId.svg';
@@ -112,6 +114,7 @@ import HelpLineIcon from './icons/helpLine.svg';
 import ImageIcon from './icons/image.svg';
 import InfoIcon from './icons/infoBold.svg';
 import InfoLineIcon from './icons/infoLine.svg';
+import InstagramDarkIcon from './icons/instagramDarkBlue.svg';
 import InstagramIcon from './icons/instagram.svg';
 import InsuranceIcon from './icons/insurance.svg';
 import LanaAppIcon from './components/LanaAppIcon/LanaAppIcon.vue';
@@ -124,6 +127,7 @@ import LanaCardArrivedImage from './icons/lanaCardArrivedImage.svg';
 import LanaCardSmallIcon from './icons/lanaCardSmall.svg';
 import LandlinePhoneIcon from './icons/landlinePhone.svg';
 import LightIcon from './icons/light.svg';
+import LinkedinDarkIcon from './icons/linkedinDarkBlue.svg';
 import LinkedinIcon from './icons/linkedIn.svg';
 import ListIcon from './icons/list.svg';
 import LocationHomeIcon from './icons/locationHome.svg';
@@ -155,6 +159,7 @@ import NotificationsIcon from './icons/notifications.svg';
 import PaymentsIcon from './components/PaymentsIcon/PaymentsIcon.vue';
 import PayIcon from './icons/pay.svg';
 import PdfIcon from './icons/pdf.svg';
+import PendingMicroillustration from './icons/pendingMicroillustration.svg';
 import PersonIcon from './icons/person.svg';
 import PetRunningImage from './icons/petRunning.svg';
 import PhoneIcon from './icons/phone.svg';
@@ -198,6 +203,7 @@ import SmsIcon from './icons/sms.svg';
 import SnowFlakeIcon from './icons/snowflake.svg';
 import SuccessImage from './icons/successImage.svg';
 import SuccessInfoImage from './icons/successInfo.svg';
+import SuccessMicroillustration from './icons/successMicroillustration.svg';
 import SuccessPhoneImage from './icons/successPhone.svg';
 import SupportChatLineIcon from './icons/supportChatLine.svg';
 import SupportIcon from './icons/support.svg';
@@ -220,6 +226,7 @@ import TouchidIcon from './icons/touchIdAlternate.svg';
 import TransferIcon from './icons/transfer.svg';
 import TravelInsuranceIcon from './icons/travelInsurance.svg';
 import TvIcon from './icons/tv.svg';
+import TwitterDarkIcon from './icons/twitterDarkBlue.svg';
 import TwitterIcon from './icons/twitter.svg';
 import UnlockIcon from './icons/unlock.svg';
 import UpdateAppIcon from './icons/updateApp.svg';
@@ -243,6 +250,7 @@ import WalletIcon from './icons/wallet.svg';
 import WarningBoldIcon from './icons/warningBold.svg';
 import WarningIcon from './icons/warning.svg';
 import WarningLineIcon from './icons/warningLine.svg';
+import WarningMicroillustration from './icons/warningMicroillustration.svg';
 import WaterIcon from './icons/water.svg';
 import WelcomeImage from './icons/welcome.svg';
 import WorkInProgressIcon from './icons/workInProgress.svg';
@@ -339,9 +347,11 @@ export {
   EntertainmentIcon,
   EraseIcon,
   ErrorConnection,
+  ErrorMicroillustration,
   EuroBoldIcon,
   EuroLineIcon,
   ExpandSmallIcon,
+  FacebookDarkIcon,
   FacebookIcon,
   FaceIdBlueIcon,
   FaceIdIcon,
@@ -364,6 +374,7 @@ export {
   ImageIcon,
   InfoIcon,
   InfoLineIcon,
+  InstagramDarkIcon,
   InstagramIcon,
   InsuranceIcon,
   LanaAppIcon,
@@ -376,6 +387,7 @@ export {
   LanaCardSmallIcon,
   LandlinePhoneIcon,
   LightIcon,
+  LinkedinDarkIcon,
   LinkedinIcon,
   ListIcon,
   LocationHomeIcon,
@@ -407,6 +419,7 @@ export {
   PaymentsIcon,
   PayIcon,
   PdfIcon,
+  PendingMicroillustration,
   PersonIcon,
   PetRunningImage,
   PhoneIcon,
@@ -450,6 +463,7 @@ export {
   SnowFlakeIcon,
   SuccessImage,
   SuccessInfoImage,
+  SuccessMicroillustration,
   SuccessPhoneImage,
   SupportChatLineIcon,
   SupportIcon,
@@ -472,6 +486,7 @@ export {
   TransferIcon,
   TravelInsuranceIcon,
   TvIcon,
+  TwitterDarkIcon,
   TwitterIcon,
   UnlockIcon,
   UpdateAppIcon,
@@ -494,6 +509,7 @@ export {
   WarningBoldIcon,
   WarningIcon,
   WarningLineIcon,
+  WarningMicroillustration,
   WaterIcon,
   WelcomeImage,
   WorkInProgressIcon,
