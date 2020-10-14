@@ -1,0 +1,40 @@
+<svg class="icon"
+     viewBox="0 0 40 40"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg"
+>
+    <g clip-path="url(#clockcolor-clip0)">
+        <rect x="19.029" y="3.26978" width="2.23469" height="3.35203" fill="#F4F5F7"/>
+        <rect x="13.8714" y="33.2537" width="2.23469" height="5.58672" rx="1.11734" transform="rotate(30 13.8714 33.2537)" fill="#EBECF0"/>
+        <rect x="24.6158" y="34.3711" width="2.23469" height="5.58672" rx="1.11734" transform="rotate(-30 24.6158 34.3711)" fill="#EBECF0"/>
+        <rect x="6.02599" y="9.75" width="5.13691" height="3.42461" transform="rotate(-40 6.02599 9.75)" fill="#A92556"/>
+        <path d="M2.85227 11.2955C0.72472 8.75997 1.05544 4.97981 3.59095 2.85226C6.12647 0.724714 9.90663 1.05544 12.0342 3.59095L12.5168 4.16617C12.5542 4.2107 12.5484 4.27709 12.5039 4.31445L3.48322 11.8837C3.43869 11.921 3.3723 11.9152 3.33494 11.8707L2.85227 11.2955Z" fill="url(#clockcolor-paint0_linear)"/>
+        <rect x="29.8507" y="6.48816" width="5.16459" height="3.44306" transform="rotate(40 29.8507 6.48816)" fill="#A92556"/>
+        <path d="M27.7664 3.61569C29.9055 1.06651 33.706 0.734011 36.2552 2.87302C38.8043 5.01203 39.1368 8.81256 36.9978 11.3617L36.5126 11.9401C36.475 11.9848 36.4082 11.9907 36.3635 11.9531L27.2942 4.34309C27.2495 4.30553 27.2436 4.23878 27.2812 4.19401L27.7664 3.61569Z" fill="url(#clockcolor-paint1_linear)"/>
+        <circle cx="19.9946" cy="20.8282" r="15.6428" fill="url(#clockcolor-paint2_linear)"/>
+        <circle cx="20.1464" cy="21.1473" r="12.2908" fill="url(#clockcolor-paint3_linear)"/>
+        <path d="M20.1464 14.4432V20.5886C20.1464 21.2057 20.6466 21.706 21.2637 21.706H24.6158" stroke="#19194B" stroke-width="2.23469" stroke-linecap="round"/>
+        <rect x="16.7944" y="1.0351" width="6.70407" height="2.23469" rx="1.11734" fill="#E99B26"/>
+    </g>
+    <defs>
+        <linearGradient id="clockcolor-paint0_linear" x1="3.59095" y1="2.85226" x2="12.2098" y2="13.8993" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#EB4B68"/>
+            <stop offset="1" stop-color="#CA365F"/>
+        </linearGradient>
+        <linearGradient id="clockcolor-paint1_linear" x1="36.2552" y1="2.87302" x2="26.822" y2="13.3353" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#EB4B68"/>
+            <stop offset="1" stop-color="#CA365F"/>
+        </linearGradient>
+        <linearGradient id="clockcolor-paint2_linear" x1="19.9946" y1="5.18536" x2="16.0202" y2="68.9798" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#EB4B68"/>
+            <stop offset="1" stop-color="#CA365F"/>
+        </linearGradient>
+        <linearGradient id="clockcolor-paint3_linear" x1="20.1464" y1="2.41847" x2="20.1464" y2="102.676" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F4F5F7"/>
+            <stop offset="1" stop-color="#DFE1E6"/>
+        </linearGradient>
+        <clipPath id="clockcolor-clip0">
+            <rect width="40" height="40" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>

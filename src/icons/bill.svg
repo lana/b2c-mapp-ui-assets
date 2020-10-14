@@ -1,0 +1,83 @@
+<svg class="icon"
+     viewBox="0 0 40 40"
+     fill="none" xmlns="http://www.w3.org/2000/svg"
+>
+    <rect y="8" width="40" height="24.3478" rx="3.04348" fill="url(#bill-paint0_linear)"/>
+    <mask id="bill-mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="25">
+        <rect y="8" width="40" height="24.3478" rx="3.04348" fill="url(#bill-paint1_linear)"/>
+    </mask>
+    <g mask="url(#bill-mask0)"></g>
+    <mask id="bill-mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="25">
+        <rect y="8" width="40" height="24.3478" rx="3.04348" fill="url(#bill-paint2_linear)"/>
+    </mask>
+    <g mask="url(#bill-mask1)">
+        <path d="M40 32.3478V8L0 32.3478H40Z" fill="url(#bill-paint3_linear)"/>
+    </g>
+    <mask id="bill-mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="25">
+        <rect y="8" width="40" height="24.3478" rx="3.04348" fill="url(#bill-paint4_linear)"/>
+    </mask>
+    <g mask="url(#bill-mask2)">
+        <g filter="url(#bill-filter0_d)">
+            <rect y="8" width="40" height="24.3478" rx="3.04348" fill="url(#bill-paint5_linear)"/>
+            <mask id="bill-mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="25">
+                <rect y="8" width="40" height="24.3478" rx="3.04348" fill="url(#bill-paint6_linear)"/>
+            </mask>
+            <g mask="url(#bill-mask3)"></g>
+            <mask id="bill-mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="25">
+                <rect y="8" width="40" height="24.3478" rx="3.04348" fill="url(#bill-paint7_linear)"/>
+            </mask>
+            <g mask="url(#bill-mask4)">
+                <path d="M40 32.3478V8L0 32.3478H40Z" fill="url(#bill-paint8_linear)"/>
+            </g>
+        </g>
+    </g>
+    <path d="M21.0994 14.8452C22.1822 14.9987 23.0754 15.4902 23.5356 16.2273C23.6168 16.3808 23.6709 16.5344 23.6709 16.7187C23.6709 17.1794 23.3461 17.5479 22.9401 17.5479C22.7506 17.5479 22.5611 17.4251 22.3716 17.2101C21.9385 16.7494 21.2348 16.3808 20.4769 16.3808C19.34 16.3808 18.934 16.9951 18.934 17.6094C18.934 19.6364 23.8875 18.6843 23.8875 22.5235C23.8875 24.2127 22.9401 25.3183 21.1265 25.5333V26.3933C21.1265 26.7926 20.8288 27.1304 20.4769 27.1304C20.125 27.1304 19.8543 26.7926 19.8543 26.3933V25.5333C18.528 25.3491 17.4994 24.5505 17.0392 23.6906C16.9851 23.5677 16.9309 23.4141 16.9309 23.2606C16.9309 22.7999 17.2558 22.4313 17.6618 22.4313C17.9595 22.4313 18.1219 22.6156 18.2573 22.7692C18.8257 23.4141 19.5565 23.9363 20.4769 23.9363C21.722 23.9363 22.3175 23.4756 22.3175 22.5235C22.3175 20.2814 17.364 21.2949 17.364 17.6094C17.364 16.2273 18.1219 15.0602 19.8543 14.8452V13.9545C19.8543 13.5552 20.152 13.2174 20.4769 13.2174C20.8288 13.2174 21.1265 13.5552 21.1265 13.9545V14.8452H21.0994Z" fill="#20804E"/>
+    <rect opacity="0.5" x="2.28261" y="10.2826" width="35" height="19.7826" rx="1.52174" stroke="#4ABE6B" stroke-width="1.52174"/>
+    <defs>
+        <filter id="bill-filter0_d" x="-3.04348" y="-1.13043" width="52.1739" height="36.5217" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset dx="3.04348" dy="-3.04348"/>
+            <feGaussianBlur stdDeviation="3.04348"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        </filter>
+        <linearGradient id="bill-paint0_linear" x1="20" y1="8" x2="20" y2="50.6087" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="bill-paint1_linear" x1="20" y1="8" x2="20" y2="50.6087" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="bill-paint2_linear" x1="20" y1="8" x2="20" y2="50.6087" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="bill-paint3_linear" x1="31.4286" y1="13.0725" x2="0.682338" y2="33.5565" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="bill-paint4_linear" x1="20" y1="8" x2="20" y2="50.6087" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="bill-paint5_linear" x1="20" y1="8" x2="20" y2="50.6087" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="bill-paint6_linear" x1="20" y1="8" x2="20" y2="50.6087" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="bill-paint7_linear" x1="20" y1="8" x2="20" y2="50.6087" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="bill-paint8_linear" x1="31.4286" y1="13.0725" x2="0.682338" y2="33.5565" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+    </defs>
+</svg>

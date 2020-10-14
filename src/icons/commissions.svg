@@ -1,0 +1,154 @@
+<svg class="icon"
+     viewBox="0 0 40 40"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg"
+>
+    <g clip-path="url(#commissions-clip0)">
+    <mask id="commissions-mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="20" height="24">
+    <path d="M0 11C0 9.34315 1.34315 8 3 8H16.7143C17.9795 8 18.6131 9.52971 17.7185 10.4244C17.1639 10.979 17.1639 11.8782 17.7185 12.4328L18.9307 13.645C19.6001 14.3144 19.6001 15.3999 18.9307 16.0693L17.9265 17.0735C17.257 17.743 17.257 18.8284 17.9265 19.4979L18.9307 20.5021C19.6001 21.1716 19.6001 22.257 18.9307 22.9265L17.9265 23.9307C17.257 24.6001 17.257 25.6856 17.9265 26.355L18.9307 27.3592C19.6001 28.0287 19.6001 29.1141 18.9307 29.7836L17.2164 31.4979C16.8949 31.8194 16.4589 32 16.0042 32H3C1.34314 32 0 30.6569 0 29V11Z" fill="white"/>
+    </mask>
+    <g mask="url(#commissions-mask0)">
+    <rect y="8" width="40" height="24" rx="3.125" fill="white"/>
+    <mask id="commissions-mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="24">
+    <rect y="8" width="40" height="24" rx="3.125" fill="url(#commissions-paint0_linear)"/>
+    </mask>
+    <g mask="url(#commissions-mask1)">
+    </g>
+    <mask id="commissions-mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="24">
+    <rect y="8" width="40" height="24" rx="3.125" fill="url(#commissions-paint1_linear)"/>
+    </mask>
+    <g mask="url(#commissions-mask2)">
+    <path d="M40 32V8L0 32H40Z" fill="url(#commissions-paint2_linear)"/>
+    </g>
+    <mask id="commissions-mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="24">
+    <rect y="8" width="40" height="24" rx="3.125" fill="white"/>
+    </mask>
+    <g mask="url(#commissions-mask3)">
+    <g filter="url(#commissions-filter0_d)">
+    <rect y="8" width="40" height="24" rx="3.125" fill="url(#commissions-paint3_linear)"/>
+    <mask id="commissions-mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="24">
+    <rect y="8" width="40" height="24" rx="3.125" fill="url(#commissions-paint4_linear)"/>
+    </mask>
+    <g mask="url(#commissions-mask4)">
+    </g>
+    <mask id="commissions-mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="24">
+    <rect y="8" width="40" height="24" rx="3.125" fill="url(#commissions-paint5_linear)"/>
+    </mask>
+    <g mask="url(#commissions-mask5)">
+    <path d="M40 32.3478V8L0 32.3478H40Z" fill="url(#commissions-paint6_linear)"/>
+    </g>
+    </g>
+    </g>
+    <path d="M21.0994 14.8452C22.1822 14.9987 23.0754 15.4901 23.5356 16.2273C23.6168 16.3808 23.6709 16.5344 23.6709 16.7187C23.6709 17.1794 23.3461 17.5479 22.9401 17.5479C22.7506 17.5479 22.5611 17.4251 22.3716 17.2101C21.9386 16.7494 21.2348 16.3808 20.4769 16.3808C19.34 16.3808 18.934 16.9951 18.934 17.6093C18.934 19.6364 23.8875 18.6843 23.8875 22.5234C23.8875 24.2127 22.9401 25.3183 21.1265 25.5333V26.3933C21.1265 26.7926 20.8288 27.1304 20.4769 27.1304C20.125 27.1304 19.8543 26.7926 19.8543 26.3933V25.5333C18.528 25.349 17.4994 24.5505 17.0392 23.6905C16.9851 23.5677 16.9309 23.4141 16.9309 23.2606C16.9309 22.7999 17.2558 22.4313 17.6618 22.4313C17.9595 22.4313 18.1219 22.6156 18.2573 22.7691C18.8257 23.4141 19.5566 23.9362 20.4769 23.9362C21.722 23.9362 22.3175 23.4755 22.3175 22.5234C22.3175 20.2814 17.364 21.2949 17.364 17.6093C17.364 16.2273 18.1219 15.0602 19.8543 14.8452V13.9545C19.8543 13.5552 20.1521 13.2174 20.4769 13.2174C20.8288 13.2174 21.1265 13.5552 21.1265 13.9545V14.8452H21.0994Z" fill="#20804E"/>
+    <rect opacity="0.5" x="2.30299" y="10.303" width="34.9592" height="19.7418" rx="1.5625" stroke="#4ABE6B" stroke-width="1.5625"/>
+    </g>
+    <mask id="commissions-mask6" mask-type="alpha" maskUnits="userSpaceOnUse" x="20" y="8" width="20" height="24">
+    <path d="M40 29C40 30.6569 38.6569 32 37 32H23.2857C22.0205 32 21.3869 30.4703 22.2815 29.5756C22.8361 29.021 22.8361 28.1218 22.2815 27.5672L21.0693 26.355C20.3999 25.6856 20.3999 24.6001 21.0693 23.9307L22.0735 22.9265C22.743 22.257 22.743 21.1716 22.0735 20.5021L21.0693 19.4979C20.3999 18.8284 20.3999 17.743 21.0693 17.0735L22.0735 16.0693C22.743 15.3999 22.743 14.3144 22.0735 13.645L21.0693 12.6408C20.3999 11.9713 20.3999 10.8859 21.0693 10.2164L22.7836 8.5021C23.1051 8.18061 23.5411 8 23.9958 8H37C38.6569 8 40 9.34315 40 11V29Z" fill="white"/>
+    </mask>
+    <g mask="url(#commissions-mask6)">
+    <rect x="3.8147e-06" y="8" width="40" height="24" rx="3.125" fill="url(#commissions-paint7_linear)"/>
+    <mask id="commissions-mask7" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="24">
+    <rect x="3.8147e-06" y="8" width="40" height="24" rx="3.125" fill="white"/>
+    </mask>
+    <g mask="url(#commissions-mask7)">
+    <path d="M40 32V8L3.8147e-06 32H40Z" fill="url(#commissions-paint8_linear)"/>
+    </g>
+    <mask id="commissions-mask8" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="24">
+    <rect x="3.8147e-06" y="8" width="40" height="24" rx="3.125" fill="white"/>
+    </mask>
+    <g mask="url(#commissions-mask8)">
+    <g filter="url(#commissions-filter1_d)">
+    <rect x="3.8147e-06" y="8" width="40" height="24" rx="3.125" fill="url(#commissions-paint9_linear)"/>
+    <mask id="commissions-mask9" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="24">
+    <rect x="3.8147e-06" y="8" width="40" height="24" rx="3.125" fill="url(#commissions-paint10_linear)"/>
+    </mask>
+    <g mask="url(#commissions-mask9)">
+    </g>
+    <mask id="commissions-mask10" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="8" width="40" height="24">
+    <rect x="3.8147e-06" y="8" width="40" height="24" rx="3.125" fill="url(#commissions-paint11_linear)"/>
+    </mask>
+    <g mask="url(#commissions-mask10)">
+    <path d="M40 32.3478V8L3.8147e-06 32.3478H40Z" fill="url(#commissions-paint12_linear)"/>
+    </g>
+    </g>
+    </g>
+    <path d="M21.0994 14.8452C22.1822 14.9987 23.0754 15.4901 23.5356 16.2273C23.6168 16.3808 23.6709 16.5344 23.6709 16.7187C23.6709 17.1794 23.3461 17.5479 22.9401 17.5479C22.7506 17.5479 22.5611 17.4251 22.3716 17.2101C21.9386 16.7494 21.2348 16.3808 20.4769 16.3808C19.34 16.3808 18.934 16.9951 18.934 17.6093C18.934 19.6364 23.8875 18.6843 23.8875 22.5234C23.8875 24.2127 22.9401 25.3183 21.1265 25.5333V26.3933C21.1265 26.7926 20.8288 27.1304 20.4769 27.1304C20.125 27.1304 19.8543 26.7926 19.8543 26.3933V25.5333C18.528 25.349 17.4994 24.5505 17.0392 23.6905C16.9851 23.5677 16.9309 23.4141 16.9309 23.2606C16.9309 22.7999 17.2558 22.4313 17.6618 22.4313C17.9595 22.4313 18.1219 22.6156 18.2573 22.7691C18.8257 23.4141 19.5566 23.9362 20.4769 23.9362C21.722 23.9362 22.3175 23.4755 22.3175 22.5234C22.3175 20.2814 17.364 21.2949 17.364 17.6093C17.364 16.2273 18.1219 15.0602 19.8543 14.8452V13.9545C19.8543 13.5552 20.1521 13.2174 20.4769 13.2174C20.8288 13.2174 21.1265 13.5552 21.1265 13.9545V14.8452H21.0994Z" fill="#20804E"/>
+    <rect opacity="0.5" x="2.30299" y="10.303" width="34.9592" height="19.7418" rx="1.5625" stroke="#4ABE6B" stroke-width="1.5625"/>
+    </g>
+    </g>
+    <defs>
+        <filter id="commissions-filter0_d" x="-3.125" y="-1.375" width="52.5" height="36.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset dx="3.125" dy="-3.125"/>
+            <feGaussianBlur stdDeviation="3.125"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        </filter>
+        <filter id="commissions-filter1_d" x="-3.125" y="-1.375" width="52.5" height="36.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset dx="3.125" dy="-3.125"/>
+            <feGaussianBlur stdDeviation="3.125"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        </filter>
+        <linearGradient id="commissions-paint0_linear" x1="20" y1="8" x2="20" y2="50" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint1_linear" x1="20" y1="8" x2="20" y2="50" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint2_linear" x1="31.4286" y1="13" x2="0.955833" y2="33.596" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint3_linear" x1="20" y1="8" x2="20" y2="50" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint4_linear" x1="20" y1="8" x2="20" y2="50" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint5_linear" x1="20" y1="8" x2="20" y2="50" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint6_linear" x1="31.4286" y1="13.0725" x2="0.682337" y2="33.5565" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint7_linear" x1="20" y1="8" x2="20" y2="50" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint8_linear" x1="31.4286" y1="13" x2="0.955837" y2="33.596" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint9_linear" x1="20" y1="8" x2="20" y2="50" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint10_linear" x1="20" y1="8" x2="20" y2="50" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint11_linear" x1="20" y1="8" x2="20" y2="50" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="commissions-paint12_linear" x1="31.4286" y1="13.0725" x2="0.682341" y2="33.5565" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <clipPath id="commissions-clip0">
+            <rect width="40" height="40" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>

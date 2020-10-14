@@ -1,0 +1,93 @@
+<svg class="icon"
+     viewBox="0 0 40 40"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg"
+>
+    <rect x="19.25" width="1.5" height="24.75" rx="0.75" fill="#19194B"/>
+    <path d="M4.99999 16.5C4.99999 8.21574 11.7157 1.50002 20 1.50002C28.2843 1.50002 35 8.21574 35 16.5C35 16.5 33.3099 15 32 15C30.6901 15 29 16.5 29 16.5C29 16.5 26.3524 15 24.5 15C22.6476 15 20 16.5 20 16.5C20 16.5 17.1169 15 15.125 15C13.1331 15 10.25 16.5 10.25 16.5C10.25 16.5 8.80568 15 7.62499 15C6.4443 15 4.99999 16.5 4.99999 16.5Z" fill="#00A0DF"/>
+    <mask id="servicescolor-mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="1" width="30" height="16">
+        <path d="M4.99999 16.5C4.99999 8.21574 11.7157 1.50002 20 1.50002C28.2843 1.50002 35 8.21574 35 16.5C35 16.5 33.3099 15 32 15C30.6901 15 29 16.5 29 16.5C29 16.5 26.3524 15 24.5 15C22.6476 15 20 16.5 20 16.5C20 16.5 17.1169 15 15.125 15C13.1331 15 10.25 16.5 10.25 16.5C10.25 16.5 8.80568 15 7.62499 15C6.4443 15 4.99999 16.5 4.99999 16.5Z" fill="#00A0DF"/>
+    </mask>
+    <g mask="url(#servicescolor-mask0)">
+        <path d="M10.25 16.5C10.25 16.5 11.375 1.50002 20 1.50002C28.625 1.50002 29 16.5 29 16.5H10.25Z" fill="#33B3E5"/>
+    </g>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M20 23.25C20.4142 23.25 20.75 23.5858 20.75 24V27.75C20.75 28.9926 19.7426 30 18.5 30C17.2574 30 16.25 28.9926 16.25 27.75V27.375C16.25 26.9608 16.5858 26.625 17 26.625C17.4142 26.625 17.75 26.9608 17.75 27.375V27.75C17.75 28.1642 18.0858 28.5 18.5 28.5C18.9142 28.5 19.25 28.1642 19.25 27.75V24C19.25 23.5858 19.5858 23.25 20 23.25Z" fill="#19194B"/>
+    <rect x="4.53571" y="21" width="31.2143" height="19" rx="2.375" fill="url(#servicescolor-paint0_linear)"/>
+    <mask id="servicescolor-mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="4" y="21" width="32" height="19">
+        <rect x="4.53571" y="21" width="31.2143" height="19" rx="2.375" fill="url(#servicescolor-paint1_linear)"/>
+    </mask>
+    <g mask="url(#servicescolor-mask1)"></g>
+    <mask id="servicescolor-mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="4" y="21" width="32" height="19">
+        <rect x="4.53571" y="21" width="31.2143" height="19" rx="2.375" fill="url(#servicescolor-paint2_linear)"/>
+    </mask>
+    <g mask="url(#servicescolor-mask2)">
+        <path d="M35.75 40V21L4.53571 40H35.75Z" fill="url(#servicescolor-paint3_linear)"/>
+    </g>
+    <mask id="servicescolor-mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="4" y="21" width="32" height="19">
+        <rect x="4.53571" y="21" width="31.2143" height="19" rx="2.375" fill="url(#servicescolor-paint4_linear)"/>
+    </mask>
+    <g mask="url(#servicescolor-mask3)">
+        <g filter="url(#servicescolor-filter0_d)">
+            <rect x="4.53571" y="21" width="31.2143" height="19" rx="2.375" fill="url(#servicescolor-paint5_linear)"/>
+            <mask id="servicescolor-mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="4" y="21" width="32" height="19">
+                <rect x="4.53571" y="21" width="31.2143" height="19" rx="2.375" fill="url(#servicescolor-paint6_linear)"/>
+            </mask>
+            <g mask="url(#servicescolor-mask4)"></g>
+            <mask id="servicescolor-mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="4" y="21" width="32" height="19">
+                <rect x="4.53571" y="21" width="31.2143" height="19" rx="2.375" fill="url(#servicescolor-paint7_linear)"/>
+            </mask>
+            <g mask="url(#servicescolor-mask5)">
+                <path d="M35.75 40V21L4.53571 40H35.75Z" fill="url(#servicescolor-paint8_linear)"/>
+            </g>
+        </g>
+    </g>
+    <path d="M21.0008 26.3417C21.8457 26.4615 22.5428 26.845 22.9019 27.4202C22.9652 27.54 23.0075 27.6599 23.0075 27.8037C23.0075 28.1632 22.754 28.4508 22.4372 28.4508C22.2893 28.4508 22.1414 28.3549 21.9936 28.1871C21.6556 27.8276 21.1064 27.54 20.515 27.54C19.6278 27.54 19.311 28.0194 19.311 28.4987C19.311 30.0806 23.1765 29.3376 23.1765 32.3335C23.1765 33.6517 22.4372 34.5145 21.0219 34.6823V35.3533C21.0219 35.6649 20.7896 35.9286 20.515 35.9286C20.2404 35.9286 20.0292 35.6649 20.0292 35.3533V34.6823C18.9941 34.5385 18.1915 33.9153 17.8324 33.2442C17.7901 33.1484 17.7479 33.0285 17.7479 32.9087C17.7479 32.5492 18.0014 32.2616 18.3182 32.2616C18.5506 32.2616 18.6773 32.4054 18.7829 32.5252C19.2265 33.0285 19.7968 33.436 20.515 33.436C21.4866 33.436 21.9513 33.0765 21.9513 32.3335C21.9513 30.5839 18.0859 31.3748 18.0859 28.4987C18.0859 27.4202 18.6773 26.5094 20.0292 26.3417V25.6466C20.0292 25.3351 20.2615 25.0714 20.515 25.0714C20.7896 25.0714 21.0219 25.3351 21.0219 25.6466V26.3417H21.0008Z" fill="#20804E"/>
+    <rect opacity="0.5" x="6.31696" y="22.7812" width="27.3125" height="15.4375" rx="1.1875" stroke="#4ABE6B" stroke-width="1.1875"/>
+    <defs>
+        <filter id="servicescolor-filter0_d" x="2.16071" y="13.875" width="40.7143" height="28.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset dx="2.375" dy="-2.375"/>
+            <feGaussianBlur stdDeviation="2.375"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        </filter>
+        <linearGradient id="servicescolor-paint0_linear" x1="20.1429" y1="21" x2="20.1429" y2="54.25" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="servicescolor-paint1_linear" x1="20.1429" y1="21" x2="20.1429" y2="54.25" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="servicescolor-paint2_linear" x1="20.1429" y1="21" x2="20.1429" y2="54.25" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="servicescolor-paint3_linear" x1="29.0612" y1="24.9583" x2="5.06818" y2="40.9432" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="servicescolor-paint4_linear" x1="20.1429" y1="21" x2="20.1429" y2="54.25" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="servicescolor-paint5_linear" x1="20.1429" y1="21" x2="20.1429" y2="54.25" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="servicescolor-paint6_linear" x1="20.1429" y1="21" x2="20.1429" y2="54.25" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="servicescolor-paint7_linear" x1="20.1429" y1="21" x2="20.1429" y2="54.25" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="servicescolor-paint8_linear" x1="29.0612" y1="24.9583" x2="5.06818" y2="40.9432" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+    </defs>
+</svg>

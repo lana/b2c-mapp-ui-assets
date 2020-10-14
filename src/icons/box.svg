@@ -1,0 +1,20 @@
+<svg class="icon"
+     viewBox="0 0 40 40"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg"
+>
+    <rect width="40" height="40" rx="5" fill="url(#box-paint0_linear)"/>
+    <path d="M13 0H27V20.0568C27 20.8702 26.0806 21.3433 25.4188 20.8705L20.5812 17.4152C20.2335 17.1668 19.7665 17.1668 19.4188 17.4152L14.5812 20.8705C13.9194 21.3433 13 20.8702 13 20.0568V0Z" fill="url(#box-paint1_linear)"/>
+    <rect x="4" y="29" width="15" height="2" rx="1" fill="#87460C"/>
+    <rect x="4" y="33" width="11" height="2" rx="1" fill="#87460C"/>
+    <defs>
+        <linearGradient id="box-paint0_linear" x1="20" y1="48.5" x2="-12.1232" y2="7.78033" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#A76013"/>
+            <stop offset="1" stop-color="#E99B26"/>
+        </linearGradient>
+        <linearGradient id="box-paint1_linear" x1="20" y1="0" x2="20" y2="75.8767" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FAF0E1"/>
+            <stop offset="1" stop-color="#D7C0A4"/>
+        </linearGradient>
+    </defs>
+</svg>
