@@ -1,0 +1,65 @@
+<svg class="icon"
+     viewBox="0 0 40 40"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg"
+>
+    <rect x="1" width="38" height="38" rx="4" fill="url(#depositclose-paint0_linear)"/>
+    <path d="M6 38H10V39C10 39.5523 9.55228 40 9 40H7C6.44772 40 6 39.5523 6 39V38Z" fill="url(#depositclose-paint1_linear)"/>
+    <path d="M30 38H34V39C34 39.5523 33.5523 40 33 40H31C30.4477 40 30 39.5523 30 39V38Z" fill="url(#depositclose-paint2_linear)"/>
+    <rect x="8" y="5" width="26" height="28" rx="2" fill="#DFE1E6"/>
+    <rect x="6" y="5" width="28" height="28" rx="2" fill="#F4F5F7"/>
+    <rect x="15" y="19.6" width="1.2" height="18" rx="0.6" transform="rotate(-90 15 19.6)" fill="url(#depositclose-paint3_linear)"/>
+    <rect x="18.0603" y="25.7882" width="1.2" height="18" rx="0.6" transform="rotate(-135 18.0603 25.7882)" fill="url(#depositclose-paint4_linear)"/>
+    <rect x="17.2118" y="13.0603" width="1.2" height="18" rx="0.6" transform="rotate(-45 17.2118 13.0603)" fill="url(#depositclose-paint5_linear)"/>
+    <rect x="23.4" y="10" width="1.2" height="18" rx="0.6" fill="url(#depositclose-paint6_linear)"/>
+    <circle cx="24" cy="19" r="5.4" fill="url(#depositclose-paint7_linear)"/>
+    <ellipse cx="24" cy="19" rx="3" ry="3" fill="url(#depositclose-paint8_linear)"/>
+    <rect x="5" y="8" width="2.09524" height="5" rx="1.04762" fill="url(#depositclose-paint9_linear)"/>
+    <rect x="5" y="25" width="2.09524" height="5" rx="1.04762" fill="url(#depositclose-paint10_linear)"/>
+    <defs>
+        <linearGradient id="depositclose-paint0_linear" x1="-23.2414" y1="83.6" x2="85.6888" y2="-46.5531" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#DFE1E6"/>
+            <stop offset="1" stop-color="#DFE1E6"/>
+        </linearGradient>
+        <linearGradient id="depositclose-paint1_linear" x1="11.1333" y1="36.1" x2="9.99981" y2="41.352" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositclose-paint2_linear" x1="35.1333" y1="36.1" x2="33.9998" y2="41.352" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositclose-paint3_linear" x1="16.54" y1="2.50001" x2="9.07767" y2="3.65252" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositclose-paint4_linear" x1="19.6003" y1="8.68824" x2="12.138" y2="9.84075" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositclose-paint5_linear" x1="18.7518" y1="-4.0397" x2="11.2894" y2="-2.88719" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositclose-paint6_linear" x1="24.94" y1="-7.1" x2="17.4777" y2="-5.94748" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositclose-paint7_linear" x1="32.46" y1="3.34001" x2="21.66" y2="28.36" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositclose-paint8_linear" x1="17.1724" y1="29.2" x2="34.3719" y2="8.64951" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#DFE1E6"/>
+            <stop offset="1" stop-color="#DFE1E6"/>
+        </linearGradient>
+        <linearGradient id="depositclose-paint9_linear" x1="7.68889" y1="3.25" x2="0.821103" y2="9.9172" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositclose-paint10_linear" x1="7.68889" y1="20.25" x2="0.821103" y2="26.9172" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+    </defs>
+</svg>

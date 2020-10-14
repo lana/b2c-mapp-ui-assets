@@ -1,0 +1,95 @@
+<svg class="icon"
+     viewBox="0 0 40 40"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg"
+>
+    <rect x="2" width="37" height="38" rx="4" fill="url(#depositopen-paint0_linear)"/>
+    <path d="M6 38H10V39C10 39.5523 9.55228 40 9 40H7C6.44772 40 6 39.5523 6 39V38Z" fill="url(#depositopen-paint1_linear)"/>
+    <rect x="7" y="5" width="27" height="28" rx="2" fill="url(#depositopen-paint2_linear)"/>
+    <path d="M30 38H34V39C34 39.5523 33.5523 40 33 40H31C30.4477 40 30 39.5523 30 39V38Z" fill="url(#depositopen-paint3_linear)"/>
+    <rect x="24" y="29" width="9" height="4" rx="1" fill="url(#depositopen-paint4_linear)"/>
+    <rect x="23" y="25" width="9" height="4" rx="1" fill="url(#depositopen-paint5_linear)"/>
+    <rect x="21" y="21" width="9" height="4" rx="1" fill="url(#depositopen-paint6_linear)"/>
+    <rect x="8" y="5" width="21" height="28" rx="2" fill="#DFE1E6"/>
+    <rect x="7" y="5" width="20" height="28" rx="2" fill="#F4F5F7"/>
+    <ellipse cx="16.9643" cy="27.5" rx="1.17857" ry="1.5" fill="url(#depositopen-paint7_linear)"/>
+    <ellipse cx="21.6786" cy="27.5" rx="1.17857" ry="1.5" fill="url(#depositopen-paint8_linear)"/>
+    <rect x="13.4286" y="16" width="0.999999" height="11.7857" rx="0.5" transform="rotate(-90 13.4286 16)" fill="url(#depositopen-paint9_linear)"/>
+    <rect width="0.899262" height="13.4889" rx="0.449631" transform="matrix(-0.617822 -0.786318 0.617822 -0.786318 15.4323 21.1569)" fill="url(#depositopen-paint10_linear)"/>
+    <rect width="0.899262" height="13.4889" rx="0.449631" transform="matrix(0.617822 -0.786318 0.617822 0.786318 14.8768 10.5503)" fill="url(#depositopen-paint11_linear)"/>
+    <rect x="18.9286" y="8" width="0.785714" height="15" rx="0.392857" fill="url(#depositopen-paint12_linear)"/>
+    <ellipse cx="19.3214" cy="15.5" rx="3.53571" ry="4.5" fill="url(#depositopen-paint13_linear)"/>
+    <ellipse cx="19.3214" cy="15.5" rx="1.96429" ry="2.5" fill="url(#depositopen-paint14_linear)"/>
+    <rect x="6" y="8" width="1.57143" height="5" rx="0.785714" fill="url(#depositopen-paint15_linear)"/>
+    <rect x="6" y="25" width="1.57143" height="5" rx="0.785714" fill="url(#depositopen-paint16_linear)"/>
+    <defs>
+        <linearGradient id="depositopen-paint0_linear" x1="-21.6034" y1="83.6" x2="87.8018" y2="-43.6807" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#DFE1E6"/>
+            <stop offset="1" stop-color="#DFE1E6"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint1_linear" x1="11.1333" y1="36.1" x2="9.99981" y2="41.352" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint2_linear" x1="41.65" y1="-21.6" x2="12.953" y2="42.507" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint3_linear" x1="35.1333" y1="36.1" x2="33.9998" y2="41.352" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint4_linear" x1="31.0714" y1="29.8333" x2="25.6208" y2="34.8067" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint5_linear" x1="30.0714" y1="25.8333" x2="24.6208" y2="30.8067" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint6_linear" x1="28.0714" y1="21.8333" x2="22.6208" y2="26.8067" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint7_linear" x1="16.9643" y1="26" x2="16.4804" y2="32.1027" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint8_linear" x1="21.6786" y1="26" x2="21.1947" y2="32.1027" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#EB4B68"/>
+            <stop offset="1" stop-color="#CA365F"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint9_linear" x1="14.7119" y1="4.80357" x2="8.58182" y2="6.00853" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint10_linear" x1="1.15405" y1="-12.8145" x2="-4.43811" y2="-11.9508" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint11_linear" x1="1.15405" y1="-12.8145" x2="-4.43811" y2="-11.9508" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint12_linear" x1="19.9369" y1="-6.25" x2="15.0069" y2="-5.65175" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint13_linear" x1="24.8607" y1="2.45" x2="14.4224" y2="21.4503" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint14_linear" x1="14.851" y1="24" x2="29.3826" y2="10.3578" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#DFE1E6"/>
+            <stop offset="1" stop-color="#DFE1E6"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint15_linear" x1="8.01667" y1="3.25" x2="1.47785" y2="8.01088" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+        <linearGradient id="depositopen-paint16_linear" x1="8.01667" y1="20.25" x2="1.47785" y2="25.0109" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#42526E"/>
+            <stop offset="1" stop-color="#AAB5C7"/>
+        </linearGradient>
+    </defs>
+</svg>

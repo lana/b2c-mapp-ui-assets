@@ -1,0 +1,32 @@
+<svg class="icon"
+     viewBox="0 0 40 40"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg"
+>
+    <rect x="1.90475" y="20.9524" width="17.1429" height="17.1429" rx="5.14286" fill="#CA365F"/>
+    <rect x="1.90475" y="1.90479" width="17.1429" height="17.1429" rx="5.14286" fill="#007CBF"/>
+    <rect y="1.90479" width="17.1429" height="17.1429" rx="5.14286" fill="url(#microapp-paint0_linear)"/>
+    <rect x="22.8571" y="1.90479" width="17.1429" height="17.1429" rx="5.14286" fill="#D79F36"/>
+    <rect x="20.9524" y="1.90479" width="17.1429" height="17.1429" rx="5.14286" fill="url(#microapp-paint1_linear)"/>
+    <rect y="20.9524" width="17.1429" height="17.1429" rx="5.14286" fill="url(#microapp-paint2_linear)"/>
+    <rect x="22.8571" y="20.9524" width="17.1429" height="17.1429" rx="5.14286" fill="#4ABE6B"/>
+    <rect x="20.9524" y="20.9524" width="17.1429" height="17.1429" rx="5.14286" fill="url(#microapp-paint3_linear)"/>
+    <defs>
+        <linearGradient id="microapp-paint0_linear" x1="8.57143" y1="1.90479" x2="8.57143" y2="43.5374" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00A0DF"/>
+            <stop offset="1" stop-color="#007CBF"/>
+        </linearGradient>
+        <linearGradient id="microapp-paint1_linear" x1="29.5614" y1="37.2619" x2="29.5614" y2="1.90479" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E99B26"/>
+            <stop offset="1" stop-color="#FAC34B"/>
+        </linearGradient>
+        <linearGradient id="microapp-paint2_linear" x1="8.57143" y1="20.9524" x2="6.39371" y2="55.9083" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#EB4B68"/>
+            <stop offset="1" stop-color="#CA365F"/>
+        </linearGradient>
+        <linearGradient id="microapp-paint3_linear" x1="29.5238" y1="20.9524" x2="29.5238" y2="50.9524" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#66DE7D"/>
+            <stop offset="1" stop-color="#4ABE6B"/>
+        </linearGradient>
+    </defs>
+</svg>

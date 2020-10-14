@@ -1,0 +1,39 @@
+<svg class="icon"
+     viewBox="0 0 40 40"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg"
+>
+    <g clip-path="url(#locationcolor-clip0)">
+        <ellipse opacity="0.1" cx="20.1579" cy="37.8948" rx="13.1579" ry="2.10526" fill="#F4F5F7"/>
+        <g filter="url(#locationcolor-filter0_i)">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M20.1776 17.7873C23.5266 17.7873 26.2415 15.0724 26.2415 11.7234C26.2415 8.37448 23.5266 5.65961 20.1776 5.65961C19.9035 5.65961 19.6336 5.6778 19.3691 5.71305C19.1046 5.67781 18.8347 5.65963 18.5606 5.65963C15.2117 5.65963 12.4968 8.3745 12.4968 11.7235C12.4968 15.0724 15.2117 17.7873 18.5606 17.7873C18.8348 17.7873 19.1047 17.7691 19.3692 17.7338C19.6337 17.7691 19.9035 17.7873 20.1776 17.7873ZM14.1138 11.7234C14.1138 14.7983 16.4025 17.3386 19.3692 17.7338C22.3359 17.3385 24.6245 14.7983 24.6245 11.7235C24.6245 8.6486 22.3358 6.10828 19.3691 5.71305C16.4024 6.10835 14.1138 8.64863 14.1138 11.7234Z" fill="url(#locationcolor-paint0_linear)"/>
+        </g>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2801 37.7839C21.0294 37.9256 20.7482 37.9999 20.4623 38C20.176 38.0013 19.8941 37.9276 19.6428 37.7858C19.3916 37.644 19.1794 37.4386 19.026 37.189C15.6881 31.8027 7.92873 18.6552 7.92873 12.9381C7.92873 9.50674 9.24905 6.21587 11.5992 3.7895C13.9494 1.36312 17.137 0 20.4606 0C23.7843 0 26.9719 1.36312 29.322 3.7895C31.6722 6.21587 32.9926 9.50674 32.9926 12.9381C32.9926 18.6552 25.2332 31.8009 21.897 37.189C21.7429 37.4376 21.5308 37.6421 21.2801 37.7839ZM20.4606 17.7872C23.8096 17.7872 26.5245 15.0724 26.5245 11.7234C26.5245 8.37445 23.8096 5.65959 20.4606 5.65959C17.1117 5.65959 14.3968 8.37445 14.3968 11.7234C14.3968 15.0724 17.1117 17.7872 20.4606 17.7872Z" fill="#007CBF"/>
+        <rect x="18.5505" y="37.05" width="1.9" height="0.95" fill="#007CBF"/>
+        <rect x="18.5505" width="1.9" height="0.95" fill="#007CBF"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M19.3801 37.7839C19.1294 37.9256 18.8482 37.9999 18.5624 38C18.276 38.0013 17.9941 37.9276 17.7428 37.7858C17.4916 37.644 17.2794 37.4386 17.126 37.189C13.7881 31.8027 6.02873 18.6552 6.02873 12.9381C6.02873 9.50674 7.34906 6.21587 9.69924 3.7895C12.0494 1.36312 15.237 0 18.5606 0C21.8843 0 25.0719 1.36312 27.422 3.7895C29.7722 6.21587 31.0926 9.50674 31.0926 12.9381C31.0926 18.6552 23.3332 31.8009 19.997 37.189C19.8429 37.4376 19.6308 37.6421 19.3801 37.7839ZM18.5606 17.7872C21.9096 17.7872 24.6245 15.0724 24.6245 11.7234C24.6245 8.37445 21.9096 5.65959 18.5606 5.65959C15.2117 5.65959 12.4968 8.37445 12.4968 11.7234C12.4968 15.0724 15.2117 17.7872 18.5606 17.7872Z" fill="url(#locationcolor-paint1_linear)"/>
+    </g>
+    <defs>
+        <filter id="locationcolor-filter0_i" x="12.4968" y="5.65961" width="13.7447" height="12.1277" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="0.93617"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+        </filter>
+        <linearGradient id="locationcolor-paint0_linear" x1="-2.46064" y1="-7.68082" x2="24.1096" y2="18.6286" gradientUnits="userSpaceOnUse">
+            <stop offset="0.249226" stop-color="#00A0DF"/>
+            <stop offset="1" stop-color="#007CBF"/>
+        </linearGradient>
+        <linearGradient id="locationcolor-paint1_linear" x1="11.2106" y1="3.02273" x2="43.0302" y2="23.3142" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#33B3E5"/>
+            <stop offset="1" stop-color="#007CBF"/>
+        </linearGradient>
+        <clipPath id="locationcolor-clip0">
+            <rect width="40" height="40" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>
