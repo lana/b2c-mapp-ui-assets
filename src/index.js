@@ -281,6 +281,7 @@ import UpdateAppIcon from './icons/updateApp.svg';
 import UpIcon from './icons/up.svg';
 import UserCheckIcon from './icons/userCheck.svg';
 import UserEditIcon from './icons/editUser.svg';
+import UserIdIcon from './icons/userId.svg';
 import UserInfoIcon from './icons/userInfo.svg';
 import UserMoneyIcon from './icons/userMoney.svg';
 import UserShieldIcon from './icons/userShield.svg';
@@ -592,6 +593,7 @@ export {
   UpIcon,
   UserCheckIcon,
   UserEditIcon,
+  UserIdIcon,
   UserInfoIcon,
   UserMoneyIcon,
   UserShieldIcon,
