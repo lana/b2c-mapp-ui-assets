@@ -1,6 +1,6 @@
 {
 	"name": "@lana/b2c-mapp-ui-assets",
-	"version": "4.9.3",
+	"version": "4.9.4",
 	"description": "Lana B2C Microapp UI Assets, icons and images for general use.",
 	"repository": {
 		"type": "git",
@@ -28,7 +28,7 @@
 		"prepare": "npm run build:cjs && npm run build:esm"
 	},
 	"dependencies": {
-		"core-js": "^3.6.4",
+		"core-js": "^3.7.0",
 		"vue": "^2.6.11"
 	},
 	"devDependencies": {
@@ -39,7 +39,7 @@
 		"@vue/eslint-config-airbnb": "^5.0.2",
 		"autoprefixer": "^9.8.6",
 		"babel-eslint": "^10.1.0",
-		"eslint": "^7.12.1",
+		"eslint": "^7.13.0",
 		"eslint-plugin-fp": "^2.3.0",
 		"eslint-plugin-import": "^2.22.1",
 		"eslint-plugin-vue": "^7.1.0",

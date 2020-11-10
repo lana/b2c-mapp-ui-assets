@@ -301,6 +301,7 @@ import WarningBoldIcon from './icons/warningBold.svg';
 import WarningIcon from './icons/warning.svg';
 import WarningLineIcon from './icons/warningLine.svg';
 import WarningMicroillustration from './icons/warningMicroillustration.svg';
+import WarningSheep from './icons/warningSheep.svg';
 import WaterIcon from './icons/water.svg';
 import WelcomeImage from './icons/welcome.svg';
 import WheelBrokenIcon from './icons/wheelBroken.svg';
@@ -612,6 +613,7 @@ export {
   WarningIcon,
   WarningLineIcon,
   WarningMicroillustration,
+  WarningSheep,
   WaterIcon,
   WelcomeImage,
   WheelBrokenIcon,
