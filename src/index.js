@@ -201,6 +201,7 @@ import PigMoneyIcon from './icons/pigMoney.svg';
 import PinIcon from './icons/pin.svg';
 import PresentIcon from './icons/present.svg';
 import ProductsIcon from './icons/products.svg';
+import PromptCashLocationImage from './icons/promptCashLocation.svg';
 import PromptLocationImage from './icons/promptLocation.svg';
 import PromptPermissionsImage from './icons/promptPermissions.svg';
 import PromptSelfieImage from './icons/promptSelfie.svg';
@@ -514,6 +515,7 @@ export {
   PinIcon,
   PresentIcon,
   ProductsIcon,
+  PromptCashLocationImage,
   PromptLocationImage,
   PromptPermissionsImage,
   PromptSelfieImage,
