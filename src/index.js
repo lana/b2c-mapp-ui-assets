@@ -29,6 +29,7 @@ import CalendarColorIcon from './icons/calendarColor.svg';
 import CameraIcon from './icons/camera.svg';
 import CameraImage from './icons/cameraImage.svg';
 import CardBlockIcon from './icons/cardBlock.svg';
+import CardBlockedImage from './icons/cardBlockedImage.svg';
 import CardBrokenIcon from './icons/cardBroken.svg';
 import CardBrokenImage from './icons/cardBrokenImage.svg';
 import CardCheckIcon from './icons/cardCheck.svg';
@@ -342,6 +343,7 @@ export {
   CameraIcon,
   CameraImage,
   CardBlockIcon,
+  CardBlockedImage,
   CardBrokenIcon,
   CardBrokenImage,
   CardCheckIcon,
