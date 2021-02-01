@@ -306,6 +306,7 @@ import WarningMicroillustration from './icons/warningMicroillustration.svg';
 import WarningSheep from './icons/warningSheep.svg';
 import WaterIcon from './icons/water.svg';
 import WelcomeImage from './icons/welcome.svg';
+import WhatsappIcon from './icons/whatsapp.svg';
 import WheelBrokenIcon from './icons/wheelBroken.svg';
 import WheelIcon from './icons/wheel.svg';
 import WorkInProgressIcon from './icons/workInProgress.svg';
@@ -620,6 +621,7 @@ export {
   WarningSheep,
   WaterIcon,
   WelcomeImage,
+  WhatsappIcon,
   WheelBrokenIcon,
   WheelIcon,
   WorkInProgressIcon,
