@@ -1,3 +1,4 @@
+import AccountUpgradeIcon from './icons/accountUpgrade.svg'; // NOTE: we have to manually create some icon components since our svg-loader doesn't handle gradients perfectly in every case
 import AccountIcon from './components/AccountIcon/AccountIcon.vue'; // NOTE: we have to manually create some icon components since our svg-loader doesn't handle gradients perfectly in every case
 import AddBeneficiaryIcon from './icons/addBeneficiary.svg';
 import AddBoldIcon from './icons/addBold.svg';
@@ -144,6 +145,7 @@ import InstagramIcon from './icons/instagram.svg';
 import InsuranceIcon from './icons/insurance.svg';
 import InvestIcon from './icons/invest.svg';
 import JobIcon from './icons/job.svg';
+import KnowledgeUserInfo from './icons/knowledgeUserInfo.svg';
 import LanaAccountIcon from './icons/lanaAccount.svg';
 import LanaAppIcon from './components/LanaAppIcon/LanaAppIcon.vue';
 import LanaCardIcon from './icons/lanaCard.svg';
@@ -284,6 +286,7 @@ import UpIcon from './icons/up.svg';
 import UserCheckIcon from './icons/userCheck.svg';
 import UserEditIcon from './icons/editUser.svg';
 import UserIdIcon from './icons/userId.svg';
+import UserIdentityCardIcon from './icons/userIdentityCard.svg';
 import UserInfoIcon from './icons/userInfo.svg';
 import UserLanaIcon from './icons/userLana.svg';
 import UserMoneyIcon from './icons/userMoney.svg';
@@ -315,6 +318,7 @@ import './styles/styles.scss';
 
 export {
   AccountIcon,
+  AccountUpgradeIcon,
   AddBeneficiaryIcon,
   AddBoldIcon,
   AddIcon,
@@ -461,6 +465,7 @@ export {
   InsuranceIcon,
   InvestIcon,
   JobIcon,
+  KnowledgeUserInfo,
   LanaAccountIcon,
   LanaAppIcon,
   LanaCardIcon,
@@ -601,6 +606,7 @@ export {
   UserCheckIcon,
   UserEditIcon,
   UserIdIcon,
+  UserIdentityCardIcon,
   UserInfoIcon,
   UserLanaIcon,
   UserMoneyIcon,
