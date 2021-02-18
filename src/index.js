@@ -285,6 +285,7 @@ import UserCheckIcon from './icons/userCheck.svg';
 import UserEditIcon from './icons/editUser.svg';
 import UserIdIcon from './icons/userId.svg';
 import UserInfoIcon from './icons/userInfo.svg';
+import UserLanaIcon from './icons/userLana.svg';
 import UserMoneyIcon from './icons/userMoney.svg';
 import UserShieldIcon from './icons/userShield.svg';
 import VectorIcon from './icons/vector.svg';
@@ -601,6 +602,7 @@ export {
   UserEditIcon,
   UserIdIcon,
   UserInfoIcon,
+  UserLanaIcon,
   UserMoneyIcon,
   UserShieldIcon,
   VectorIcon,
