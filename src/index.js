@@ -206,6 +206,7 @@ import PresentIcon from './icons/present.svg';
 import ProductsIcon from './icons/products.svg';
 import PromptCashLocationImage from './icons/promptCashLocation.svg';
 import PromptLocationImage from './icons/promptLocation.svg';
+import PromptLocationWarning from './icons/promptLocationWarning.svg';
 import PromptPermissionsImage from './icons/promptPermissions.svg';
 import PromptSelfieImage from './icons/promptSelfie.svg';
 import QrcardIcon from './icons/qrCard.svg';
@@ -526,6 +527,7 @@ export {
   ProductsIcon,
   PromptCashLocationImage,
   PromptLocationImage,
+  PromptLocationWarning,
   PromptPermissionsImage,
   PromptSelfieImage,
   QrcardIcon,
