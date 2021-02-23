@@ -44,6 +44,7 @@ import CardNullIcon from './icons/cardNull.svg';
 import CardPinIcon from './icons/cardPin.svg';
 import CardRenewalIcon from './icons/cardRenewal.svg';
 import CardShieldIcon from './icons/cardShield.svg';
+import CardUnlocked from './icons/cardUnlocked.svg';
 import CarBrokenIcon from './icons/carBroken.svg';
 import CarColorIcon from './icons/carColor.svg';
 import CarIcon from './icons/car.svg';
@@ -71,6 +72,7 @@ import ClockIcon from './icons/clock.svg';
 import CloseBoldIcon from './icons/closeBold.svg';
 import CloseIcon from './icons/close.svg';
 import CloseLineIcon from './icons/closeLine.svg';
+import CoinsColorIcon from './icons/coinsColorIcon.svg';
 import CoinIcon from './components/CoinIcon/CoinIcon.vue';
 import CoinsIcon from './icons/coins.svg';
 import ColorLockIcon from './components/ColorLockIcon/ColorLockIcon.vue';
@@ -105,6 +107,7 @@ import DollarBoldIcon from './icons/dollarBold.svg';
 import DollarLineIcon from './icons/dollarLine.svg';
 import DownIcon from './icons/down.svg';
 import DrivingLicenseIcon from './icons/drivingLicense.svg';
+import EarnCoins from './icons/earnCoins.svg';
 import EditIcon from './icons/edit.svg';
 import EntertainmentIcon from './icons/entertainment.svg';
 import EraseIcon from './icons/erase.svg';
@@ -364,6 +367,7 @@ export {
   CardPinIcon,
   CardRenewalIcon,
   CardShieldIcon,
+  CardUnlocked,
   CarBrokenIcon,
   CarColorIcon,
   CarIcon,
@@ -391,6 +395,7 @@ export {
   CloseBoldIcon,
   CloseIcon,
   CloseLineIcon,
+  CoinsColorIcon,
   CoinIcon,
   CoinsIcon,
   ColorLockIcon,
@@ -426,6 +431,7 @@ export {
   DollarLineIcon,
   DownIcon,
   DrivingLicenseIcon,
+  EarnCoins,
   EditIcon,
   EntertainmentIcon,
   EraseIcon,
