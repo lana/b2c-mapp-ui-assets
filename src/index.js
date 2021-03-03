@@ -195,6 +195,7 @@ import MoreIcon from './icons/more.svg';
 import MoveMoneyIcon from './icons/moveMoney.svg';
 import NotificationsClearedIcon from './icons/notificationsCleared.svg';
 import NotificationsIcon from './icons/notifications.svg';
+import OpenedBoxIcon from './icons/openedBox.svg';
 import PaymentsIcon from './components/PaymentsIcon/PaymentsIcon.vue';
 import PayIcon from './icons/pay.svg';
 import PdfIcon from './icons/pdf.svg';
@@ -519,6 +520,7 @@ export {
   MoveMoneyIcon,
   NotificationsClearedIcon,
   NotificationsIcon,
+  OpenedBoxIcon,
   PaymentsIcon,
   PayIcon,
   PdfIcon,
