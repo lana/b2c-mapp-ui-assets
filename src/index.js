@@ -184,6 +184,7 @@ import MessageIcon from './icons/message.svg';
 import MessageLineIcon from './icons/messageLine.svg';
 import MicroappIcon from './icons/microapp.svg';
 import MoneyBagIcon from './icons/moneyBag.svg';
+import MoneyBagColorIcon from './icons/moneyBagColor.svg';
 import MobileIcon from './icons/mobile.svg';
 import MoneyIcon from './icons/money.svg';
 import MopErrorIcon from './icons/mopError.svg';
@@ -509,6 +510,7 @@ export {
   MicroappIcon,
   MobileIcon,
   MoneyBagIcon,
+  MoneyBagColorIcon,
   MoneyIcon,
   MopErrorIcon,
   MopIcon,
