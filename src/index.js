@@ -26,6 +26,7 @@ import CalculatorCashIcon from './icons/calculatorCash.svg';
 import CalculatorColorIcon from './icons/calculatorColor.svg';
 import CalculatorIcon from './icons/calculator.svg';
 import CalendarIcon from './icons/calendar.svg';
+import CalendarCabifyIcon from './icons/calendarCabify.svg';
 import CalendarColorIcon from './icons/calendarColor.svg';
 import CameraIcon from './icons/camera.svg';
 import CameraImage from './icons/cameraImage.svg';
@@ -203,6 +204,8 @@ import PendingMicroillustration from './icons/pendingMicroillustration.svg';
 import PersonIcon from './icons/person.svg';
 import PetRunningImage from './icons/petRunning.svg';
 import PhoneIcon from './icons/phone.svg';
+import PhoneMoneyIcon from './icons/phoneMoney.svg';
+import PhoneWorkInProgressIcon from './icons/phoneWorkInProgress.svg';
 import PigIcon from './icons/pig.svg';
 import PigMoneyIcon from './icons/pigMoney.svg';
 import PinIcon from './icons/pin.svg';
@@ -350,6 +353,7 @@ export {
   CalculatorColorIcon,
   CalculatorIcon,
   CalendarIcon,
+  CalendarCabifyIcon,
   CalendarColorIcon,
   CameraIcon,
   CameraImage,
@@ -528,6 +532,8 @@ export {
   PersonIcon,
   PetRunningImage,
   PhoneIcon,
+  PhoneMoneyIcon,
+  PhoneWorkInProgressIcon,
   PigIcon,
   PigMoneyIcon,
   PinIcon,
