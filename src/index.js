@@ -89,6 +89,7 @@ import CopyIcon from './icons/copy.svg';
 import CurrencyDecreaseIcon from './icons/currencyDecrease.svg';
 import CurrencyIncreaseIcon from './icons/currencyIncrease.svg';
 import DeleteIcon from './icons/delete.svg';
+import DeleteMinimalIcon from './icons/deleteMinimal.svg';
 import DeleteKeyIcon from './icons/deleteKey.svg';
 import DepositCloseIcon from './icons/depositClose.svg';
 import DepositOpenIcon from './icons/depositOpen.svg';
@@ -110,6 +111,7 @@ import DownIcon from './icons/down.svg';
 import DrivingLicenseIcon from './icons/drivingLicense.svg';
 import EarnCoins from './icons/earnCoins.svg';
 import EditIcon from './icons/edit.svg';
+import EditMinimalIcon from './icons/editMinimal.svg';
 import EntertainmentIcon from './icons/entertainment.svg';
 import EraseIcon from './icons/erase.svg';
 import ErrorConnection from './icons/errorConnection.svg';
@@ -418,6 +420,7 @@ export {
   CurrencyIncreaseIcon,
   DeleteIcon,
   DeleteKeyIcon,
+  DeleteMinimalIcon,
   DepositCloseIcon,
   DepositOpenIcon,
   DepositIcon,
@@ -438,6 +441,7 @@ export {
   DrivingLicenseIcon,
   EarnCoins,
   EditIcon,
+  EditMinimalIcon,
   EntertainmentIcon,
   EraseIcon,
   ErrorConnection,
