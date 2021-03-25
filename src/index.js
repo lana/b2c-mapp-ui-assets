@@ -17,11 +17,14 @@ import BalanceIcon from './icons/balance.svg';
 import BankAccountIcon from './icons/bankAccount.svg';
 import BarcodeIcon from './icons/barcode.svg';
 import BeachIcon from './icons/beach.svg';
+import BeatsIcon from './icons/beats.svg';
 import BikeIcon from './icons/bike.svg';
 import BillIcon from './icons/bill.svg';
 import BlankCardImage from './icons/blankCard.svg';
+import BoltIcon from './icons/bolt.svg';
 import BoxIcon from './icons/box.svg';
 import BuildingIcon from './icons/building.svg';
+import CabifyIcon from './icons/cabify.svg';
 import CalculatorCashIcon from './icons/calculatorCash.svg';
 import CalculatorColorIcon from './icons/calculatorColor.svg';
 import CalculatorIcon from './icons/calculator.svg';
@@ -98,6 +101,7 @@ import DescriptionAddedIcon from './icons/descriptionAdded.svg';
 import DescriptionIcon from './icons/document.svg';
 import DetailsIcon from './components/DetailsIcon/DetailsIcon.vue';
 import DeviceInsuranceIcon from './icons/deviceInsurance.svg';
+import DidiIcon from './icons/didi.svg';
 import DiscountIcon from './icons/discount.svg';
 import DocumentAddedIcon from './icons/documentAdded.svg';
 import DocumentEditIcon from './icons/documentEdit.svg';
@@ -220,6 +224,7 @@ import PromptPermissionsImage from './icons/promptPermissions.svg';
 import PromptSelfieImage from './icons/promptSelfie.svg';
 import QrcardIcon from './icons/qrCard.svg';
 import QrCodeIcon from './icons/qrCode.svg';
+import RappiIcon from './icons/rappi.svg';
 import RecordIcon from './icons/record.svg';
 import ReloadIcon from './icons/reload.svg';
 import RequestIcon from './icons/request.svg';
@@ -346,11 +351,14 @@ export {
   BankAccountIcon,
   BarcodeIcon,
   BeachIcon,
+  BeatsIcon,
   BikeIcon,
   BillIcon,
   BlankCardImage,
+  BoltIcon,
   BoxIcon,
   BuildingIcon,
+  CabifyIcon,
   CalculatorCashIcon,
   CalculatorColorIcon,
   CalculatorIcon,
@@ -428,6 +436,7 @@ export {
   DescriptionIcon,
   DetailsIcon,
   DeviceInsuranceIcon,
+  DidiIcon,
   DiscountIcon,
   DocumentAddedIcon,
   DocumentEditIcon,
@@ -550,6 +559,7 @@ export {
   PromptSelfieImage,
   QrcardIcon,
   QrCodeIcon,
+  RappiIcon,
   RecordIcon,
   ReloadIcon,
   RequestIcon,
