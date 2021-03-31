@@ -1,50 +1,50 @@
 <svg class="icon" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M15.4998 5C6.95576 5 0 11.9558 0 20.5C0 29.0442 6.95576 36 15.4998 36C24.0439 36 30.9997 29.0442 30.9997 20.5C31.0544 11.9558 24.0987 5 15.4998 5Z" fill="url(#paint0_linear)"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="5" width="31" height="31">
-<path d="M15.4998 5C6.95576 5 0 11.9558 0 20.5C0 29.0442 6.95576 36 15.4998 36C24.0439 36 30.9997 29.0442 30.9997 20.5C31.0544 11.9558 24.0987 5 15.4998 5Z" fill="url(#paint1_linear)"/>
+<path d="M15.4998 5C6.95576 5 0 11.9558 0 20.5C0 29.0442 6.95576 36 15.4998 36C24.0439 36 30.9997 29.0442 30.9997 20.5C31.0544 11.9558 24.0987 5 15.4998 5Z" fill="url(#coins-color-paint0_linear)"/>
+<mask id="coins-color-mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="5" width="31" height="31">
+<path d="M15.4998 5C6.95576 5 0 11.9558 0 20.5C0 29.0442 6.95576 36 15.4998 36C24.0439 36 30.9997 29.0442 30.9997 20.5C31.0544 11.9558 24.0987 5 15.4998 5Z" fill="url(#coins-color-paint1_linear)"/>
 </mask>
-<g mask="url(#mask0)">
-<path d="M31 36V5L0 36H31Z" fill="url(#paint2_linear)"/>
+<g mask="url(#coins-color-mask0)">
+<path d="M31 36V5L0 36H31Z" fill="url(#coins-color-paint2_linear)"/>
 </g>
 <path opacity="0.5" d="M15.5677 7.5835C8.44759 7.5835 2.65112 13.38 2.65112 20.5002C2.65112 27.6203 8.44759 33.4168 15.5677 33.4168C22.6877 33.4168 28.4842 27.6203 28.4842 20.5002C28.5298 13.38 22.7334 7.5835 15.5677 7.5835V7.5835Z" stroke="#E99B26" stroke-width="1.22708"/>
 <path d="M16.1445 13.0016C17.7951 13.2177 19.1568 13.9093 19.8584 14.9466C19.9822 15.1627 20.0647 15.3788 20.0647 15.6381C20.0647 16.2864 19.5695 16.805 18.9505 16.805C18.6617 16.805 18.3728 16.6322 18.0839 16.3296C17.4237 15.6813 16.3508 15.1627 15.1953 15.1627C13.4622 15.1627 12.8432 16.0271 12.8432 16.8915C12.8432 19.7441 20.3948 18.4042 20.3948 23.8068C20.3948 26.1839 18.9505 27.7399 16.1857 28.0424V29.2526C16.1857 29.8145 15.7318 30.2899 15.1953 30.2899C14.6589 30.2899 14.2462 29.8145 14.2462 29.2526V28.0424C12.2242 27.7831 10.6561 26.6594 9.95461 25.4492C9.87208 25.2763 9.78955 25.0602 9.78955 24.8441C9.78955 24.1958 10.2847 23.6771 10.9037 23.6771C11.3576 23.6771 11.6052 23.9365 11.8116 24.1526C12.6781 25.0602 13.7923 25.7949 15.1953 25.7949C17.0936 25.7949 18.0014 25.1466 18.0014 23.8068C18.0014 20.6517 10.4498 22.078 10.4498 16.8915C10.4498 14.9466 11.6052 13.3042 14.2462 13.0016V11.7482C14.2462 11.1864 14.7002 10.7109 15.1953 10.7109C15.7318 10.7109 16.1857 11.1864 16.1857 11.7482V13.0016H16.1445Z" fill="#A76013"/>
-<g clip-path="url(#clip0)">
-<path d="M30.4999 17C25.2632 17 21 21.2633 21 26.5C21 31.7367 25.2632 36 30.4999 36C35.7366 36 39.9998 31.7367 39.9998 26.5C40.0334 21.2633 35.7702 17 30.4999 17Z" fill="url(#paint3_linear)"/>
-<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="21" y="17" width="19" height="19">
-<path d="M30.4999 17C25.2632 17 21 21.2633 21 26.5C21 31.7367 25.2632 36 30.4999 36C35.7366 36 39.9998 31.7367 39.9998 26.5C40.0334 21.2633 35.7702 17 30.4999 17Z" fill="url(#paint4_linear)"/>
+<g clip-path="url(#coins-color-clip0)">
+<path d="M30.4999 17C25.2632 17 21 21.2633 21 26.5C21 31.7367 25.2632 36 30.4999 36C35.7366 36 39.9998 31.7367 39.9998 26.5C40.0334 21.2633 35.7702 17 30.4999 17Z" fill="url(#coins-color-paint3_linear)"/>
+<mask id="coins-color-mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="21" y="17" width="19" height="19">
+<path d="M30.4999 17C25.2632 17 21 21.2633 21 26.5C21 31.7367 25.2632 36 30.4999 36C35.7366 36 39.9998 31.7367 39.9998 26.5C40.0334 21.2633 35.7702 17 30.4999 17Z" fill="url(#coins-color-paint4_linear)"/>
 </mask>
-<g mask="url(#mask1)">
-<path d="M40 36V17L21 36H40Z" fill="url(#paint5_linear)"/>
+<g mask="url(#coins-color-mask1)">
+<path d="M40 36V17L21 36H40Z" fill="url(#coins-color-paint5_linear)"/>
 </g>
 <path opacity="0.5" d="M30.5416 18.5835C26.1777 18.5835 22.625 22.1362 22.625 26.5002C22.625 30.8641 26.1777 34.4168 30.5416 34.4168C34.9055 34.4168 38.4582 30.8641 38.4582 26.5002C38.4861 22.1362 34.9335 18.5835 30.5416 18.5835V18.5835Z" stroke="#E99B26" stroke-width="0.752083"/>
 <path d="M30.8949 21.904C31.9066 22.0364 32.7412 22.4603 33.1712 23.096C33.2471 23.2285 33.2977 23.3609 33.2977 23.5199C33.2977 23.9172 32.9942 24.2351 32.6148 24.2351C32.4377 24.2351 32.2607 24.1291 32.0837 23.9437C31.679 23.5464 31.0214 23.2285 30.3132 23.2285C29.251 23.2285 28.8716 23.7583 28.8716 24.2881C28.8716 26.0364 33.5 25.2152 33.5 28.5265C33.5 29.9834 32.6148 30.9371 30.9202 31.1225V31.8642C30.9202 32.2086 30.642 32.5 30.3132 32.5C29.9844 32.5 29.7315 32.2086 29.7315 31.8642V31.1225C28.4922 30.9636 27.5311 30.2748 27.1012 29.5331C27.0506 29.4272 27 29.2947 27 29.1623C27 28.7649 27.3035 28.447 27.6829 28.447C27.9611 28.447 28.1128 28.606 28.2393 28.7384C28.7704 29.2947 29.4533 29.745 30.3132 29.745C31.4767 29.745 32.0331 29.3477 32.0331 28.5265C32.0331 26.5927 27.4047 27.4669 27.4047 24.2881C27.4047 23.096 28.1128 22.0894 29.7315 21.904V21.1358C29.7315 20.7914 30.0097 20.5 30.3132 20.5C30.642 20.5 30.9202 20.7914 30.9202 21.1358V21.904H30.8949Z" fill="#A76013"/>
 </g>
 <defs>
-<linearGradient id="paint0_linear" x1="15.568" y1="68.9375" x2="15.568" y2="5" gradientUnits="userSpaceOnUse">
+<linearGradient id="coins-color-paint0_linear" x1="15.568" y1="68.9375" x2="15.568" y2="5" gradientUnits="userSpaceOnUse">
 <stop stop-color="#E99B26"/>
 <stop offset="1" stop-color="#FAC34B"/>
 </linearGradient>
-<linearGradient id="paint1_linear" x1="15.568" y1="68.9375" x2="15.568" y2="5" gradientUnits="userSpaceOnUse">
+<linearGradient id="coins-color-paint1_linear" x1="15.568" y1="68.9375" x2="15.568" y2="5" gradientUnits="userSpaceOnUse">
 <stop stop-color="#413017"/>
 <stop offset="1" stop-color="#FAC34B"/>
 </linearGradient>
-<linearGradient id="paint2_linear" x1="15.8875" y1="36" x2="26.7375" y2="10.0375" gradientUnits="userSpaceOnUse">
+<linearGradient id="coins-color-paint2_linear" x1="15.8875" y1="36" x2="26.7375" y2="10.0375" gradientUnits="userSpaceOnUse">
 <stop stop-color="#E99B26" stop-opacity="0.26"/>
 <stop offset="1" stop-color="#FAC34B"/>
 </linearGradient>
-<linearGradient id="paint3_linear" x1="30.5417" y1="56.1875" x2="30.5417" y2="17" gradientUnits="userSpaceOnUse">
+<linearGradient id="coins-color-paint3_linear" x1="30.5417" y1="56.1875" x2="30.5417" y2="17" gradientUnits="userSpaceOnUse">
 <stop stop-color="#E99B26"/>
 <stop offset="1" stop-color="#FAC34B"/>
 </linearGradient>
-<linearGradient id="paint4_linear" x1="30.5417" y1="56.1875" x2="30.5417" y2="17" gradientUnits="userSpaceOnUse">
+<linearGradient id="coins-color-paint4_linear" x1="30.5417" y1="56.1875" x2="30.5417" y2="17" gradientUnits="userSpaceOnUse">
 <stop stop-color="#413017"/>
 <stop offset="1" stop-color="#FAC34B"/>
 </linearGradient>
-<linearGradient id="paint5_linear" x1="30.7375" y1="36" x2="37.3875" y2="20.0875" gradientUnits="userSpaceOnUse">
+<linearGradient id="coins-color-paint5_linear" x1="30.7375" y1="36" x2="37.3875" y2="20.0875" gradientUnits="userSpaceOnUse">
 <stop stop-color="#E99B26" stop-opacity="0.26"/>
 <stop offset="1" stop-color="#FAC34B"/>
 </linearGradient>
-<clipPath id="clip0">
+<clipPath id="coins-color-clip0">
 <rect width="19" height="19" fill="white" transform="translate(21 17)"/>
 </clipPath>
 </defs>
