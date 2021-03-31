@@ -149,6 +149,7 @@ import HelpLineIcon from './icons/helpLine.svg';
 import HouseIcon from './icons/house.svg';
 import ImageIcon from './icons/image.svg';
 import InfoIcon from './icons/infoBold.svg';
+import InfoMicroillustration from './icons/infoMicroillustration.svg';
 import InfoLineIcon from './icons/infoLine.svg';
 import InstagramDarkIcon from './icons/instagramDarkBlue.svg';
 import InstagramIcon from './icons/instagram.svg';
@@ -484,6 +485,7 @@ export {
   HouseIcon,
   ImageIcon,
   InfoIcon,
+  InfoMicroillustration,
   InfoLineIcon,
   InstagramDarkIcon,
   InstagramIcon,
