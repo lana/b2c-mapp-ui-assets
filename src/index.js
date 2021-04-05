@@ -292,6 +292,7 @@ import TouchidIcon from './icons/touchIdAlternate.svg';
 import ToysIcon from './icons/toys.svg';
 import TransferColorIcon from './icons/transferColor.svg';
 import TransferIcon from './icons/transfer.svg';
+import TransferMicroillustration from './icons/transferMicroillustration.svg';
 import TravelInsuranceIcon from './icons/travelInsurance.svg';
 import TvIcon from './icons/tv.svg';
 import TwitterDarkIcon from './icons/twitterDarkBlue.svg';
@@ -628,6 +629,7 @@ export {
   ToysIcon,
   TransferColorIcon,
   TransferIcon,
+  TransferMicroillustration,
   TravelInsuranceIcon,
   TvIcon,
   TwitterDarkIcon,
