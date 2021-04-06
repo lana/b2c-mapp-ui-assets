@@ -30,6 +30,7 @@ import CalculatorColorIcon from './icons/calculatorColor.svg';
 import CalculatorIcon from './icons/calculator.svg';
 import CalendarIcon from './icons/calendar.svg';
 import CalendarCabifyIcon from './icons/calendarCabify.svg';
+import CalendarCoinsIcon from './icons/calendarCoins.svg';
 import CalendarColorIcon from './icons/calendarColor.svg';
 import CameraIcon from './icons/camera.svg';
 import CameraImage from './icons/cameraImage.svg';
@@ -366,6 +367,7 @@ export {
   CalculatorIcon,
   CalendarIcon,
   CalendarCabifyIcon,
+  CalendarCoinsIcon,
   CalendarColorIcon,
   CameraIcon,
   CameraImage,
