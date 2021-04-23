@@ -298,6 +298,7 @@ import TravelInsuranceIcon from './icons/travelInsurance.svg';
 import TvIcon from './icons/tv.svg';
 import TwitterDarkIcon from './icons/twitterDarkBlue.svg';
 import TwitterIcon from './icons/twitter.svg';
+import UberIcon from './icons/uber.svg';
 import UnlockIcon from './icons/unlock.svg';
 import UpdateAppIcon from './icons/updateApp.svg';
 import UpIcon from './icons/up.svg';
@@ -636,6 +637,7 @@ export {
   TvIcon,
   TwitterDarkIcon,
   TwitterIcon,
+  UberIcon,
   UnlockIcon,
   UpdateAppIcon,
   UpIcon,
