@@ -159,6 +159,7 @@ import InvestIcon from './icons/invest.svg';
 import JobIcon from './icons/job.svg';
 import KnowledgeUserInfo from './icons/knowledgeUserInfo.svg';
 import LanaAccountIcon from './icons/lanaAccount.svg';
+import LanaAccountMicroillustration from './icons/lanaAccountMicroillustration.svg';
 import LanaAppIcon from './components/LanaAppIcon/LanaAppIcon.vue';
 import LanaCardIcon from './icons/lanaCard.svg';
 import LanaCardAtmIcon from './icons/lanaCardAtm.svg';
@@ -192,6 +193,7 @@ import MessageBoldIcon from './icons/messageBold.svg';
 import MessageIcon from './icons/message.svg';
 import MessageLineIcon from './icons/messageLine.svg';
 import MicroappIcon from './icons/microapp.svg';
+import MicroappMicroillustration from './icons/microappMicroillustration.svg';
 import MoneyBagIcon from './icons/moneyBag.svg';
 import MoneyBagColorIcon from './icons/moneyBagColor.svg';
 import MobileIcon from './icons/mobile.svg';
@@ -498,6 +500,7 @@ export {
   JobIcon,
   KnowledgeUserInfo,
   LanaAccountIcon,
+  LanaAccountMicroillustration,
   LanaAppIcon,
   LanaCardIcon,
   LanaCardAtmIcon,
@@ -531,6 +534,7 @@ export {
   MessageIcon,
   MessageLineIcon,
   MicroappIcon,
+  MicroappMicroillustration,
   MobileIcon,
   MoneyBagIcon,
   MoneyBagColorIcon,
