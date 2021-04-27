@@ -14,6 +14,7 @@ import AtmIcon from './icons/atm.svg';
 import AttachmentIcon from './icons/attachment.svg';
 import BackIcon from './icons/back.svg';
 import BalanceIcon from './icons/balance.svg';
+import BankIcon from './icons/bank.svg';
 import BankAccountIcon from './icons/bankAccount.svg';
 import BarcodeIcon from './icons/barcode.svg';
 import BeachIcon from './icons/beach.svg';
@@ -21,6 +22,7 @@ import BeatsIcon from './icons/beats.svg';
 import BikeIcon from './icons/bike.svg';
 import BillIcon from './icons/bill.svg';
 import BlankCardImage from './icons/blankCard.svg';
+import BlueGemIcon from './icons/blueGem.svg';
 import BoltIcon from './icons/bolt.svg';
 import BoxIcon from './icons/box.svg';
 import BuildingIcon from './icons/building.svg';
@@ -134,14 +136,20 @@ import FavoriteOffIcon from './icons/favoriteOff.svg';
 import FavoriteOnIcon from './icons/favoriteOn.svg';
 import FilterIcon from './icons/filter.svg';
 import FillInfoIcon from './icons/fillInfo.svg';
+import FinanceIcon from './icons/finance.svg';
 import FlashOffIcon from './icons/flashOff.svg';
 import FlashOnIcon from './icons/flashOn.svg';
 import ForwardIcon from './icons/forward.svg';
 import ForwardSmallIcon from './icons/forwardSmall.svg';
 import FuelColorIcon from './icons/fuelColor.svg';
 import FuelIcon from './icons/fuel.svg';
+import GamePadIcon from './icons/gamepad.svg';
 import GasIcon from './icons/gas.svg';
+import GemIcon from './icons/gem.svg';
 import GovernmentIcon from './icons/government.svg';
+import HealthIcon from './icons/health.svg';
+import HealthAffiliationIcon from './icons/healthAffiliation.svg';
+import HealthCardIcon from './icons/healthCard.svg';
 import HealthInsuranceIcon from './icons/healthInsurance.svg';
 import HelpBoldIcon from './icons/helpBold.svg';
 import HelpColorIcon from './icons/helpColor.svg';
@@ -156,6 +164,7 @@ import InstagramDarkIcon from './icons/instagramDarkBlue.svg';
 import InstagramIcon from './icons/instagram.svg';
 import InsuranceIcon from './icons/insurance.svg';
 import InvestIcon from './icons/invest.svg';
+import InvestmentIcon from './icons/investment.svg';
 import JobIcon from './icons/job.svg';
 import KnowledgeUserInfo from './icons/knowledgeUserInfo.svg';
 import LanaAccountIcon from './icons/lanaAccount.svg';
@@ -211,6 +220,7 @@ import PaymentsIcon from './components/PaymentsIcon/PaymentsIcon.vue';
 import PayIcon from './icons/pay.svg';
 import PdfIcon from './icons/pdf.svg';
 import PendingMicroillustration from './icons/pendingMicroillustration.svg';
+import PercentageMicroillustration from './icons/percentageMicroillustration.svg';
 import PersonIcon from './icons/person.svg';
 import PetRunningImage from './icons/petRunning.svg';
 import PhoneIcon from './icons/phone.svg';
@@ -261,7 +271,9 @@ import ShareAndroidIcon from './icons/shareAndroid.svg';
 import ShareIcon from './icons/share.svg';
 import ShareIosIcon from './icons/shareIos.svg';
 import SheepIcon from './components/SheepIcon/SheepIcon.vue';
+import ShieldIcon from './icons/shield.svg';
 import ShoppingIcon from './icons/shopping.svg';
+import ShopMicroillustration from './icons/shopMicroillustration.svg';
 import ShoppingSmallIcon from './icons/shoppingSmall.svg';
 import SignIcon from './icons/sign.svg';
 import SmallCircleIcon from './icons/smallCircle.svg';
@@ -298,10 +310,12 @@ import TransferIcon from './icons/transfer.svg';
 import TransferMicroillustration from './icons/transferMicroillustration.svg';
 import TravelInsuranceIcon from './icons/travelInsurance.svg';
 import TvIcon from './icons/tv.svg';
+import TvMicroillustration from './icons/tvMicroillustration.svg';
 import TwitterDarkIcon from './icons/twitterDarkBlue.svg';
 import TwitterIcon from './icons/twitter.svg';
 import UberIcon from './icons/uber.svg';
 import UnlockIcon from './icons/unlock.svg';
+import UnlockCoinsIcon from './icons/unlockCoins.svg';
 import UpdateAppIcon from './icons/updateApp.svg';
 import UpIcon from './icons/up.svg';
 import UserCheckIcon from './icons/userCheck.svg';
@@ -354,6 +368,7 @@ export {
   AttachmentIcon,
   BackIcon,
   BalanceIcon,
+  BankIcon,
   BankAccountIcon,
   BarcodeIcon,
   BeachIcon,
@@ -361,6 +376,7 @@ export {
   BikeIcon,
   BillIcon,
   BlankCardImage,
+  BlueGemIcon,
   BoltIcon,
   BoxIcon,
   BuildingIcon,
@@ -475,14 +491,20 @@ export {
   FavoriteOnIcon,
   FilterIcon,
   FillInfoIcon,
+  FinanceIcon,
   FlashOffIcon,
   FlashOnIcon,
   ForwardIcon,
   ForwardSmallIcon,
   FuelColorIcon,
   FuelIcon,
+  GamePadIcon,
   GasIcon,
+  GemIcon,
   GovernmentIcon,
+  HealthIcon,
+  HealthAffiliationIcon,
+  HealthCardIcon,
   HealthInsuranceIcon,
   HelpBoldIcon,
   HelpColorIcon,
@@ -497,6 +519,7 @@ export {
   InstagramIcon,
   InsuranceIcon,
   InvestIcon,
+  InvestmentIcon,
   JobIcon,
   KnowledgeUserInfo,
   LanaAccountIcon,
@@ -552,6 +575,7 @@ export {
   PayIcon,
   PdfIcon,
   PendingMicroillustration,
+  PercentageMicroillustration,
   PersonIcon,
   PetRunningImage,
   PhoneIcon,
@@ -602,6 +626,8 @@ export {
   ShareIcon,
   ShareIosIcon,
   SheepIcon,
+  ShieldIcon,
+  ShopMicroillustration,
   ShoppingIcon,
   ShoppingSmallIcon,
   SignIcon,
@@ -639,10 +665,12 @@ export {
   TransferMicroillustration,
   TravelInsuranceIcon,
   TvIcon,
+  TvMicroillustration,
   TwitterDarkIcon,
   TwitterIcon,
   UberIcon,
   UnlockIcon,
+  UnlockCoinsIcon,
   UpdateAppIcon,
   UpIcon,
   UserCheckIcon,
