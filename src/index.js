@@ -187,6 +187,7 @@ import LocationColorIcon from './icons/locationColor.svg';
 import LocationHomeIcon from './icons/locationHome.svg';
 import LocationIcon from './icons/location.svg';
 import LocationTargetIcon from './icons/locationTarget.svg';
+import LockCircleIcon from './icons/lockCircle.svg';
 import LockIcon from './icons/lock.svg';
 import Logo from './icons/logo.svg';
 import LogoImage from './icons/logoImage.svg';
@@ -276,6 +277,7 @@ import ShoppingIcon from './icons/shopping.svg';
 import ShopMicroillustration from './icons/shopMicroillustration.svg';
 import ShoppingSmallIcon from './icons/shoppingSmall.svg';
 import SignIcon from './icons/sign.svg';
+import SleepingSheepIcon from './icons/sleepingSheep.svg';
 import SmallCircleIcon from './icons/smallCircle.svg';
 import SmsIcon from './icons/sms.svg';
 import SnowFlakeIcon from './icons/snowflake.svg';
@@ -542,6 +544,7 @@ export {
   LocationHomeIcon,
   LocationIcon,
   LocationTargetIcon,
+  LockCircleIcon,
   LockIcon,
   Logo,
   LogoImage,
@@ -631,6 +634,7 @@ export {
   ShoppingIcon,
   ShoppingSmallIcon,
   SignIcon,
+  SleepingSheepIcon,
   SmallCircleIcon,
   SmsIcon,
   SnowFlakeIcon,
