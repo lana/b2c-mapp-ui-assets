@@ -34,6 +34,7 @@ import CalendarIcon from './icons/calendar.svg';
 import CalendarCabifyIcon from './icons/calendarCabify.svg';
 import CalendarCoinsIcon from './icons/calendarCoins.svg';
 import CalendarColorIcon from './icons/calendarColor.svg';
+import CalendarErrorIcon from './icons/calendarError.svg';
 import CameraIcon from './icons/camera.svg';
 import CameraImage from './icons/cameraImage.svg';
 import CardBlockIcon from './icons/cardBlock.svg';
@@ -390,6 +391,7 @@ export {
   CalendarCabifyIcon,
   CalendarCoinsIcon,
   CalendarColorIcon,
+  CalendarErrorIcon,
   CameraIcon,
   CameraImage,
   CardBlockIcon,
