@@ -55,6 +55,7 @@ import CardShieldIcon from './icons/cardShield.svg';
 import CardUnlocked from './icons/cardUnlocked.svg';
 import CarBrokenIcon from './icons/carBroken.svg';
 import CarColorIcon from './icons/carColor.svg';
+import CarDamaged from './icons/carDamaged.svg';
 import CarIcon from './icons/car.svg';
 import CarInsuranceIcon from './icons/carInsurance.svg';
 import CashIcon from './icons/cash.svg';
@@ -106,6 +107,7 @@ import DescriptionIcon from './icons/document.svg';
 import DetailsIcon from './components/DetailsIcon/DetailsIcon.vue';
 import DeviceInsuranceIcon from './icons/deviceInsurance.svg';
 import DidiIcon from './icons/didi.svg';
+import DisabilityIcon from './icons/disability.svg';
 import DiscountIcon from './icons/discount.svg';
 import DocumentAddedIcon from './icons/documentAdded.svg';
 import DocumentEditIcon from './icons/documentEdit.svg';
@@ -412,6 +414,7 @@ export {
   CardUnlocked,
   CarBrokenIcon,
   CarColorIcon,
+  CarDamaged,
   CarIcon,
   CarInsuranceIcon,
   CashIcon,
@@ -464,6 +467,7 @@ export {
   DetailsIcon,
   DeviceInsuranceIcon,
   DidiIcon,
+  DisabilityIcon,
   DiscountIcon,
   DocumentAddedIcon,
   DocumentEditIcon,
