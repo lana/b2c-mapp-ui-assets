@@ -228,11 +228,13 @@ import PercentageMicroillustration from './icons/percentageMicroillustration.svg
 import PersonIcon from './icons/person.svg';
 import PetRunningImage from './icons/petRunning.svg';
 import PhoneIcon from './icons/phone.svg';
+import PhoneCrookedIcon from './icons/phoneCrooked.svg';
 import PhoneMoneyIcon from './icons/phoneMoney.svg';
 import PhoneWorkInProgressIcon from './icons/phoneWorkInProgress.svg';
 import PigIcon from './icons/pig.svg';
 import PigMoneyIcon from './icons/pigMoney.svg';
 import PinIcon from './icons/pin.svg';
+import PlusMicroillustration from './icons/plusMicroillustration.svg';
 import PresentIcon from './icons/present.svg';
 import ProductsIcon from './icons/products.svg';
 import PromptCashLocationImage from './icons/promptCashLocation.svg';
@@ -286,6 +288,7 @@ import SmsIcon from './icons/sms.svg';
 import SnowFlakeIcon from './icons/snowflake.svg';
 import SpeakerIcon from './icons/speaker.svg';
 import StarsIcon from './icons/stars.svg';
+import StarsMicroillustration from './icons/starsMicroillustration.svg';
 import SuccessImage from './icons/successImage.svg';
 import SuccessInfoImage from './icons/successInfo.svg';
 import SuccessMicroillustration from './icons/successMicroillustration.svg';
@@ -588,11 +591,13 @@ export {
   PersonIcon,
   PetRunningImage,
   PhoneIcon,
+  PhoneCrookedIcon,
   PhoneMoneyIcon,
   PhoneWorkInProgressIcon,
   PigIcon,
   PigMoneyIcon,
   PinIcon,
+  PlusMicroillustration,
   PresentIcon,
   ProductsIcon,
   PromptCashLocationImage,
@@ -646,6 +651,7 @@ export {
   SnowFlakeIcon,
   SpeakerIcon,
   StarsIcon,
+  StarsMicroillustration,
   SuccessImage,
   SuccessInfoImage,
   SuccessMicroillustration,
