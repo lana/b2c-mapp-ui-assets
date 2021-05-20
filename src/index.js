@@ -282,6 +282,7 @@ import ShoppingIcon from './icons/shopping.svg';
 import ShopMicroillustration from './icons/shopMicroillustration.svg';
 import ShoppingSmallIcon from './icons/shoppingSmall.svg';
 import SignIcon from './icons/sign.svg';
+import SimIcon from './icons/sim.svg';
 import SleepingSheepIcon from './icons/sleepingSheep.svg';
 import SmallCircleIcon from './icons/smallCircle.svg';
 import SmsIcon from './icons/sms.svg';
@@ -645,6 +646,7 @@ export {
   ShoppingIcon,
   ShoppingSmallIcon,
   SignIcon,
+  SimIcon,
   SleepingSheepIcon,
   SmallCircleIcon,
   SmsIcon,
