@@ -37,6 +37,7 @@ import CalendarColorIcon from './icons/calendarColor.svg';
 import CalendarErrorIcon from './icons/calendarError.svg';
 import CameraIcon from './icons/camera.svg';
 import CameraImage from './icons/cameraImage.svg';
+import CameraMicroillustration from './icons/cameraMicroillustration.svg';
 import CardBlockIcon from './icons/cardBlock.svg';
 import CardBlockedImage from './icons/cardBlockedImage.svg';
 import CardBrokenIcon from './icons/cardBroken.svg';
@@ -234,6 +235,7 @@ import PhoneWorkInProgressIcon from './icons/phoneWorkInProgress.svg';
 import PigIcon from './icons/pig.svg';
 import PigMoneyIcon from './icons/pigMoney.svg';
 import PinIcon from './icons/pin.svg';
+import PlugMicroillustration from './icons/plugMicroillustration.svg';
 import PlusMicroillustration from './icons/plusMicroillustration.svg';
 import PresentIcon from './icons/present.svg';
 import ProductsIcon from './icons/products.svg';
@@ -400,6 +402,7 @@ export {
   CalendarErrorIcon,
   CameraIcon,
   CameraImage,
+  CameraMicroillustration,
   CardBlockIcon,
   CardBlockedImage,
   CardBrokenIcon,
@@ -598,6 +601,7 @@ export {
   PigIcon,
   PigMoneyIcon,
   PinIcon,
+  PlugMicroillustration,
   PlusMicroillustration,
   PresentIcon,
   ProductsIcon,
