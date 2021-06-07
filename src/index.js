@@ -182,6 +182,7 @@ import LanaCardNewImage from './icons/lanaCardNewImage.svg';
 import LanaCardArrivedImage from './icons/lanaCardArrivedImage.svg';
 import LanaCardSendIcon from './icons/lanaCardSend.svg';
 import LanaCardSmallIcon from './icons/lanaCardSmall.svg';
+import LanaSimShippedIcon from './icons/lanaSimShipped.svg';
 import LandlinePhoneIcon from './icons/landlinePhone.svg';
 import LightIcon from './icons/light.svg';
 import LinkedinDarkIcon from './icons/linkedinDarkBlue.svg';
@@ -548,6 +549,7 @@ export {
   LanaCardArrivedImage,
   LanaCardSendIcon,
   LanaCardSmallIcon,
+  LanaSimShippedIcon,
   LandlinePhoneIcon,
   LightIcon,
   LinkedinDarkIcon,
