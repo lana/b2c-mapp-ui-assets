@@ -5,6 +5,7 @@ import AddBoldIcon from './icons/addBold.svg';
 import AddIcon from './icons/add.svg';
 import AddLineIcon from './icons/addLine.svg';
 import AddUserIcon from './icons/addUser.svg';
+import AnimatedSleepingSheep from './components/AnimatedSleepingSheep/AnimatedSleepingSheep.vue';
 import ArrowBackIcon from './icons/arrowBack.svg';
 import ArrowDownBoldIcon from './icons/arrowDownBold.svg';
 import ArrowDownLineIcon from './icons/arrowDownLine.svg';
@@ -371,6 +372,7 @@ export {
   AddIcon,
   AddLineIcon,
   AddUserIcon,
+  AnimatedSleepingSheep,
   ArrowBackIcon,
   ArrowDownBoldIcon,
   ArrowDownLineIcon,
