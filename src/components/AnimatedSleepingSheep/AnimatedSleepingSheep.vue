@@ -13,7 +13,7 @@
           opacity="0"
           fill-opacity="1"
           transform="translate(68.3272,75.0851) translate(-57.3751,-11.2822)"
-          style="animation: 1.9s linear infinite both a0_t, 1.9s linear infinite both a0_o;"
+          style="animation: 1.9s linear infinite both animated-sleeping-sheep-a0_t, 1.9s linear infinite both animated-sleeping-sheep-a0_o;"
     />
     <path fill-rule="evenodd"
           clip-rule="evenodd"
@@ -21,7 +21,7 @@
           fill="#66C6EC"
           opacity="0"
           transform="translate(35.5583,83.5471) translate(-32.4881,-36.1816)"
-          style="animation: 1.9s linear infinite both a1_t, 1.9s linear infinite both a1_o;"
+          style="animation: 1.9s linear infinite both animated-sleeping-sheep-a1_t, 1.9s linear infinite both animated-sleeping-sheep-a1_o;"
     />
     <g display="none" transform="translate(167.554,78.7318) translate(-23.7262,-23.7319)">
       <path fill-rule="evenodd" clip-rule="evenodd" d="M66.6294,16.5908L56.2902,16.5908L67.6873,5.19381C69.6048,3.27767,68.246,0,65.535,0L48.1209,0C47.0009,0,46.0927,0.908141,46.0927,2.02814L46.0927,3.94562C46.0927,5.06562,47.0009,5.97376,48.1209,5.97376L58.46,5.97376L47.0629,17.3694C45.1468,19.2869,46.5043,22.5645,49.2152,22.5645L66.6294,22.5645C67.7494,22.5645,68.6575,21.6564,68.6575,20.535L68.6575,18.6189C68.6575,17.4989,67.7494,16.5908,66.6294,16.5908Z" fill="#66C6EC" transform="translate(-21.2051,0)"/>
@@ -40,14 +40,14 @@
           d="M57.3772,138.856C54.0158,138.856,51.2914,141.58,51.2914,144.94C51.2914,148.301,54.0158,151.026,57.3772,151.026C60.7372,151.026,63.4617,148.301,63.4617,144.94C63.4617,141.58,60.7372,138.856,57.3772,138.856Z"
           fill="#19194B"
           transform="translate(2.623,44.9999)"
-          style="animation: 1.9s linear infinite both Boca_d;"
+          style="animation: 1.9s linear infinite both animated-sleeping-sheep-b_d;"
     />
   </svg>
 </template>
 <style>
-  @keyframes a0_t { 0% { transform: translate(10.9521px,63.8029px); } 11.8421% { transform: translate(17.925956px,57.421886px); } 23.6842% { transform: translate(21.468963px,48.846615px); } 35.5263% { transform: translate(21.273475px,39.393112px); } 47.3684% { transform: translate(18.7792px,30.4297px); } 52.6315% { transform: translate(17.9128px,27.014px); } 61.8421% { transform: translate(17.443412px,20.511124px); } 71.0526% { transform: translate(18.240142px,14.026737px); } 80.2631% { transform: translate(20.473189px,7.893995px); } 89.4736% { transform: translate(24.5246px,2.7799px); } 100% { transform: translate(24.5246px,2.7799px); } }
-  @keyframes a0_o { 0% { opacity: 0; } 21.0526% { opacity: 1; } 47.3684% { opacity: 1; } 89.4737% { opacity: 0; } 100% { opacity: 0; } }
-  @keyframes a1_t { 0% { transform: translate(3.0702px,47.3655px); } 10.5263% { transform: translate(3.0702px,47.3655px); } 21.0526% { transform: translate(8.680307px,41.678851px); } 31.5789% { transform: translate(12.18804px,34.784037px); } 52.6315% { transform: translate(9.5502px,19.4745px); } 57.8947% { transform: translate(8.3063px,15.4978px); } 68.421% { transform: translate(7.259146px,9.284506px); } 78.9473% { transform: translate(7.853781px,2.940562px); } 89.4736% { transform: translate(10.244967px,-2.833993px); } 100% { transform: translate(14.3196px,-7.307px); } }
-  @keyframes a1_o { 0% { opacity: 0; } 10.5263% { opacity: 0; } 31.5789% { opacity: 1; } 57.8947% { opacity: 1; } 100% { opacity: 0; } }
-  @keyframes Boca_d { 0% { d: path('M57.3772,138.856C54.0158,138.856,51.2914,141.58,51.2914,144.94C51.2914,148.301,54.0158,151.026,57.3772,151.026C60.7372,151.026,63.4617,148.301,63.4617,144.94C63.4617,141.58,60.7372,138.856,57.3772,138.856Z'); animation-timing-function: cubic-bezier(0,0,0.58,1); } 52.6316% { d: path('M57.3769,144.003C55.4371,144.003,53.865,145.575,53.865,147.514C53.865,149.453,55.4371,151.026,57.3769,151.026C59.3159,151.026,60.8881,149.453,60.8881,147.514C60.8881,145.575,59.3159,144.003,57.3769,144.003Z'); animation-timing-function: cubic-bezier(0,0,0.58,1); } 100% { d: path('M57.3772,138.856C54.0158,138.856,51.2914,141.58,51.2914,144.94C51.2914,148.301,54.0158,151.026,57.3772,151.026C60.7372,151.026,63.4617,148.301,63.4617,144.94C63.4617,141.58,60.7372,138.856,57.3772,138.856Z'); } }
+  @keyframes animated-sleeping-sheep-a0_t { 0% { transform: translate(10.9521px,63.8029px); } 11.8421% { transform: translate(17.925956px,57.421886px); } 23.6842% { transform: translate(21.468963px,48.846615px); } 35.5263% { transform: translate(21.273475px,39.393112px); } 47.3684% { transform: translate(18.7792px,30.4297px); } 52.6315% { transform: translate(17.9128px,27.014px); } 61.8421% { transform: translate(17.443412px,20.511124px); } 71.0526% { transform: translate(18.240142px,14.026737px); } 80.2631% { transform: translate(20.473189px,7.893995px); } 89.4736% { transform: translate(24.5246px,2.7799px); } 100% { transform: translate(24.5246px,2.7799px); } }
+  @keyframes animated-sleeping-sheep-a0_o { 0% { opacity: 0; } 21.0526% { opacity: 1; } 47.3684% { opacity: 1; } 89.4737% { opacity: 0; } 100% { opacity: 0; } }
+  @keyframes animated-sleeping-sheep-a1_t { 0% { transform: translate(3.0702px,47.3655px); } 10.5263% { transform: translate(3.0702px,47.3655px); } 21.0526% { transform: translate(8.680307px,41.678851px); } 31.5789% { transform: translate(12.18804px,34.784037px); } 52.6315% { transform: translate(9.5502px,19.4745px); } 57.8947% { transform: translate(8.3063px,15.4978px); } 68.421% { transform: translate(7.259146px,9.284506px); } 78.9473% { transform: translate(7.853781px,2.940562px); } 89.4736% { transform: translate(10.244967px,-2.833993px); } 100% { transform: translate(14.3196px,-7.307px); } }
+  @keyframes animated-sleeping-sheep-a1_o { 0% { opacity: 0; } 10.5263% { opacity: 0; } 31.5789% { opacity: 1; } 57.8947% { opacity: 1; } 100% { opacity: 0; } }
+  @keyframes animated-sleeping-sheep-b_d { 0% { d: path('M57.3772,138.856C54.0158,138.856,51.2914,141.58,51.2914,144.94C51.2914,148.301,54.0158,151.026,57.3772,151.026C60.7372,151.026,63.4617,148.301,63.4617,144.94C63.4617,141.58,60.7372,138.856,57.3772,138.856Z'); animation-timing-function: cubic-bezier(0,0,0.58,1); } 52.6316% { d: path('M57.3769,144.003C55.4371,144.003,53.865,145.575,53.865,147.514C53.865,149.453,55.4371,151.026,57.3769,151.026C59.3159,151.026,60.8881,149.453,60.8881,147.514C60.8881,145.575,59.3159,144.003,57.3769,144.003Z'); animation-timing-function: cubic-bezier(0,0,0.58,1); } 100% { d: path('M57.3772,138.856C54.0158,138.856,51.2914,141.58,51.2914,144.94C51.2914,148.301,54.0158,151.026,57.3772,151.026C60.7372,151.026,63.4617,148.301,63.4617,144.94C63.4617,141.58,60.7372,138.856,57.3772,138.856Z'); } }
 </style>
