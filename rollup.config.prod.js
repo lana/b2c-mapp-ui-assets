@@ -19,6 +19,7 @@ const config = {
     format: 'cjs',
     name: 'b2cMappUiAssets',
     sourcemap: false,
+    inlineDynamicImports: true,
   },
   external: [],
   plugins: [
