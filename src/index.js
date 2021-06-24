@@ -12,6 +12,7 @@ import ArrowDownLineIcon from './icons/arrowDownLine.svg';
 import ArrowUpBoldIcon from './icons/arrowUpBold.svg';
 import ArrowUpLineIcon from './icons/arrowUpLine.svg';
 import AtmIcon from './icons/atm.svg';
+import AtmMicroillustration from './icons/atmMicroillustration.svg';
 import AttachmentIcon from './icons/attachment.svg';
 import BackIcon from './icons/back.svg';
 import BalanceIcon from './icons/balance.svg';
@@ -43,6 +44,7 @@ import CardBlockIcon from './icons/cardBlock.svg';
 import CardBlockedImage from './icons/cardBlockedImage.svg';
 import CardBrokenIcon from './icons/cardBroken.svg';
 import CardBrokenImage from './icons/cardBrokenImage.svg';
+import CardChargeMicroillustration from './icons/cardChargeMicroillustration.svg';
 import CardCheckIcon from './icons/cardCheck.svg';
 import CardDeleteIcon from './icons/cardDelete.svg';
 import CardIcon from './icons/card.svg';
@@ -301,6 +303,7 @@ import SuccessPhoneImage from './icons/successPhone.svg';
 import SupportColorIcon from './icons/supportColor.svg';
 import SupportChatLineIcon from './icons/supportChatLine.svg';
 import SupportIcon from './icons/support.svg';
+import SupportMicroillustration from './icons/supportMicroillustration.svg';
 import TaxesIcon from './icons/taxes.svg';
 import TCBusinessIcon from './icons/tcBusiness.svg';
 import TCCashIcon from './icons/tcCash.svg';
@@ -379,6 +382,7 @@ export {
   ArrowUpBoldIcon,
   ArrowUpLineIcon,
   AtmIcon,
+  AtmMicroillustration,
   AttachmentIcon,
   BackIcon,
   BalanceIcon,
@@ -411,6 +415,7 @@ export {
   CardBrokenIcon,
   CardBrokenImage,
   CardCheckIcon,
+  CardChargeMicroillustration,
   CardDeleteIcon,
   CardIcon,
   CardImage,
@@ -669,6 +674,7 @@ export {
   SupportColorIcon,
   SupportChatLineIcon,
   SupportIcon,
+  SupportMicroillustration,
   TaxesIcon,
   TCBusinessIcon,
   TCCashIcon,
