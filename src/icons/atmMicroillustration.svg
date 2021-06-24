@@ -1,0 +1,92 @@
+<svg class="icon" viewBox="0 0 199 193" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#atm-micro-filter0_d)">
+<rect x="68.4756" y="45.5625" width="72" height="64.8" rx="7.2" transform="rotate(8.3818 68.4756 45.5625)" fill="white"/>
+<rect x="66.3667" y="42.7248" width="77" height="69.8" rx="9.7" transform="rotate(8.3818 66.3667 42.7248)" stroke="white" stroke-width="5"/>
+</g>
+<g clip-path="url(#atm-micro-clip0)">
+<path d="M65.5891 65.1465C66.1688 61.2126 69.8278 58.4933 73.7618 59.073L130.747 67.4692C134.681 68.0489 137.4 71.7079 136.82 75.6419L131.31 113.038C130.73 116.972 127.071 119.691 123.137 119.112L66.1526 110.715C62.2187 110.136 59.4994 106.477 60.0791 102.543L65.5891 65.1465Z" fill="url(#atm-micro-paint0_linear)"/>
+<g filter="url(#atm-micro-filter1_d)">
+<path d="M67.4261 52.6817C68.0057 48.7477 71.6647 46.0285 75.5987 46.6081L132.583 55.0044C136.517 55.584 139.237 59.2431 138.657 63.177L133.409 98.7925C132.83 102.726 129.171 105.446 125.237 104.866L68.2519 96.4698C64.318 95.8901 61.5987 92.2311 62.1784 88.2972L67.4261 52.6817Z" fill="url(#atm-micro-paint1_linear)"/>
+</g>
+<rect x="70.7256" y="54.9844" width="7.2" height="7.2" rx="2.7" transform="rotate(8.3818 70.7256 54.9844)" fill="url(#atm-micro-paint2_linear)"/>
+<rect x="68.8887" y="67.4531" width="7.2" height="7.2" rx="2.7" transform="rotate(8.3818 68.8887 67.4531)" fill="url(#atm-micro-paint3_linear)"/>
+<rect x="67.0518" y="79.918" width="7.2" height="7.2" rx="2.7" transform="rotate(8.3818 67.0518 79.918)" fill="url(#atm-micro-paint4_linear)"/>
+<rect x="127.71" y="63.3789" width="7.2" height="7.2" rx="2.7" transform="rotate(8.3818 127.71 63.3789)" fill="url(#atm-micro-paint5_linear)"/>
+<rect x="125.873" y="75.8438" width="7.2" height="7.2" rx="2.7" transform="rotate(8.3818 125.873 75.8438)" fill="url(#atm-micro-paint6_linear)"/>
+<rect x="124.036" y="88.3086" width="7.2" height="7.2" rx="2.7" transform="rotate(8.3818 124.036 88.3086)" fill="url(#atm-micro-paint7_linear)"/>
+<rect x="82.1973" y="51.2188" width="43.2" height="43.2" rx="7.2" transform="rotate(8.3818 82.1973 51.2188)" fill="#19194B"/>
+<rect x="83.5781" y="53.2422" width="39.8769" height="39.6" rx="5.4" transform="rotate(8.3818 83.5781 53.2422)" fill="white"/>
+<rect opacity="0.4" x="83.5781" y="53.2422" width="39.8769" height="39.6" rx="5.4" transform="rotate(8.3818 83.5781 53.2422)" fill="#99D9F2"/>
+<g opacity="0.4">
+<mask id="atm-micro-mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="78" y="53" width="45" height="45">
+<rect x="83.5781" y="53.2422" width="39.8769" height="39.6" rx="5.4" transform="rotate(8.3818 83.5781 53.2422)" fill="#99D9F2"/>
+</mask>
+<g mask="url(#atm-micro-mask0)">
+<path opacity="0.5" d="M77.8057 92.4192L123.029 59.055L117.257 98.232L77.8057 92.4192Z" fill="url(#atm-micro-paint8_linear)"/>
+</g>
+</g>
+<rect opacity="0.64" x="64.166" y="99.5039" width="39.6" height="7.2" rx="3.6" transform="rotate(8.3818 64.166 99.5039)" fill="#F4F5F7"/>
+<rect x="65.6846" y="101.547" width="36" height="3.6" rx="1.8" transform="rotate(8.3818 65.6846 101.547)" fill="#ACB3C0"/>
+<rect opacity="0.64" x="106.904" y="105.801" width="21.6" height="7.2" rx="3.6" transform="rotate(8.3818 106.904 105.801)" fill="#F4F5F7"/>
+<rect x="108.423" y="107.844" width="18" height="3.6" rx="1.8" transform="rotate(8.3818 108.423 107.844)" fill="#ACB3C0"/>
+</g>
+<defs>
+<filter id="atm-micro-filter0_d" x="0.675606" y="0.791128" width="197.385" height="191.312" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="13.5813"/>
+<feGaussianBlur stdDeviation="27.1627"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="atm-micro-filter1_d" x="54.9006" y="42.9313" width="91.0343" height="72.8137" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="3.6"/>
+<feGaussianBlur stdDeviation="3.6"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="atm-micro-paint0_linear" x1="102.254" y1="63.2711" x2="93.1232" y2="125.242" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F4F5F7"/>
+<stop offset="1" stop-color="#DFE1E6"/>
+</linearGradient>
+<linearGradient id="atm-micro-paint1_linear" x1="104.091" y1="50.8063" x2="95.275" y2="110.64" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F4F5F7"/>
+<stop offset="1" stop-color="#DFE1E6"/>
+</linearGradient>
+<linearGradient id="atm-micro-paint2_linear" x1="74.3256" y1="54.9844" x2="74.3256" y2="72.4701" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00A0DF"/>
+<stop offset="1" stop-color="#007CBF"/>
+</linearGradient>
+<linearGradient id="atm-micro-paint3_linear" x1="72.4887" y1="67.4531" x2="72.4887" y2="84.9388" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00A0DF"/>
+<stop offset="1" stop-color="#007CBF"/>
+</linearGradient>
+<linearGradient id="atm-micro-paint4_linear" x1="70.6518" y1="79.918" x2="70.6518" y2="97.4037" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00A0DF"/>
+<stop offset="1" stop-color="#007CBF"/>
+</linearGradient>
+<linearGradient id="atm-micro-paint5_linear" x1="131.31" y1="63.3789" x2="131.31" y2="80.8646" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00A0DF"/>
+<stop offset="1" stop-color="#007CBF"/>
+</linearGradient>
+<linearGradient id="atm-micro-paint6_linear" x1="129.473" y1="75.8437" x2="129.473" y2="93.3295" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00A0DF"/>
+<stop offset="1" stop-color="#007CBF"/>
+</linearGradient>
+<linearGradient id="atm-micro-paint7_linear" x1="127.636" y1="88.3086" x2="127.636" y2="105.794" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00A0DF"/>
+<stop offset="1" stop-color="#007CBF"/>
+</linearGradient>
+<linearGradient id="atm-micro-paint8_linear" x1="103.097" y1="57.5478" x2="94.8175" y2="98.5753" gradientUnits="userSpaceOnUse">
+<stop stop-color="#33B3E5"/>
+<stop offset="1" stop-color="#99D9F2" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="atm-micro-clip0">
+<rect width="72" height="72" fill="white" transform="translate(69 42) rotate(8.3818)"/>
+</clipPath>
+</defs>
+</svg>
