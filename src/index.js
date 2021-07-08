@@ -205,6 +205,12 @@ import MailIcon from './icons/mail.svg';
 import MailIllustration from './icons/mailIllustration.svg';
 import MapImage from './icons/map.svg';
 import MedalIcon from './icons/medal.svg';
+import MedalLevel0Icon from './icons/medalLevel0.svg';
+import MedalLevel1Icon from './icons/medalLevel1.svg';
+import MedalLevel2Icon from './icons/medalLevel2.svg';
+import MedalLevel3Icon from './icons/medalLevel3.svg';
+import MedalLevel4Icon from './icons/medalLevel4.svg';
+import MedalLevel5Icon from './icons/medalLevel5.svg';
 import MedicBoxIcon from './icons/medicBox.svg';
 import MenuIcon from './icons/menu.svg';
 import MessageBoldIcon from './icons/messageBold.svg';
@@ -576,6 +582,12 @@ export {
   MailIllustration,
   MapImage,
   MedalIcon,
+  MedalLevel0Icon,
+  MedalLevel1Icon,
+  MedalLevel2Icon,
+  MedalLevel3Icon,
+  MedalLevel4Icon,
+  MedalLevel5Icon,
   MedicBoxIcon,
   MenuIcon,
   MessageBoldIcon,
