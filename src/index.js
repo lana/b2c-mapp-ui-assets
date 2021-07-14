@@ -295,6 +295,13 @@ import ShopMicroillustration from './icons/shopMicroillustration.svg';
 import ShoppingSmallIcon from './icons/shoppingSmall.svg';
 import SignIcon from './icons/sign.svg';
 import SimIcon from './icons/sim.svg';
+import SheepConnectedIcon from './icons/sheepConnected.svg';
+import SheepEatingIcon from './icons/sheepEating.svg';
+import SheepNoConnectionIcon from './icons/sheepNoConnection.svg';
+import SheepPaymentIcon from './icons/sheepPayment.svg';
+import SheepRunningIcon from './icons/sheepRunning.svg';
+import SheepSearchingIcon from './icons/sheepSearching.svg';
+import SheepSleepIcon from './icons/sheepSleep.svg';
 import SleepingSheepIcon from './icons/sleepingSheep.svg';
 import SmallCircleIcon from './icons/smallCircle.svg';
 import SmsIcon from './icons/sms.svg';
@@ -666,6 +673,13 @@ export {
   ShareIcon,
   ShareIosIcon,
   SheepIcon,
+  SheepConnectedIcon,
+  SheepEatingIcon,
+  SheepNoConnectionIcon,
+  SheepPaymentIcon,
+  SheepRunningIcon,
+  SheepSearchingIcon,
+  SheepSleepIcon,
   ShieldIcon,
   ShopMicroillustration,
   ShoppingIcon,
