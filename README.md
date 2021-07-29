@@ -8,6 +8,1294 @@ Live Demo on [Storybook](https://lana.github.io/b2c-mapp-ui/?path=/story/compone
 ## Available icons
 
 ```
+<AccountIcon />
+```
+
+```
+<AccountUpgradeIcon />
+```
+
+```
+<AddBeneficiaryIcon />
+```
+
+```
+<AddBoldIcon />
+```
+
+```
+<AddIcon />
+```
+
+```
+<AddLineIcon />
+```
+
+```
+<AddUserIcon />
+```
+
+```
+<AnimatedSleepingSheep />
+```
+
+```
+<ArrowBackIcon />
+```
+
+```
+<ArrowDownBoldIcon />
+```
+
+```
+<ArrowDownLineIcon />
+```
+
+```
+<ArrowUpBoldIcon />
+```
+
+```
+<ArrowUpLineIcon />
+```
+
+```
+<AtmIcon />
+```
+
+```
+<AtmMicroillustration />
+```
+
+```
+<AttachmentIcon />
+```
+
+```
+<BackIcon />
+```
+
+```
+<BalanceIcon />
+```
+
+```
+<BankIcon />
+```
+
+```
+<BankAccountIcon />
+```
+
+```
+<BarcodeIcon />
+```
+
+```
+<BeachIcon />
+```
+
+```
+<BeatsIcon />
+```
+
+```
+<BikeIcon />
+```
+
+```
+<BillIcon />
+```
+
+```
+<BlankCardImage />
+```
+
+```
+<BlueGemIcon />
+```
+
+```
+<BoltIcon />
+```
+
+```
+<BoxIcon />
+```
+
+```
+<BuildingIcon />
+```
+
+```
+<CabifyIcon />
+```
+
+```
+<CalculatorCashIcon />
+```
+
+```
+<CalculatorColorIcon />
+```
+
+```
+<CalculatorIcon />
+```
+
+```
+<CalendarIcon />
+```
+
+```
+<CalendarCabifyIcon />
+```
+
+```
+<CalendarCoinsIcon />
+```
+
+```
+<CalendarColorIcon />
+```
+
+```
+<CalendarErrorIcon />
+```
+
+```
+<CameraIcon />
+```
+
+```
+<CameraImage />
+```
+
+```
+<CameraMicroillustration />
+```
+
+```
+<CardBlockIcon />
+```
+
+```
+<CardBlockedImage />
+```
+
+```
+<CardBrokenIcon />
+```
+
+```
+<CardBrokenImage />
+```
+
+```
+<CardCheckIcon />
+```
+
+```
+<CardChargeMicroillustration />
+```
+
+```
+<CardDeleteIcon />
+```
+
+```
+<CardIcon />
+```
+
+```
+<CardImage />
+```
+
+```
+<CardLockIcon />
+```
+
+```
+<CardMobileIcon />
+```
+
+```
+<CardMinimalIcon />
+```
+
+```
+<CardNullIcon />
+```
+
+```
+<CardPinIcon />
+```
+
+```
+<CardRenewalIcon />
+```
+
+```
+<CardShieldIcon />
+```
+
+```
+<CardUnlocked />
+```
+
+```
+<CarBrokenIcon />
+```
+
+```
+<CarColorIcon />
+```
+
+```
+<CarDamaged />
+```
+
+```
+<CarIcon />
+```
+
+```
+<CarInsuranceIcon />
+```
+
+```
+<CashIcon />
+```
+
+```
+<CashPaymentBillIcon />
+```
+
+```
+<CashPaymentIcon />
+```
+
+```
+<ChatIcon />
+```
+
+```
+<CheckboxCheckedIcon />
+```
+
+```
+<CheckboxUncheckedIcon />
+```
+
+```
+<CheckBoldIcon />
+```
+
+```
+<CheckCircleIcon />
+```
+
+```
+<CheckColorIcon />
+```
+
+```
+<CheckIcon />
+```
+
+```
+<CheckLineIcon />
+```
+
+```
+<ChevronDownIcon />
+```
+
+```
+<ChevronLeftIcon />
+```
+
+```
+<ChevronsRightIcon />
+```
+
+```
+<ChevronRightIcon />
+```
+
+```
+<ChevronUpIcon />
+```
+
+```
+<CircleIcon />
+```
+
+```
+<ClearNotificationsIcon />
+```
+
+```
+<ClockColorIcon />
+```
+
+```
+<ClockIcon />
+```
+
+```
+<CloseBoldIcon />
+```
+
+```
+<CloseIcon />
+```
+
+```
+<CloseLineIcon />
+```
+
+```
+<CoinsColorIcon />
+```
+
+```
+<CoinIcon />
+```
+
+```
+<CoinsIcon />
+```
+
+```
+<ColorLockIcon />
+```
+
+```
+<ColorSecurityIcon />
+```
+
+```
+<ColorSmartphoneIcon />
+```
+
+```
+<ColorUmbrellaIcon />
+```
+
+```
+<ColorWalletIcon />
+```
+
+```
+<CollapseSmallIcon />
+```
+
+```
+<CollectIcon />
+```
+
+```
+<CommissionsIcon />
+```
+
+```
+<ConnectCabifyImage />
+```
+
+```
+<ContractIcon />
+```
+
+```
+<CopyIcon />
+```
+
+```
+<CurrencyDecreaseIcon />
+```
+
+```
+<CurrencyIncreaseIcon />
+```
+
+```
+<DeleteIcon />
+```
+
+```
+<DeleteKeyIcon />
+```
+
+```
+<DeleteMinimalIcon />
+```
+
+```
+<DepositCloseIcon />
+```
+
+```
+<DepositOpenIcon />
+```
+
+```
+<DepositIcon />
+```
+
+```
+<DescriptionAddedIcon />
+```
+
+```
+<DescriptionIcon />
+```
+
+```
+<DetailsIcon />
+```
+
+```
+<DeviceInsuranceIcon />
+```
+
+```
+<DidiIcon />
+```
+
+```
+<DisabilityIcon />
+```
+
+```
+<DiscountIcon />
+```
+
+```
+<DocumentAddedIcon />
+```
+
+```
+<DocumentEditIcon />
+```
+
+```
+<DocumentFilledIcon />
+```
+
+```
+<DocumentMedicIcon />
+```
+
+```
+<DocumentNullIcon />
+```
+
+```
+<DocumentOkIcon />
+```
+
+```
+<DollarBoldIcon />
+```
+
+```
+<DollarLineIcon />
+```
+
+```
+<DownIcon />
+```
+
+```
+<DrivingLicenseIcon />
+```
+
+```
+<EarnCoins />
+```
+
+```
+<EditIcon />
+```
+
+```
+<EditMinimalIcon />
+```
+
+```
+<EntertainmentIcon />
+```
+
+```
+<EraseIcon />
+```
+
+```
+<ErrorConnection />
+```
+
+```
+<ErrorMicroillustration />
+```
+
+```
+<EuroBoldIcon />
+```
+
+```
+<EuroLineIcon />
+```
+
+```
+<ExpandSmallIcon />
+```
+
+```
+<FacebookDarkIcon />
+```
+
+```
+<FacebookIcon />
+```
+
+```
+<FaceIdBlueIcon />
+```
+
+```
+<FaceIdIcon />
+```
+
+```
+<FaceScanIcon />
+```
+
+```
+<FaqIcon />
+```
+
+```
+<FavoriteOffIcon />
+```
+
+```
+<FavoriteOnIcon />
+```
+
+```
+<FilterIcon />
+```
+
+```
+<FillInfoIcon />
+```
+
+```
+<FinanceIcon />
+```
+
+```
+<FlashOffIcon />
+```
+
+```
+<FlashOnIcon />
+```
+
+```
+<ForwardIcon />
+```
+
+```
+<ForwardSmallIcon />
+```
+
+```
+<FuelColorIcon />
+```
+
+```
+<FuelIcon />
+```
+
+```
+<GamePadIcon />
+```
+
+```
+<GasIcon />
+```
+
+```
+<GemIcon />
+```
+
+```
+<GovernmentIcon />
+```
+
+```
+<HealthIcon />
+```
+
+```
+<HealthAffiliationIcon />
+```
+
+```
+<HealthCardIcon />
+```
+
+```
+<HealthInsuranceIcon />
+```
+
+```
+<HelpBoldIcon />
+```
+
+```
+<HelpColorIcon />
+```
+
+```
+<HelpIcon />
+```
+
+```
+<HelpLineIcon />
+```
+
+```
+<HouseIcon />
+```
+
+```
+<ImageIcon />
+```
+
+```
+<InfoIcon />
+```
+
+```
+<InfoMicroillustration />
+```
+
+```
+<InfoLineIcon />
+```
+
+```
+<InstagramDarkIcon />
+```
+
+```
+<InstagramIcon />
+```
+
+```
+<InsuranceIcon />
+```
+
+```
+<InvestIcon />
+```
+
+```
+<InvestmentIcon />
+```
+
+```
+<JobIcon />
+```
+
+```
+<KnowledgeUserInfo />
+```
+
+```
+<LanaAccountIcon />
+```
+
+```
+<LanaAccountMicroillustration />
+```
+
+```
+<LanaAppIcon />
+```
+
+```
+<LanaCardIcon />
+```
+
+```
+<LanaCardAtmIcon />
+```
+
+```
+<LanaCardDelayImage />
+```
+
+```
+<LanaCardEmptyIcon />
+```
+
+```
+<LanaCardNewImage />
+```
+
+```
+<LanaCardArrivedImage />
+```
+
+```
+<LanaCardSendIcon />
+```
+
+```
+<LanaCardSmallIcon />
+```
+
+```
+<LanaSimShippedIcon />
+```
+
+```
+<LandlinePhoneIcon />
+```
+
+```
+<LightIcon />
+```
+
+```
+<LinkedinDarkIcon />
+```
+
+```
+<LinkedinIcon />
+```
+
+```
+<ListIcon />
+```
+
+```
+<LocationColorIcon />
+```
+
+```
+<LocationHomeIcon />
+```
+
+```
+<LocationIcon />
+```
+
+```
+<LocationTargetIcon />
+```
+
+```
+<LockCircleIcon />
+```
+
+```
+<LockIcon />
+```
+
+```
+<Logo />
+```
+
+```
+<LogoImage />
+```
+
+```
+<LogOutIcon />
+```
+
+```
+<MailColorIcon />
+```
+
+```
+<MailIcon />
+```
+
+```
+<MailIllustration />
+```
+
+```
+<MapImage />
+```
+
+```
+<MedalIcon />
+```
+
+```
+<MedalLevel0Icon />
+```
+
+```
+<MedalLevel1Icon />
+```
+
+```
+<MedalLevel2Icon />
+```
+
+```
+<MedalLevel3Icon />
+```
+
+```
+<MedalLevel4Icon />
+```
+
+```
+<MedalLevel5Icon />
+```
+
+```
+<MedicBoxIcon />
+```
+
+```
+<MenuIcon />
+```
+
+```
+<MessageBoldIcon />
+```
+
+```
+<MessageIcon />
+```
+
+```
+<MessageLineIcon />
+```
+
+```
+<MicroappIcon />
+```
+
+```
+<MicroappMicroillustration />
+```
+
+```
+<MobileIcon />
+```
+
+```
+<MoneyBagIcon />
+```
+
+```
+<MoneyBagColorIcon />
+```
+
+```
+<MoneyIcon />
+```
+
+```
+<MopErrorIcon />
+```
+
+```
+<MopIcon />
+```
+
+```
+<MopPendingIcon />
+```
+
+```
+<MopSpinnerIcon />
+```
+
+```
+<MopSuccessIcon />
+```
+
+```
+<MoreIcon />
+```
+
+```
+<MoveMoneyIcon />
+```
+
+```
+<NotificationsClearedIcon />
+```
+
+```
+<NotificationsIcon />
+```
+
+```
+<PaymentsIcon />
+```
+
+```
+<PayIcon />
+```
+
+```
+<PdfIcon />
+```
+
+```
+<PendingMicroillustration />
+```
+
+```
+<PercentageMicroillustration />
+```
+
+```
+<PersonIcon />
+```
+
+```
+<PetRunningImage />
+```
+
+```
+<PhoneIcon />
+```
+
+```
+<PhoneCrookedIcon />
+```
+
+```
+<PhoneMoneyIcon />
+```
+
+```
+<PhoneWorkInProgressIcon />
+```
+
+```
+<PigIcon />
+```
+
+```
+<PigMoneyIcon />
+```
+
+```
+<PinIcon />
+```
+
+```
+<PlugMicroillustration />
+```
+
+```
+<PlusMicroillustration />
+```
+
+```
+<PresentIcon />
+```
+
+```
+<ProductsIcon />
+```
+
+```
+<PromptCashLocationImage />
+```
+
+```
+<PromptIntegrationImage />
+```
+
+```
+<PromptLocationImage />
+```
+
+```
+<PromptLocationWarning />
+```
+
+```
+<PromptPermissionsImage />
+```
+
+```
+<PromptSelfieImage />
+```
+
+```
+<QrcardIcon />
+```
+
+```
+<QrCodeIcon />
+```
+
+```
+<RappiIcon />
+```
+
+```
+<RecordIcon />
+```
+
+```
+<ReloadIcon />
+```
+
+```
+<RequestIcon />
+```
+
+```
+<ResizeIcon />
+```
+
+```
+<RfcIcon />
+```
+
+```
+<RocketIcon />
+```
+
+```
+<RotateDeviceIcon />
+```
+
+```
+<RotateIcon />
+```
+
+```
+<RotateLandscapeIcon />
+```
+
+```
+<RotatePortraitIcon />
+```
+
+```
+<SaveMoneyIcon />
+```
+
+```
+<SavingsIcon />
+```
+
+```
+<ScanIcon />
+```
+
+```
+<ScanFailureImage />
+```
+
+```
+<ScanSuccessImage />
+```
+
+```
+<ScooterIcon />
+```
+
+```
+<SearchIcon />
+```
+
+```
+<SearchAtmIcon />
+```
+
+```
+<SecurityIcon />
+```
+
+```
+<SelfieIcon />
+```
+
+```
+<SelfiePictureIcon />
+```
+
+```
+<SendIcon />
+```
+
+```
+<ServerIcon />
+```
+
+```
+<ServicesColorIcon />
+```
+
+```
+<ServicesIcon />
+```
+
+```
+<SetPinImage />
+```
+
+```
+<SettingsColorIcon />
+```
+
+```
+<SettingsIcon />
+```
+
+```
+<ShareAndroidIcon />
+```
+
+```
+<ShareIcon />
+```
+
+```
+<ShareIosIcon />
+```
+
+```
+<SheepIcon />
+```
+
+```
+<SheepConnectedIcon />
+```
+
+```
+<SheepEatingIcon />
+```
+
+```
+<SheepNoConnectionIcon />
+```
+
+```
+<SheepPaymentIcon />
+```
+
+```
+<SheepRunningIcon />
+```
+
+```
+<SheepSearchingIcon />
+```
+
+```
+<SheepSleepIcon />
+```
+
+```
+<ShieldIcon />
+```
+
+```
+<ShopMicroillustration />
+```
+
+```
+<ShoppingIcon />
+```
+
+```
+<ShoppingSmallIcon />
+```
+
+```
+<SignIcon />
+```
+
+```
+<SimIcon />
+```
+
+```
+<SleepingSheepIcon />
+```
+
+```
+<SmallCircleIcon />
+```
+
+```
+<SmsIcon />
+```
+
+```
+<SnowFlakeIcon />
+```
+
+```
+<SpeakerIcon />
+```
+
+```
+<StarsIcon />
+```
+
+```
+<StarsMicroillustration />
+```
+
+```
+<SuccessImage />
+```
+
+```
+<SuccessInfoImage />
+```
+
+```
+<SuccessMicroillustration />
+```
+
+```
+<SuccessPhoneImage />
+```
+
+```
+<SupportColorIcon />
+```
+
+```
+<SupportChatLineIcon />
+```
+
+```
+<SupportIcon />
+```
+
+```
+<SupportMicroillustration />
+```
+
+```
+<TaxesIcon />
+```
+
+```
 <TCBusinessIcon />
 ```
 
@@ -56,606 +1344,6 @@ Live Demo on [Storybook](https://lana.github.io/b2c-mapp-ui/?path=/story/compone
 ```
 
 ```
-<AddIcon />
-```
-
-```
-<AddBeneficiaryIcon />
-```
-
-```
-<AddBoldIcon />
-```
-
-```
-<AddLineIcon />
-```
-
-```
-<ArrowBackIcon />
-```
-
-```
-<ArrowDownBoldIcon />
-```
-
-```
-<ArrowDownLineIcon />
-```
-
-```
-<ArrowUpBoldIcon />
-```
-
-```
-<ArrowUpLineIcon />
-```
-
-```
-<AttachmentIcon />
-```
-
-```
-<BackIcon />
-```
-
-```
-<BankAccountIcon />
-```
-
-```
-<BarcodeIcon />
-```
-
-```
-<BuildingIcon />
-```
-
-```
-<CalculatorIcon />
-```
-
-```
-<CalculatorCashIcon />
-```
-
-```
-<CalendarIcon />
-```
-
-```
-<CameraIcon />
-```
-
-```
-<CarIcon />
-```
-
-```
-<CardIcon />
-```
-
-```
-<CardBlockIcon />
-```
-
-```
-<CardCheckIcon />
-```
-
-```
-<CardDeleteIcon />
-```
-
-```
-<CardLockIcon />
-```
-
-```
-<CardMobileIcon />
-```
-
-```
-<CardRenewalIcon />
-```
-
-```
-<CardShieldIcon />
-```
-
-```
-<CashIcon />
-```
-
-```
-<CashPaymentIcon />
-```
-
-```
-<CashPaymentBillIcon />
-```
-
-```
-<CheckIcon />
-```
-
-```
-<CheckBoldIcon />
-```
-
-```
-<CheckCircleIcon />
-```
-
-```
-<CheckLineIcon />
-```
-
-```
-<ChevronDownIcon />
-```
-
-```
-<ChevronLeftIcon />
-```
-
-```
-<ChevronRightIcon />
-```
-
-```
-<ChevronUpIcon />
-```
-
-```
-<CircleIcon />
-```
-
-```
-<CircleSmallIcon />
-```
-
-```
-<ClearNotificationsIcon />
-```
-
-```
-<ClockIcon />
-```
-
-```
-<CloseIcon />
-```
-
-```
-<CloseBoldIcon />
-```
-
-```
-<CloseLineIcon />
-```
-
-```
-<CoinsIcon />
-```
-
-```
-<CollapseSmallIcon />
-```
-
-```
-<CollectIcon />
-```
-
-```
-<ContractIcon />
-```
-
-```
-<CopyIcon />
-```
-
-```
-<CurrencyDecreaseIcon />
-```
-
-```
-<CurrencyIncreaseIcon />
-```
-
-```
-<DeleteIcon />
-```
-
-```
-<DepositIcon />
-```
-
-```
-<DescriptionAddedIcon />
-```
-
-```
-<DescriptionIcon />
-```
-
-```
-<DocumentAddedIcon />
-```
-
-```
-<DocumentEditIcon />
-```
-
-```
-<DollarBoldIcon />
-```
-
-```
-<DollarLineIcon />
-```
-
-```
-<DownIcon />
-```
-
-```
-<EditIcon />
-```
-
-```
-<EntretainmentIcon />
-```
-
-```
-<EraseIcon />
-```
-
-```
-<EuroBoldIcon />
-```
-
-```
-<EuroLineIcon />
-```
-
-```
-<ExpandSmallIcon />
-```
-
-```
-<FaceIdIcon />
-```
-
-```
-<FacebookIcon />
-```
-
-```
-<FaceidIcon />
-```
-
-```
-<FAQIcon />
-```
-
-```
-<FavoriteOffIcon />
-```
-
-```
-<FavoriteOnIcon />
-```
-
-```
-<FilterIcon />
-```
-
-```
-<FlashOffIcon />
-```
-
-```
-<FlashOnIcon />
-```
-
-```
-<ForwardIcon />
-```
-
-```
-<ForwardSmallIcon />
-```
-
-```
-<FuelIcon />
-```
-
-```
-<GovernmentIcon />
-```
-
-```
-<HelpIcon />
-```
-
-```
-<HelpBoldIcon />
-```
-
-```
-<HelpLineIcon />
-```
-
-```
-<ImageIcon />
-```
-
-```
-<InfoIcon />
-```
-
-```
-<InfoLineIcon />
-```
-
-```
-<InstagramIcon />
-```
-
-```
-<InsuranceIcon />
-```
-
-```
-<InsuranceCarIcon />
-```
-
-```
-<InsuranceDeviceIcon />
-```
-
-```
-<InsuranceHealthIcon />
-```
-
-```
-<InsuranceTravelIcon />
-```
-
-```
-<KeydeleteIcon />
-```
-
-```
-<LandlinePhoneIcon />
-```
-
-```
-<LightIcon />
-```
-
-```
-<LinkedinIcon />
-```
-
-```
-<ListIcon />
-```
-
-```
-<LocationIcon />
-```
-
-```
-<LocationHomeIcon />
-```
-
-```
-<LocationTargetIcon />
-```
-
-```
-<LockIcon />
-```
-
-```
-<LogOutIcon />
-```
-
-```
-<MailIcon />
-```
-
-```
-<MenuIcon />
-```
-
-```
-<MessageIcon />
-```
-
-```
-<MessageBoldIcon />
-```
-
-```
-<MessageLineIcon />
-```
-
-```
-<MoneyIcon />
-```
-
-```
-<MoneyBagIcon />
-```
-
-```
-<MopIcon />
-```
-
-```
-<MopErrorIcon />
-```
-
-```
-<MopPendingIcon />
-```
-
-```
-<MopSpinnerIcon />
-```
-
-```
-<MopSuccessIcon />
-```
-
-```
-<MoreIcon />
-```
-
-```
-<MoveMoneyIcon />
-```
-
-```
-<NotificationsIcon />
-```
-
-```
-<NotificationsClearedIcon />
-```
-
-```
-<PayIcon />
-```
-
-```
-<PdfIcon />
-```
-
-```
-<PhoneIcon />
-```
-
-```
-<PinIcon />
-```
-
-```
-<QrCodeIcon />
-```
-
-```
-<QrcardIcon />
-```
-
-```
-<RecordIcon />
-```
-
-```
-<ReloadIcon />
-```
-
-```
-<RequestIcon />
-```
-
-```
-<ResizeIcon />
-```
-
-```
-<RotateIcon />
-```
-
-```
-<RotateDeviceIcon />
-```
-
-```
-<RotateLandscapeIcon />
-```
-
-```
-<RotatePortraitIcon />
-```
-
-```
-<SaveMoneyIcon />
-```
-
-```
-<ScanIcon />
-```
-
-```
-<SearchIcon />
-```
-
-```
-<SecurityIcon />
-```
-
-```
-<SelfieIcon />
-```
-
-```
-<SelfiePictureIcon />
-```
-
-```
-<SendIcon />
-```
-
-```
-<ServicesIcon />
-```
-
-```
-<SettingsIcon />
-```
-
-```
-<ShareIcon />
-```
-
-```
-<ShareAndroidIcon />
-```
-
-```
-<ShareIosIcon />
-```
-
-```
-<ShoppingIcon />
-```
-
-```
-<SignIcon />
-```
-
-```
-<SMSIcon />
-```
-
-```
-<SupportIcon />
-```
-
-```
-<SupportChatLineIcon />
-```
-
-```
-<TaxesIcon />
-```
-
-```
 <TicketIcon />
 ```
 
@@ -668,7 +1356,23 @@ Live Demo on [Storybook](https://lana.github.io/b2c-mapp-ui/?path=/story/compone
 ```
 
 ```
+<ToysIcon />
+```
+
+```
+<TransferColorIcon />
+```
+
+```
 <TransferIcon />
+```
+
+```
+<TransferMicroillustration />
+```
+
+```
+<TravelInsuranceIcon />
 ```
 
 ```
@@ -676,7 +1380,19 @@ Live Demo on [Storybook](https://lana.github.io/b2c-mapp-ui/?path=/story/compone
 ```
 
 ```
+<TvMicroillustration />
+```
+
+```
+<TwitterDarkIcon />
+```
+
+```
 <TwitterIcon />
+```
+
+```
+<UberIcon />
 ```
 
 ```
@@ -684,15 +1400,15 @@ Live Demo on [Storybook](https://lana.github.io/b2c-mapp-ui/?path=/story/compone
 ```
 
 ```
+<UnlockCoinsIcon />
+```
+
+```
+<UpdateAppIcon />
+```
+
+```
 <UpIcon />
-```
-
-```
-<PersonIcon />
-```
-
-```
-<UserAddIcon />
 ```
 
 ```
@@ -704,7 +1420,19 @@ Live Demo on [Storybook](https://lana.github.io/b2c-mapp-ui/?path=/story/compone
 ```
 
 ```
+<UserIdIcon />
+```
+
+```
+<UserIdentityCardIcon />
+```
+
+```
 <UserInfoIcon />
+```
+
+```
+<UserLanaIcon />
 ```
 
 ```
@@ -713,6 +1441,14 @@ Live Demo on [Storybook](https://lana.github.io/b2c-mapp-ui/?path=/story/compone
 
 ```
 <UserShieldIcon />
+```
+
+```
+<VectorIcon />
+```
+
+```
+<VerifyEmailIcon />
 ```
 
 ```
@@ -740,11 +1476,15 @@ Live Demo on [Storybook](https://lana.github.io/b2c-mapp-ui/?path=/story/compone
 ```
 
 ```
-<WalletIcon />
+<VoiceUpdatedIcon />
 ```
 
 ```
-<WarningIcon />
+<WaitingSheepIcon />
+```
+
+```
+<WalletIcon />
 ```
 
 ```
@@ -752,7 +1492,19 @@ Live Demo on [Storybook](https://lana.github.io/b2c-mapp-ui/?path=/story/compone
 ```
 
 ```
+<WarningIcon />
+```
+
+```
 <WarningLineIcon />
+```
+
+```
+<WarningMicroillustration />
+```
+
+```
+<WarningSheep />
 ```
 
 ```
@@ -760,37 +1512,21 @@ Live Demo on [Storybook](https://lana.github.io/b2c-mapp-ui/?path=/story/compone
 ```
 
 ```
-<ConnectCabifyImage />
+<WelcomeImage />
 ```
 
 ```
-<MapImage />
+<WhatsappIcon />
 ```
 
 ```
-<PetRunningImage />
+<WheelBrokenIcon />
 ```
 
 ```
-<PromptLocationImage />
+<WheelIcon />
 ```
 
 ```
-<PromptPermissionsImage />
-```
-
-```
-<PromptSelfieImage />
-```
-
-```
-<SetPinImage />
-```
-
-```
-<SuccessInfoImage />
-```
-
-```
-<SuccessPhoneImage />
+<WorkInProgressIcon />
 ```
