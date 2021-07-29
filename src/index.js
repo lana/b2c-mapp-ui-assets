@@ -250,6 +250,7 @@ import PlusMicroillustration from './icons/plusMicroillustration.svg';
 import PresentIcon from './icons/present.svg';
 import ProductsIcon from './icons/products.svg';
 import PromptCashLocationImage from './icons/promptCashLocation.svg';
+import PromptIntegrationImage from './icons/promptIntegration.svg';
 import PromptLocationImage from './icons/promptLocation.svg';
 import PromptLocationWarning from './icons/promptLocationWarning.svg';
 import PromptPermissionsImage from './icons/promptPermissions.svg';
@@ -634,6 +635,7 @@ export {
   PresentIcon,
   ProductsIcon,
   PromptCashLocationImage,
+  PromptIntegrationImage,
   PromptLocationImage,
   PromptLocationWarning,
   PromptPermissionsImage,
