@@ -70,6 +70,7 @@ module.exports = {
     'vue/require-v-for-key': 'error',
     'vue/require-valid-default-prop': 'error',
     'vue/return-in-computed-property': 'error',
+    'vue/script-setup-uses-vars': 'warn',
     'vue/valid-v-bind': 'error',
     'vue/valid-v-for': 'error',
     'vue/valid-v-html': 'error',
