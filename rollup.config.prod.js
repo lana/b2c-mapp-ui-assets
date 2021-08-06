@@ -1,8 +1,8 @@
 import vue from 'rollup-plugin-vue';
 import svg from 'rollup-plugin-vue-inline-svg';
-import resolve from 'rollup-plugin-node-resolve';
-import babel from 'rollup-plugin-babel';
-import commonjs from 'rollup-plugin-commonjs';
+import { nodeResolve } from '@rollup/plugin-node-resolve';
+import { babel } from '@rollup/plugin-babel';
+import commonjs from '@rollup/plugin-commonjs';
 import { terser } from 'rollup-plugin-terser';
 import globals from 'rollup-plugin-node-globals';
 import postcss from 'rollup-plugin-postcss';
@@ -26,7 +26,7 @@ const config = {
       include: /node_modules/,
     }),
     globals(),
-    resolve({
+    nodeResolve({
       extensions: ['.js', '.vue'],
       modules: true,
       mainFields: ['module', 'browser', 'main'],
@@ -42,7 +42,8 @@ const config = {
     vue({ css: false }),
     babel({
       ...babelConfig,
-      runtimeHelpers: true,
+      babelHelpers: 'runtime',
+      exclude: '**/node_modules/**',
     }),
     terser(),
   ],
