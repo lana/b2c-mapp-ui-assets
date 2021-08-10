@@ -251,6 +251,7 @@ import PresentIcon from './icons/present.svg';
 import ProductsIcon from './icons/products.svg';
 import PromptCashLocationImage from './icons/promptCashLocation.svg';
 import PromptIntegrationImage from './icons/promptIntegration.svg';
+import PromptLocationError from './icons/promptLocationError.svg';
 import PromptLocationImage from './icons/promptLocation.svg';
 import PromptLocationWarning from './icons/promptLocationWarning.svg';
 import PromptPermissionsImage from './icons/promptPermissions.svg';
@@ -636,6 +637,7 @@ export {
   ProductsIcon,
   PromptCashLocationImage,
   PromptIntegrationImage,
+  PromptLocationError,
   PromptLocationImage,
   PromptLocationWarning,
   PromptPermissionsImage,
