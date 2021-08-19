@@ -4,7 +4,7 @@ module.exports = {
     node: true,
   },
   extends: [
-    'plugin:vue/essential',
+    'plugin:vue/vue3-essential',
     '@vue/airbnb',
   ],
   plugins: ['fp'],
@@ -17,7 +17,7 @@ module.exports = {
     window: true,
   },
   parserOptions: {
-    parser: 'babel-eslint',
+    parser: '@babel/eslint-parser',
     ecmaVersion: 2018,
     sourceType: 'module',
   },
