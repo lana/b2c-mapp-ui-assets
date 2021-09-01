@@ -6,25 +6,12 @@ import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  resolve: {
-    alias: {
-      vue: 'vue',
-    },
-  },
   plugins: [vue(), eslintPlugin(), svgLoader({ svgo: false })],
   build: {
     lib: {
       entry: path.resolve(__dirname, 'src/index.js'),
       name: 'b2cMappUiAssets',
       fileName: (format) => `index.${format}.js`,
-    },
-    rollupOptions: {
-      external: ['vue'],
-      output: {
-        globals: {
-          vue: 'Vue',
-        },
-      },
     },
   },
 });
