@@ -1,9 +1,9 @@
 <template>
-  <AnimatedSleepingSheep/>
-  <WorkInProgressIcon/>
-  <MailIllustration/>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px">
+    <div v-for="icon in icons" :key="icon" style="flex: 1; max-width: 100px ">
+      <component :is="icon"/>
+    </div>
+  </div>
 </template>
 
-<script setup>
-import { AnimatedSleepingSheep, WorkInProgressIcon, MailIllustration } from '.';
-</script>
+<script src="./App.js"/>
