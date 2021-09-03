@@ -1,12 +1,19 @@
 import { defineConfig } from 'vite';
+import { visualizer } from 'rollup-plugin-visualizer';
 import vue from '@vitejs/plugin-vue';
-import eslintPlugin from 'vite-plugin-eslint';
 import svgLoader from 'vite-svg-loader';
 import { resolve } from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [vue(), eslintPlugin(), svgLoader({ svgo: false })],
+  plugins: [
+    vue(),
+    svgLoader({ svgo: false }),
+    visualizer({
+      open: true,
+      title: 'Lana B2C µApp UI Assets Bundle Visualizer',
+    }),
+  ],
   build: {
     lib: {
       entry: resolve(__dirname, 'src/index.js'),
