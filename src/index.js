@@ -219,6 +219,7 @@ import MessageIcon from './icons/message.svg';
 import MessageLineIcon from './icons/messageLine.svg';
 import MicroappIcon from './icons/microapp.svg';
 import MicroappMicroillustration from './icons/microappMicroillustration.svg';
+import MicroTools from './icons/microTools.svg';
 import MoneyBagIcon from './icons/moneyBag.svg';
 import MoneyBagColorIcon from './icons/moneyBagColor.svg';
 import MobileIcon from './icons/mobile.svg';
@@ -604,6 +605,7 @@ export {
   MessageLineIcon,
   MicroappIcon,
   MicroappMicroillustration,
+  MicroTools,
   MobileIcon,
   MoneyBagIcon,
   MoneyBagColorIcon,
