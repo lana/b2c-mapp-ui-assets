@@ -11,7 +11,7 @@ export default defineConfig({
     lib: {
       entry: resolve(__dirname, 'src/index.js'),
       name: 'b2cMappUiAssets',
-      fileName: (format) => `index.${format}.js`,
+      fileName: (format) => `b2c-mapp-ui-assets.${format}.js`,
     },
     rollupOptions: {
       external: ['vue'],
