@@ -17,8 +17,7 @@ module.exports = {
     window: true,
   },
   parserOptions: {
-    parser: '@babel/eslint-parser',
-    ecmaVersion: 2018,
+    ecmaVersion: 2020,
     sourceType: 'module',
   },
   overrides: [
