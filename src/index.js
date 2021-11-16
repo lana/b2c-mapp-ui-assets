@@ -101,6 +101,7 @@ import ContractIcon from './icons/contract.svg';
 import CopyIcon from './icons/copy.svg';
 import CurrencyDecreaseIcon from './icons/currencyDecrease.svg';
 import CurrencyIncreaseIcon from './icons/currencyIncrease.svg';
+import DataPhoneIcon from './icons/dataPhone.svg';
 import DeleteIcon from './icons/delete.svg';
 import DeleteMinimalIcon from './icons/deleteMinimal.svg';
 import DeleteKeyIcon from './icons/deleteKey.svg';
@@ -366,6 +367,7 @@ import ViewIcon from './icons/view.svg';
 import ViewMoreIcon from './icons/viewMore.svg';
 import ViewMoreVerticalIcon from './icons/viewMoreVertical.svg';
 import ViewoffIcon from './icons/viewOff.svg';
+import VirtualCardIcon from './icons/virtualCard.svg';
 import VoiceIcon from './icons/voice.svg';
 import VoiceUpdatedIcon from './icons/voiceUpdated.svg';
 import WaitingSheepIcon from './icons/waitingSheep.svg';
@@ -487,6 +489,7 @@ export {
   CopyIcon,
   CurrencyDecreaseIcon,
   CurrencyIncreaseIcon,
+  DataPhoneIcon,
   DeleteIcon,
   DeleteKeyIcon,
   DeleteMinimalIcon,
@@ -752,6 +755,7 @@ export {
   ViewMoreIcon,
   ViewMoreVerticalIcon,
   ViewoffIcon,
+  VirtualCardIcon,
   VoiceIcon,
   VoiceUpdatedIcon,
   WaitingSheepIcon,
