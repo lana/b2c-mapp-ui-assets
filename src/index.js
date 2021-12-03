@@ -5,13 +5,14 @@ import AddBoldIcon from './icons/addBold.svg';
 import AddIcon from './icons/add.svg';
 import AddLineIcon from './icons/addLine.svg';
 import AddUserIcon from './icons/addUser.svg';
-import AnimatedSleepingSheep from './icons/animatedSleepingSheep.svg';
+import AnimatedSleepingSheep from './components/AnimatedSleepingSheep/AnimatedSleepingSheep.vue';
 import ArrowBackIcon from './icons/arrowBack.svg';
 import ArrowDownBoldIcon from './icons/arrowDownBold.svg';
 import ArrowDownLineIcon from './icons/arrowDownLine.svg';
 import ArrowUpBoldIcon from './icons/arrowUpBold.svg';
 import ArrowUpLineIcon from './icons/arrowUpLine.svg';
 import AtmIcon from './icons/atm.svg';
+import AtmCashIcon from './icons/atmCash.svg';
 import AtmMicroillustration from './icons/atmMicroillustration.svg';
 import AttachmentIcon from './icons/attachment.svg';
 import BackIcon from './icons/back.svg';
@@ -78,6 +79,7 @@ import ChevronLeftIcon from './icons/chevronLeft.svg';
 import ChevronsRightIcon from './icons/chevronsRight.svg';
 import ChevronRightIcon from './icons/chevronRight.svg';
 import ChevronUpIcon from './icons/chevronUp.svg';
+import ChileIcon from './icons/chile.svg';
 import CircleIcon from './icons/circle.svg';
 import ClearNotificationsIcon from './icons/clearNotifications.svg';
 import ClockColorIcon from './icons/clockColor.svg';
@@ -126,6 +128,7 @@ import DollarLineIcon from './icons/dollarLine.svg';
 import DownIcon from './icons/down.svg';
 import DrivingLicenseIcon from './icons/drivingLicense.svg';
 import EarnCoins from './icons/earnCoins.svg';
+import EarthIcon from './icons/earth.svg';
 import EditIcon from './icons/edit.svg';
 import EditMinimalIcon from './icons/editMinimal.svg';
 import EntertainmentIcon from './icons/entertainment.svg';
@@ -178,6 +181,7 @@ import JobIcon from './icons/job.svg';
 import KnowledgeUserInfo from './icons/knowledgeUserInfo.svg';
 import LanaAccountIcon from './icons/lanaAccount.svg';
 import LanaAccountMicroillustration from './icons/lanaAccountMicroillustration.svg';
+import LanaAccountUpgradeIcon from './icons/lanaAccountUpgrade.svg';
 import LanaAppIcon from './icons/lanaAppIcon.svg';
 import LanaCardIcon from './icons/lanaCard.svg';
 import LanaCardAtmIcon from './icons/lanaCardAtm.svg';
@@ -204,7 +208,7 @@ import LogoImage from './icons/logoImage.svg';
 import LogOutIcon from './icons/logout.svg';
 import MailColorIcon from './icons/mailColor.svg';
 import MailIcon from './icons/mail.svg';
-import MailIllustration from './icons/mailIllustration.svg';
+import MailIllustration from './components/MailIllustration/MailIllustration.vue';
 import MapImage from './icons/map.svg';
 import MedalIcon from './icons/medal.svg';
 import MedalLevel0Icon from './icons/medalLevel0.svg';
@@ -400,6 +404,7 @@ export {
   ArrowUpBoldIcon,
   ArrowUpLineIcon,
   AtmIcon,
+  AtmCashIcon,
   AtmMicroillustration,
   AttachmentIcon,
   BackIcon,
@@ -466,6 +471,7 @@ export {
   ChevronsRightIcon,
   ChevronRightIcon,
   ChevronUpIcon,
+  ChileIcon,
   CircleIcon,
   ClearNotificationsIcon,
   ClockColorIcon,
@@ -514,6 +520,7 @@ export {
   DownIcon,
   DrivingLicenseIcon,
   EarnCoins,
+  EarthIcon,
   EditIcon,
   EditMinimalIcon,
   EntertainmentIcon,
@@ -566,6 +573,7 @@ export {
   KnowledgeUserInfo,
   LanaAccountIcon,
   LanaAccountMicroillustration,
+  LanaAccountUpgradeIcon,
   LanaAppIcon,
   LanaCardIcon,
   LanaCardAtmIcon,

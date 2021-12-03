@@ -4,8 +4,8 @@ module.exports = {
     node: true,
   },
   extends: [
-    'plugin:vue/essential',
-    '@vue/airbnb',
+    'plugin:vue/vue3-essential',
+    'airbnb-base',
   ],
   plugins: ['fp'],
   ignorePatterns: [
@@ -17,8 +17,7 @@ module.exports = {
     window: true,
   },
   parserOptions: {
-    parser: 'babel-eslint',
-    ecmaVersion: 2018,
+    ecmaVersion: 2020,
     sourceType: 'module',
   },
   overrides: [

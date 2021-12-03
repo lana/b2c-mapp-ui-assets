@@ -1,0 +1,13 @@
+<svg class="icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#chile-clip0_31629_2220)">
+<path d="M0 16H32V25.2C32 26.3046 31.1046 27.2 30 27.2H2C0.895431 27.2 0 26.3046 0 25.2L0 16Z" fill="#EB4B68"/>
+<path d="M11.2 4.80005H30C31.1046 4.80005 32 5.69548 32 6.80005V16H11.2V4.80005Z" fill="white"/>
+<path d="M0 6.80005C0 5.69548 0.895431 4.80005 2 4.80005H11.2V16H0L0 6.80005Z" fill="#4758A9"/>
+<path d="M5.59999 7.19995L6.31844 9.4111H8.64338L6.76246 10.7777L7.48091 12.9888L5.59999 11.6222L3.71908 12.9888L4.43753 10.7777L2.55661 9.4111H4.88155L5.59999 7.19995Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="chile-clip0_31629_2220">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>
