@@ -8,6 +8,7 @@ import { resolve } from 'path';
 export default defineConfig({
   plugins: [vue(), eslintPlugin(), svgLoader({ svgo: false })],
   build: {
+    minify: false,
     lib: {
       entry: resolve(__dirname, 'src/index.js'),
       name: 'b2cMappUiAssets',

@@ -158,6 +158,7 @@ import FuelIcon from './icons/fuel.svg';
 import GamePadIcon from './icons/gamepad.svg';
 import GasIcon from './icons/gas.svg';
 import GemIcon from './icons/gem.svg';
+import GreenFlagIcon from './icons/greenFlag.svg';
 import GovernmentIcon from './icons/government.svg';
 import HealthIcon from './icons/health.svg';
 import HealthAffiliationIcon from './icons/healthAffiliation.svg';
@@ -217,6 +218,11 @@ import MedalLevel2Icon from './icons/medalLevel2.svg';
 import MedalLevel3Icon from './icons/medalLevel3.svg';
 import MedalLevel4Icon from './icons/medalLevel4.svg';
 import MedalLevel5Icon from './icons/medalLevel5.svg';
+import MedalLevel6Icon from './icons/medalLevel6.svg';
+import MedalLevel7Icon from './icons/medalLevel7.svg';
+import MedalLevel8Icon from './icons/medalLevel8.svg';
+import MedalLevel9Icon from './icons/medalLevel9.svg';
+import MedalLevel10Icon from './icons/medalLevel10.svg';
 import MedicBoxIcon from './icons/medicBox.svg';
 import MenuIcon from './icons/menu.svg';
 import MessageBoldIcon from './icons/messageBold.svg';
@@ -238,6 +244,7 @@ import MoreIcon from './icons/more.svg';
 import MoveMoneyIcon from './icons/moveMoney.svg';
 import NotificationsClearedIcon from './icons/notificationsCleared.svg';
 import NotificationsIcon from './icons/notifications.svg';
+import OpenedSafeIcon from './icons/openedSafe.svg';
 import PaymentsIcon from './icons/paymentsIcon.svg';
 import PayIcon from './icons/pay.svg';
 import PdfIcon from './icons/pdf.svg';
@@ -551,6 +558,7 @@ export {
   GasIcon,
   GemIcon,
   GovernmentIcon,
+  GreenFlagIcon,
   HealthIcon,
   HealthAffiliationIcon,
   HealthCardIcon,
@@ -609,6 +617,11 @@ export {
   MedalLevel3Icon,
   MedalLevel4Icon,
   MedalLevel5Icon,
+  MedalLevel6Icon,
+  MedalLevel7Icon,
+  MedalLevel8Icon,
+  MedalLevel9Icon,
+  MedalLevel10Icon,
   MedicBoxIcon,
   MenuIcon,
   MessageBoldIcon,
@@ -630,6 +643,7 @@ export {
   MoveMoneyIcon,
   NotificationsClearedIcon,
   NotificationsIcon,
+  OpenedSafeIcon,
   PaymentsIcon,
   PayIcon,
   PdfIcon,
