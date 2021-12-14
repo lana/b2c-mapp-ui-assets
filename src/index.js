@@ -6,6 +6,7 @@ import AddIcon from './icons/add.svg';
 import AddLineIcon from './icons/addLine.svg';
 import AddUserIcon from './icons/addUser.svg';
 import AnimatedSleepingSheep from './components/AnimatedSleepingSheep/AnimatedSleepingSheep.vue';
+import AntennaMicroillustration from './icons/antennaMicroillustration.svg';
 import ArrowBackIcon from './icons/arrowBack.svg';
 import ArrowDownBoldIcon from './icons/arrowDownBold.svg';
 import ArrowDownLineIcon from './icons/arrowDownLine.svg';
@@ -108,6 +109,7 @@ import DeleteIcon from './icons/delete.svg';
 import DeleteMinimalIcon from './icons/deleteMinimal.svg';
 import DeleteKeyIcon from './icons/deleteKey.svg';
 import DepositCloseIcon from './icons/depositClose.svg';
+import DepositMicroillustration from './icons/depositMicroillustration.svg';
 import DepositOpenIcon from './icons/depositOpen.svg';
 import DepositIcon from './icons/deposit.svg';
 import DescriptionAddedIcon from './icons/descriptionAdded.svg';
@@ -405,6 +407,7 @@ export {
   AddLineIcon,
   AddUserIcon,
   AnimatedSleepingSheep,
+  AntennaMicroillustration,
   ArrowBackIcon,
   ArrowDownBoldIcon,
   ArrowDownLineIcon,
@@ -507,6 +510,7 @@ export {
   DeleteKeyIcon,
   DeleteMinimalIcon,
   DepositCloseIcon,
+  DepositMicroillustration,
   DepositOpenIcon,
   DepositIcon,
   DescriptionAddedIcon,
