@@ -6,11 +6,15 @@ import { resolve } from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [vue(), eslintPlugin(), svgLoader({ svgo: false })],
+  plugins: [
+    vue(),
+    svgLoader({ svgo: false }),
+    eslintPlugin(),
+  ],
   build: {
     minify: false,
     lib: {
-      entry: resolve(__dirname, 'src/index.js'),
+      entry: resolve(__dirname, 'src/index.ts'),
       name: 'b2cMappUiAssets',
       fileName: (format) => `b2c-mapp-ui-assets.${format}.js`,
     },

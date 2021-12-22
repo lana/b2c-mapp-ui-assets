@@ -16,7 +16,7 @@ export default defineConfig({
   ],
   build: {
     lib: {
-      entry: resolve(__dirname, 'src/index.js'),
+      entry: resolve(__dirname, 'src/index.ts'),
       name: 'b2cMappUiAssets',
       fileName: (format) => `b2c-mapp-ui-assets.${format}.js`,
     },

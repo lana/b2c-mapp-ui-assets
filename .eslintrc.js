@@ -6,8 +6,9 @@ module.exports = {
   extends: [
     'plugin:vue/vue3-essential',
     'airbnb-base',
+    'plugin:@typescript-eslint/recommended',
   ],
-  plugins: ['fp'],
+  plugins: ['fp', '@typescript-eslint'],
   ignorePatterns: [
     'build/**/*',
     'dist/**/*',
@@ -16,9 +17,10 @@ module.exports = {
     document: true,
     window: true,
   },
+  parser: 'vue-eslint-parser',
   parserOptions: {
+    parser: '@typescript-eslint/parser',
     ecmaVersion: 2020,
-    sourceType: 'module',
   },
   overrides: [
     {
@@ -32,6 +34,11 @@ module.exports = {
       },
     },
   ],
+  settings: {
+    'import/resolver': {
+      typescript: {},
+    },
+  },
   rules: {
     'no-console': 1,
     'no-extra-boolean-cast': 0,

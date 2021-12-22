@@ -41,6 +41,13 @@
     />
   </svg>
 </template>
+<script lang="ts">
+import { defineComponent } from 'vue';
+
+export default defineComponent({
+  name: 'MailIllustration',
+});
+</script>
 <style scoped>
   .mail-animation {
     animation: 2s linear both mail-illustration-a0_t, 2s linear both mail-illustration-a0_d !important;
