@@ -48,6 +48,14 @@
   </svg>
 </template>
 
+<script lang="ts">
+import { defineComponent } from 'vue';
+
+export default defineComponent({
+  name: 'AnimatedSleepingSheep',
+});
+</script>
+
 <style scoped>
   .z1-animation {
     animation: 1.9s linear infinite both animated-sleeping-sheep-a0_t, 1.9s linear infinite both animated-sleeping-sheep-a0_o !important;
