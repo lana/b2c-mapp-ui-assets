@@ -181,6 +181,7 @@ import InsuranceIcon from './icons/insurance.svg?component';
 import InvestIcon from './icons/invest.svg?component';
 import InvestmentIcon from './icons/investment.svg?component';
 import JobIcon from './icons/job.svg?component';
+import KlapShopImage from './icons/klapShop.svg?component';
 import KnowledgeUserInfo from './icons/knowledgeUserInfo.svg?component';
 import LanaAccountIcon from './icons/lanaAccount.svg?component';
 import LanaAccountMicroillustration from './icons/lanaAccountMicroillustration.svg?component';
@@ -308,6 +309,7 @@ import ShareIcon from './icons/share.svg?component';
 import ShareIosIcon from './icons/shareIos.svg?component';
 import SheepIcon from './icons/sheepIcon.svg?component';
 import ShieldIcon from './icons/shield.svg?component';
+import ShopIcon from './icons/shop.svg?component';
 import ShoppingIcon from './icons/shopping.svg?component';
 import ShopMicroillustration from './icons/shopMicroillustration.svg?component';
 import ShoppingSmallIcon from './icons/shoppingSmall.svg?component';
@@ -582,6 +584,7 @@ export {
   InvestIcon,
   InvestmentIcon,
   JobIcon,
+  KlapShopImage,
   KnowledgeUserInfo,
   LanaAccountIcon,
   LanaAccountMicroillustration,
@@ -716,6 +719,7 @@ export {
   SheepSearchingIcon,
   SheepSleepIcon,
   ShieldIcon,
+  ShopIcon,
   ShopMicroillustration,
   ShoppingIcon,
   ShoppingSmallIcon,
