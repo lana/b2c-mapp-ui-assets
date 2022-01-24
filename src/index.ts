@@ -30,6 +30,7 @@ import BlueGemIcon from './icons/blueGem.svg?component';
 import BoltIcon from './icons/bolt.svg?component';
 import BoxIcon from './icons/box.svg?component';
 import BuildingIcon from './icons/building.svg?component';
+import BulbIcon from './icons/bulb.svg?component';
 import CabifyIcon from './icons/cabify.svg?component';
 import CalculatorCashIcon from './icons/calculatorCash.svg?component';
 import CalculatorColorIcon from './icons/calculatorColor.svg?component';
@@ -434,6 +435,7 @@ export {
   BoltIcon,
   BoxIcon,
   BuildingIcon,
+  BulbIcon,
   CabifyIcon,
   CalculatorCashIcon,
   CalculatorColorIcon,
