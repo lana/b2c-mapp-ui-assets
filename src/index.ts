@@ -36,6 +36,8 @@ import CalculatorCashIcon from './icons/calculatorCash.svg?component';
 import CalculatorColorIcon from './icons/calculatorColor.svg?component';
 import CalculatorIcon from './icons/calculator.svg?component';
 import CalendarIcon from './icons/calendar.svg?component';
+import CalendarAdvanceWeekIcon from './icons/calendarAdvanceWeek.svg?component';
+import CalendarAdvanceTwiceIcon from './icons/calendarAdvanceTwice.svg?component';
 import CalendarCabifyIcon from './icons/calendarCabify.svg?component';
 import CalendarCoinsIcon from './icons/calendarCoins.svg?component';
 import CalendarColorIcon from './icons/calendarColor.svg?component';
@@ -441,6 +443,8 @@ export {
   CalculatorColorIcon,
   CalculatorIcon,
   CalendarIcon,
+  CalendarAdvanceTwiceIcon,
+  CalendarAdvanceWeekIcon,
   CalendarCabifyIcon,
   CalendarCoinsIcon,
   CalendarColorIcon,

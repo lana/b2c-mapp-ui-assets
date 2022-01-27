@@ -84,6 +84,10 @@ module.exports = {
     'vue/valid-v-show': 'error',
     'vue/valid-v-model': 'error',
     'vue/attribute-hyphenation': 'error',
+    "vue/first-attribute-linebreak": ["error", {
+      "singleline": "ignore",
+      "multiline": "beside"
+    }],
     'vue/html-closing-bracket-newline': 'error',
     'vue/html-closing-bracket-spacing': ['error', {
       startTag: 'never',
@@ -96,12 +100,9 @@ module.exports = {
     }],
     'vue/html-quotes': ['error', 'double'],
     'vue/html-self-closing': 'error',
-    'vue/max-attributes-per-line': ['error', {
-      singleline: 5,
-      multiline: {
-        max: 1,
-        allowFirstLine: true,
-      },
+    "vue/max-attributes-per-line": ["error", {
+      "singleline": 5,
+      "multiline": 1
     }],
     'vue/multiline-html-element-content-newline': 'error',
     'vue/mustache-interpolation-spacing': 'error',
