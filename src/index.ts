@@ -129,6 +129,7 @@ import DocumentFilledIcon from './icons/documentFilled.svg?component';
 import DocumentMedicIcon from './icons/documentMedic.svg?component';
 import DocumentNullIcon from './icons/documentNull.svg?component';
 import DocumentOkIcon from './icons/documentOk.svg?component';
+import DocumentPendingIcon from './icons/documentPending.svg?component';
 import DollarBoldIcon from './icons/dollarBold.svg?component';
 import DollarLineIcon from './icons/dollarLine.svg?component';
 import DownIcon from './icons/down.svg?component';
@@ -537,6 +538,7 @@ export {
   DocumentMedicIcon,
   DocumentNullIcon,
   DocumentOkIcon,
+  DocumentPendingIcon,
   DollarBoldIcon,
   DollarLineIcon,
   DownIcon,
