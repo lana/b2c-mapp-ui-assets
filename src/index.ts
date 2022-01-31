@@ -295,6 +295,7 @@ import SaveMoneyIcon from './icons/saveMoney.svg?component';
 import SavingsIcon from './icons/savings.svg?component';
 import ScanIcon from './icons/scan.svg?component';
 import ScanSuccessImage from './icons/scanSuccess.svg?component';
+import ScanQrIcon from './icons/scanQr.svg?component';
 import ScanFailureImage from './icons/scanFailure.svg?component';
 import ScooterIcon from './icons/scooter.svg?component';
 import SearchIcon from './icons/search.svg?component';
@@ -704,6 +705,7 @@ export {
   SavingsIcon,
   ScanIcon,
   ScanFailureImage,
+  ScanQrIcon,
   ScanSuccessImage,
   ScooterIcon,
   SearchIcon,
