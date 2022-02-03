@@ -364,6 +364,7 @@ import TouchidIcon from './icons/touchIdAlternate.svg?component';
 import ToysIcon from './icons/toys.svg?component';
 import TransferColorIcon from './icons/transferColor.svg?component';
 import TransferIcon from './icons/transfer.svg?component';
+import TransferInIcon from './icons/transferIn.svg?component';
 import TransferMicroillustration from './icons/transferMicroillustration.svg?component';
 import TravelInsuranceIcon from './icons/travelInsurance.svg?component';
 import TvIcon from './icons/tv.svg?component';
@@ -775,6 +776,7 @@ export {
   ToysIcon,
   TransferColorIcon,
   TransferIcon,
+  TransferInIcon,
   TransferMicroillustration,
   TravelInsuranceIcon,
   TvIcon,
