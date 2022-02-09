@@ -330,6 +330,9 @@ import SheepSearchingIcon from './icons/sheepSearching.svg?component';
 import SheepSleepIcon from './icons/sheepSleep.svg?component';
 import SheepPapaJohnsIcon from './icons/sheepPapaJohns.svg?component';
 import SheepJustBurger from './icons/sheepJustBurger.svg?component';
+import SheepCabify from './icons/sheepCabify.svg?component';
+import SheepPedidosYa from './icons/sheepPedidosYa.svg?component';
+import SheepTimeJobs from './icons/sheepTimeJobs.svg?component';
 import SleepingSheepIcon from './icons/sleepingSheep.svg?component';
 import SmallCircleIcon from './icons/smallCircle.svg?component';
 import SmsIcon from './icons/sms.svg?component';
@@ -735,6 +738,9 @@ export {
   SheepSleepIcon,
   SheepPapaJohnsIcon,
   SheepJustBurger,
+  SheepCabify,
+  SheepPedidosYa,
+  SheepTimeJobs,
   ShieldIcon,
   ShopIcon,
   ShopMicroillustration,
