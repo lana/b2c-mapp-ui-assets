@@ -150,6 +150,7 @@ import FacebookIcon from './icons/facebook.svg?component';
 import FaceIdBlueIcon from './icons/faceIdBlue.svg?component';
 import FaceIdIcon from './icons/faceId.svg?component';
 import FaceScanIcon from './icons/faceScan.svg?component';
+import FailureImage from './icons/failureImage.svg?component';
 import FaqIcon from './icons/faq.svg?component';
 import FavoriteOffIcon from './icons/favoriteOff.svg?component';
 import FavoriteOnIcon from './icons/favoriteOn.svg?component';
@@ -565,6 +566,7 @@ export {
   FaceIdBlueIcon,
   FaceIdIcon,
   FaceScanIcon,
+  FailureImage,
   FaqIcon,
   FavoriteOffIcon,
   FavoriteOnIcon,
