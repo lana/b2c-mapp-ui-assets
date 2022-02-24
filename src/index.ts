@@ -239,6 +239,7 @@ import MessageIcon from './icons/message.svg?component';
 import MessageLineIcon from './icons/messageLine.svg?component';
 import MicroappIcon from './icons/microapp.svg?component';
 import MicroappMicroillustration from './icons/microappMicroillustration.svg?component';
+import MicroDepositMini from './icons/microDepositMini.svg?component';
 import MicroTools from './icons/microTools.svg?component';
 import MoneyBagIcon from './icons/moneyBag.svg?component';
 import MoneyBagColorIcon from './icons/moneyBagColor.svg?component';
@@ -655,6 +656,7 @@ export {
   MessageLineIcon,
   MicroappIcon,
   MicroappMicroillustration,
+  MicroDepositMini,
   MicroTools,
   MobileIcon,
   MoneyBagIcon,
