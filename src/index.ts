@@ -401,6 +401,7 @@ import VoiceIcon from './icons/voice.svg?component';
 import VoiceUpdatedIcon from './icons/voiceUpdated.svg?component';
 import WaitingSheepIcon from './icons/waitingSheep.svg?component';
 import WalletIcon from './icons/wallet.svg?component';
+import WalletMoneyIcon from './icons/walletMoney.svg?component';
 import WarningBoldIcon from './icons/warningBold.svg?component';
 import WarningIcon from './icons/warning.svg?component';
 import WarningLineIcon from './icons/warningLine.svg?component';
@@ -818,6 +819,7 @@ export {
   VoiceUpdatedIcon,
   WaitingSheepIcon,
   WalletIcon,
+  WalletMoneyIcon,
   WarningBoldIcon,
   WarningIcon,
   WarningLineIcon,
