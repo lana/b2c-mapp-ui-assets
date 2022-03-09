@@ -179,6 +179,7 @@ import HelpLineIcon from './icons/helpLine.svg?component';
 import HouseIcon from './icons/house.svg?component';
 import ImageIcon from './icons/image.svg?component';
 import InfoIcon from './icons/infoBold.svg?component';
+import infoBoldGrey from './icons/infoBoldGrey.svg?component';
 import InfoMicroillustration from './icons/infoMicroillustration.svg?component';
 import InfoLineIcon from './icons/infoLine.svg?component';
 import InstagramDarkIcon from './icons/instagramDarkBlue.svg?component';
@@ -597,6 +598,7 @@ export {
   HouseIcon,
   ImageIcon,
   InfoIcon,
+  infoBoldGrey,
   InfoMicroillustration,
   InfoLineIcon,
   InstagramDarkIcon,
