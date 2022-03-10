@@ -269,6 +269,7 @@ import PhoneWorkInProgressIcon from './icons/phoneWorkInProgress.svg?component';
 import PigIcon from './icons/pig.svg?component';
 import PigMoneyIcon from './icons/pigMoney.svg?component';
 import PinIcon from './icons/pin.svg?component';
+import PlugIcon from './icons/plug.svg?component';
 import PlugMicroillustration from './icons/plugMicroillustration.svg?component';
 import PlusMicroillustration from './icons/plusMicroillustration.svg?component';
 import PresentIcon from './icons/present.svg?component';
@@ -301,6 +302,7 @@ import ScanQrIcon from './icons/scanQr.svg?component';
 import ScanFailureImage from './icons/scanFailure.svg?component';
 import ScooterIcon from './icons/scooter.svg?component';
 import SearchIcon from './icons/search.svg?component';
+import SearchMicroillustration from './icons/searchMicroillustration.svg?component';
 import SearchAtmIcon from './icons/searchAtm.svg?component';
 import SecurityIcon from './icons/security.svg?component';
 import SelfieIcon from './icons/selfie.svg?component';
@@ -687,6 +689,7 @@ export {
   PigIcon,
   PigMoneyIcon,
   PinIcon,
+  PlugIcon,
   PlugMicroillustration,
   PlusMicroillustration,
   PresentIcon,
@@ -719,6 +722,7 @@ export {
   ScanSuccessImage,
   ScooterIcon,
   SearchIcon,
+  SearchMicroillustration,
   SearchAtmIcon,
   SecurityIcon,
   SelfieIcon,
