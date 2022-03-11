@@ -129,6 +129,7 @@ import DocumentFilledIcon from './icons/documentFilled.svg?component';
 import DocumentMedicIcon from './icons/documentMedic.svg?component';
 import DocumentNullIcon from './icons/documentNull.svg?component';
 import DocumentOkIcon from './icons/documentOk.svg?component';
+import DocumentOkIconShadow from './icons/documentOkShadow.svg?component';
 import DocumentPendingIcon from './icons/documentPending.svg?component';
 import DollarBoldIcon from './icons/dollarBold.svg?component';
 import DollarLineIcon from './icons/dollarLine.svg?component';
@@ -308,6 +309,7 @@ import SecurityIcon from './icons/security.svg?component';
 import SelfieIcon from './icons/selfie.svg?component';
 import SelfiePictureIcon from './icons/selfiePicture.svg?component';
 import SendIcon from './icons/send.svg?component';
+import SendIconShadow from './icons/sentShadow.svg?component';
 import ServerIcon from './icons/server.svg?component';
 import ServicesColorIcon from './icons/servicesColor.svg?component';
 import ServicesIcon from './icons/services.svg?component';
@@ -549,6 +551,7 @@ export {
   DocumentMedicIcon,
   DocumentNullIcon,
   DocumentOkIcon,
+  DocumentOkIconShadow,
   DocumentPendingIcon,
   DollarBoldIcon,
   DollarLineIcon,
@@ -728,6 +731,7 @@ export {
   SelfieIcon,
   SelfiePictureIcon,
   SendIcon,
+  SendIconShadow,
   ServerIcon,
   ServicesColorIcon,
   ServicesIcon,
