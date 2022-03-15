@@ -43,6 +43,7 @@ import CalendarCabifyIcon from './icons/calendarCabify.svg?component';
 import CalendarCoinsIcon from './icons/calendarCoins.svg?component';
 import CalendarColorIcon from './icons/calendarColor.svg?component';
 import CalendarErrorIcon from './icons/calendarError.svg?component';
+import CalendarMoneyTiltedIcon from './icons/calendarMoneyTilted.svg?component';
 import CameraIcon from './icons/camera.svg?component';
 import CameraImage from './icons/cameraImage.svg?component';
 import CameraMicroillustration from './icons/cameraMicroillustration.svg?component';
@@ -244,6 +245,7 @@ import MicroDepositMini from './icons/microDepositMini.svg?component';
 import MicroTools from './icons/microTools.svg?component';
 import MoneyBagIcon from './icons/moneyBag.svg?component';
 import MoneyBagColorIcon from './icons/moneyBagColor.svg?component';
+import MoneyBagColorTiltedIcon from './icons/moneyBagColorTilted.svg?component';
 import MobileIcon from './icons/mobile.svg?component';
 import MoneyIcon from './icons/money.svg?component';
 import MopErrorIcon from './icons/mopError.svg?component';
@@ -266,6 +268,7 @@ import PetRunningImage from './icons/petRunning.svg?component';
 import PhoneIcon from './icons/phone.svg?component';
 import PhoneCrookedIcon from './icons/phoneCrooked.svg?component';
 import PhoneMoneyIcon from './icons/phoneMoney.svg?component';
+import PhoneMoneyTiltedIcon from './icons/phoneMoneyTilted.svg?component';
 import PhoneWorkInProgressIcon from './icons/phoneWorkInProgress.svg?component';
 import PigIcon from './icons/pig.svg?component';
 import PigMoneyIcon from './icons/pigMoney.svg?component';
@@ -406,6 +409,7 @@ import VoiceUpdatedIcon from './icons/voiceUpdated.svg?component';
 import WaitingSheepIcon from './icons/waitingSheep.svg?component';
 import WalletIcon from './icons/wallet.svg?component';
 import WalletMoneyIcon from './icons/walletMoney.svg?component';
+import WalletMoneyTiltedIcon from './icons/walletMoneyTilted.svg?component';
 import WarningBoldIcon from './icons/warningBold.svg?component';
 import WarningIcon from './icons/warning.svg?component';
 import WarningLineIcon from './icons/warningLine.svg?component';
@@ -465,6 +469,7 @@ export {
   CalendarCoinsIcon,
   CalendarColorIcon,
   CalendarErrorIcon,
+  CalendarMoneyTiltedIcon,
   CameraIcon,
   CameraImage,
   CameraMicroillustration,
@@ -667,6 +672,7 @@ export {
   MobileIcon,
   MoneyBagIcon,
   MoneyBagColorIcon,
+  MoneyBagColorTiltedIcon,
   MoneyIcon,
   MopErrorIcon,
   MopIcon,
@@ -688,6 +694,7 @@ export {
   PhoneIcon,
   PhoneCrookedIcon,
   PhoneMoneyIcon,
+  PhoneMoneyTiltedIcon,
   PhoneWorkInProgressIcon,
   PigIcon,
   PigMoneyIcon,
@@ -828,6 +835,7 @@ export {
   WaitingSheepIcon,
   WalletIcon,
   WalletMoneyIcon,
+  WalletMoneyTiltedIcon,
   WarningBoldIcon,
   WarningIcon,
   WarningLineIcon,
