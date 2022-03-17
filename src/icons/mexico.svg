@@ -1,0 +1,13 @@
+<svg class="icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#mexico-clip0_42075_286817)">
+<path d="M0 6.80005C0 5.69548 0.895431 4.80005 2 4.80005H10.4V27.2001H2C0.895432 27.2001 0 26.3046 0 25.2001L0 6.80005Z" fill="#38AD5A"/>
+<path d="M10.4004 4.80005H21.6004V27.2001H10.4004V4.80005Z" fill="white"/>
+<path d="M21.5996 4.80005H29.9996C31.1042 4.80005 31.9996 5.69548 31.9996 6.80005V25.2001C31.9996 26.3046 31.1042 27.2001 29.9996 27.2001H21.5996V4.80005Z" fill="#EB4B68"/>
+<ellipse cx="16.0998" cy="16.1062" rx="2.38595" ry="2.39233" fill="#774C2B"/>
+</g>
+<defs>
+<clipPath id="mexico-clip0_42075_286817">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>

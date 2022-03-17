@@ -239,6 +239,7 @@ import MenuIcon from './icons/menu.svg?component';
 import MessageBoldIcon from './icons/messageBold.svg?component';
 import MessageIcon from './icons/message.svg?component';
 import MessageLineIcon from './icons/messageLine.svg?component';
+import MexicoIcon from './icons/mexico.svg?component';
 import MicroappIcon from './icons/microapp.svg?component';
 import MicroappMicroillustration from './icons/microappMicroillustration.svg?component';
 import MicroDepositMini from './icons/microDepositMini.svg?component';
@@ -264,6 +265,7 @@ import PdfIcon from './icons/pdf.svg?component';
 import PendingMicroillustration from './icons/pendingMicroillustration.svg?component';
 import PercentageMicroillustration from './icons/percentageMicroillustration.svg?component';
 import PersonIcon from './icons/person.svg?component';
+import PeruIcon from './icons/peru.svg?component';
 import PetRunningImage from './icons/petRunning.svg?component';
 import PhoneIcon from './icons/phone.svg?component';
 import PhoneCrookedIcon from './icons/phoneCrooked.svg?component';
@@ -421,6 +423,7 @@ import WhatsappIcon from './icons/whatsapp.svg?component';
 import WheelBrokenIcon from './icons/wheelBroken.svg?component';
 import WheelIcon from './icons/wheel.svg?component';
 import WorkInProgressIcon from './icons/workInProgress.svg?component';
+import WorldShadowIcon from './icons/worldShadow.svg?component';
 import './styles/styles.scss';
 
 export {
@@ -665,6 +668,7 @@ export {
   MessageBoldIcon,
   MessageIcon,
   MessageLineIcon,
+  MexicoIcon,
   MicroappIcon,
   MicroappMicroillustration,
   MicroDepositMini,
@@ -690,6 +694,7 @@ export {
   PendingMicroillustration,
   PercentageMicroillustration,
   PersonIcon,
+  PeruIcon,
   PetRunningImage,
   PhoneIcon,
   PhoneCrookedIcon,
@@ -847,4 +852,5 @@ export {
   WheelBrokenIcon,
   WheelIcon,
   WorkInProgressIcon,
+  WorldShadowIcon,
 };
