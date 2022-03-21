@@ -271,6 +271,9 @@ import PhoneIcon from './icons/phone.svg?component';
 import PhoneCrookedIcon from './icons/phoneCrooked.svg?component';
 import PhoneMoneyIcon from './icons/phoneMoney.svg?component';
 import PhoneMoneyTiltedIcon from './icons/phoneMoneyTilted.svg?component';
+import PhoneSmsErrorTiltedIcon from './icons/phoneSmsErrorTilted.svg?component';
+import PhoneSmsTiltedIcon from './icons/phoneSmsTilted.svg?component';
+import PhoneTiltedIcon from './icons/phoneTilted.svg?component';
 import PhoneWorkInProgressIcon from './icons/phoneWorkInProgress.svg?component';
 import PigIcon from './icons/pig.svg?component';
 import PigMoneyIcon from './icons/pigMoney.svg?component';
@@ -346,6 +349,7 @@ import SheepPedidosYa from './icons/sheepPedidosYa.svg?component';
 import SheepTimeJobs from './icons/sheepTimeJobs.svg?component';
 import SleepingSheepIcon from './icons/sleepingSheep.svg?component';
 import SmallCircleIcon from './icons/smallCircle.svg?component';
+import SmileyIcon from './icons/smiley.svg?component';
 import SmsIcon from './icons/sms.svg?component';
 import SnowFlakeIcon from './icons/snowflake.svg?component';
 import SpeakerIcon from './icons/speaker.svg?component';
@@ -700,6 +704,9 @@ export {
   PhoneCrookedIcon,
   PhoneMoneyIcon,
   PhoneMoneyTiltedIcon,
+  PhoneSmsErrorTiltedIcon,
+  PhoneSmsTiltedIcon,
+  PhoneTiltedIcon,
   PhoneWorkInProgressIcon,
   PigIcon,
   PigMoneyIcon,
@@ -775,6 +782,7 @@ export {
   SimIcon,
   SleepingSheepIcon,
   SmallCircleIcon,
+  SmileyIcon,
   SmsIcon,
   SnowFlakeIcon,
   SpeakerIcon,
