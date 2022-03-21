@@ -1,0 +1,15 @@
+<svg class="icon" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="36" cy="64" rx="28" ry="4" fill="#EBECF0"/>
+<circle cx="36" cy="36" r="28" fill="url(#smiley-paint0_linear_37114_282946)"/>
+<path d="M43.2998 46.672C41.2278 48.0564 38.7918 48.7954 36.2998 48.7954C33.8078 48.7954 31.3718 48.0564 29.2998 46.672" stroke="#19194B" stroke-width="2" stroke-linecap="round"/>
+<path opacity="0.24" d="M56.5996 42.5C56.5996 43.662 55.0316 44.6 53.0996 44.6C51.1676 44.6 49.5996 43.662 49.5996 42.5C49.5996 41.338 51.1676 40.4 53.0996 40.4C55.0316 40.4 56.5996 41.338 56.5996 42.5Z" fill="#EB4B68"/>
+<path opacity="0.24" d="M16 42.5C16 43.662 17.568 44.6 19.5 44.6C21.432 44.6 23 43.662 23 42.5C23 41.338 21.432 40.4 19.5 40.4C17.568 40.4 16 41.338 16 42.5Z" fill="#EB4B68"/>
+<circle cx="23" cy="33" r="3" fill="#19194B"/>
+<circle cx="49" cy="33" r="3" fill="#19194B"/>
+<defs>
+<linearGradient id="smiley-paint0_linear_37114_282946" x1="36" y1="4" x2="36" y2="64" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FBD677"/>
+<stop offset="1" stop-color="#FAC34B"/>
+</linearGradient>
+</defs>
+</svg>
