@@ -1,0 +1,12 @@
+<svg class="icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#brazil-clip0_42554_289545)">
+<path d="M0 6.80005C0 5.69548 0.895431 4.80005 2 4.80005L30 4.80005C31.1046 4.80005 32 5.69548 32 6.80005V25.2001C32 26.3046 31.1046 27.2001 30 27.2001H2C0.895431 27.2001 0 26.3046 0 25.2001L0 6.80005Z" fill="#4ABE6B"/>
+<path d="M15.9996 6.40015L1.59961 16.0001L15.9996 25.6001L30.3996 16.0001L15.9996 6.40015Z" fill="#FAC34B"/>
+<circle cx="16.0004" cy="16.0001" r="5.6" fill="#004281"/>
+</g>
+<defs>
+<clipPath id="brazil-clip0_42554_289545">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>
