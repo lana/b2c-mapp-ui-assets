@@ -29,6 +29,7 @@ import BlankCardImage from './icons/blankCard.svg?component';
 import BlueGemIcon from './icons/blueGem.svg?component';
 import BoltIcon from './icons/bolt.svg?component';
 import BoxIcon from './icons/box.svg?component';
+import BrazilIcon from './icons/brazil.svg?component';
 import BuildingIcon from './icons/building.svg?component';
 import BulbIcon from './icons/bulb.svg?component';
 import CabifyIcon from './icons/cabify.svg?component';
@@ -352,6 +353,7 @@ import SmallCircleIcon from './icons/smallCircle.svg?component';
 import SmileyIcon from './icons/smiley.svg?component';
 import SmsIcon from './icons/sms.svg?component';
 import SnowFlakeIcon from './icons/snowflake.svg?component';
+import SpainIcon from './icons/spain.svg?component';
 import SpeakerIcon from './icons/speaker.svg?component';
 import StarsIcon from './icons/stars.svg?component';
 import StarsMicroillustration from './icons/starsMicroillustration.svg?component';
@@ -462,6 +464,7 @@ export {
   BlueGemIcon,
   BoltIcon,
   BoxIcon,
+  BrazilIcon,
   BuildingIcon,
   BulbIcon,
   CabifyIcon,
@@ -785,6 +788,7 @@ export {
   SmileyIcon,
   SmsIcon,
   SnowFlakeIcon,
+  SpainIcon,
   SpeakerIcon,
   StarsIcon,
   StarsMicroillustration,
